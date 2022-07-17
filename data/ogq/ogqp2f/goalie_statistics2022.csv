@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+20,DUKARIC Pia,SLO,True,GK,46,3,43,93.48,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28878/1-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28878/1-slo-vs-kor
+25,DOVZAN Nusa,SLO,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28878/1-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28878/1-slo-vs-kor
+1,LEE Yejin,KOR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28878/1-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28878/1-slo-vs-kor
+25,JANG Inhye,KOR,False,GK,12,0,12,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28878/1-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28878/1-slo-vs-kor
+1,JACKSON Nicole,GBR,True,GK,10,0,10,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28879/2-gbr-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28879/2-gbr-vs-isl
+25,HOWARD Ella,GBR,True,GK,1,0,1,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28879/2-gbr-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28879/2-gbr-vs-isl
+1,BACHMANN Andrea,ISL,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28879/2-gbr-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28879/2-gbr-vs-isl
+25,HELGUDOTTIR Birta,ISL,False,GK,38,5,33,86.84,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28879/2-gbr-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28879/2-gbr-vs-isl
+1,LEE Yejin,KOR,True,GK,6,0,6,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28880/3-kor-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28880/3-kor-vs-isl
+25,JANG Inhye,KOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28880/3-kor-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28880/3-kor-vs-isl
+1,BACHMANN Andrea,ISL,False,GK,41,10,31,75.61,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28880/3-kor-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28880/3-kor-vs-isl
+25,HELGUDOTTIR Birta,ISL,False,GK,4,0,4,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28880/3-kor-vs-isl,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28880/3-kor-vs-isl
+1,JACKSON Nicole,GBR,True,GK,22,2,20,90.91,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28881/4-gbr-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28881/4-gbr-vs-slo
+25,HOWARD Ella,GBR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28881/4-gbr-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28881/4-gbr-vs-slo
+20,DUKARIC Pia,SLO,False,GK,49,1,48,97.96,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28881/4-gbr-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28881/4-gbr-vs-slo
+25,DOVZAN Nusa,SLO,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28881/4-gbr-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28881/4-gbr-vs-slo
+1,BACHMANN Andrea,ISL,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28882/5-isl-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28882/5-isl-vs-slo
+25,HELGUDOTTIR Birta,ISL,True,GK,22,5,17,77.27,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28882/5-isl-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28882/5-isl-vs-slo
+20,DUKARIC Pia,SLO,False,GK,27,2,25,92.59,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28882/5-isl-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28882/5-isl-vs-slo
+25,DOVZAN Nusa,SLO,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28882/5-isl-vs-slo,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28882/5-isl-vs-slo
+1,LEE Yejin,KOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28883/6-kor-vs-gbr,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28883/6-kor-vs-gbr
+25,JANG Inhye,KOR,True,GK,23,1,22,95.65,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28883/6-kor-vs-gbr,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28883/6-kor-vs-gbr
+1,JACKSON Nicole,GBR,False,GK,25,0,25,100.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28883/6-kor-vs-gbr,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28883/6-kor-vs-gbr
+25,HOWARD Ella,GBR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/statistics/28883/6-kor-vs-gbr,https://www.iihf.com//en/events/2022/ogqp2f/gamecenter/playbyplay/28883/6-kor-vs-gbr

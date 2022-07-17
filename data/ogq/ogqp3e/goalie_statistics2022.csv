@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+1,BALDIN Caroline,FRA,True,GK,10,0,10,100.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29957/1-fra-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29957/1-fra-vs-kor
+20,MAMERI Margaux,FRA,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29957/1-fra-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29957/1-fra-vs-kor
+1,LEE Yejin,KOR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29957/1-fra-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29957/1-fra-vs-kor
+25,JANG Inhye,KOR,False,GK,36,4,32,88.89,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29957/1-fra-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29957/1-fra-vs-kor
+1,OROLINOVA Andrea,SVK,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29958/2-svk-vs-swe,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29958/2-svk-vs-swe
+25,ZIMKOVA Nikola,SVK,True,GK,29,3,26,89.66,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29958/2-svk-vs-swe,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29958/2-svk-vs-swe
+1,GRAHN Sara,SWE,False,GK,15,0,15,100.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29958/2-svk-vs-swe,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29958/2-svk-vs-swe
+30,SODERBERG Emma,SWE,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29958/2-svk-vs-swe,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29958/2-svk-vs-swe
+1,BALDIN Caroline,FRA,True,GK,28,1,27,96.43,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29959/3-fra-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29959/3-fra-vs-svk
+20,MAMERI Margaux,FRA,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29959/3-fra-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29959/3-fra-vs-svk
+1,OROLINOVA Andrea,SVK,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29959/3-fra-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29959/3-fra-vs-svk
+25,ZIMKOVA Nikola,SVK,False,GK,23,3,20,86.96,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29959/3-fra-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29959/3-fra-vs-svk
+1,GRAHN Sara,SWE,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29960/4-swe-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29960/4-swe-vs-kor
+30,SODERBERG Emma,SWE,True,GK,5,0,5,100.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29960/4-swe-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29960/4-swe-vs-kor
+1,LEE Yejin,KOR,False,GK,7,2,5,71.43,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29960/4-swe-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29960/4-swe-vs-kor
+25,JANG Inhye,KOR,False,GK,40,13,27,67.5,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29960/4-swe-vs-kor,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29960/4-swe-vs-kor
+1,LEE Yejin,KOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29961/5-kor-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29961/5-kor-vs-svk
+25,JANG Inhye,KOR,True,GK,36,7,29,80.56,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29961/5-kor-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29961/5-kor-vs-svk
+1,OROLINOVA Andrea,SVK,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29961/5-kor-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29961/5-kor-vs-svk
+20,MEDVIDOVA Laura,SVK,False,GK,12,1,11,91.67,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29961/5-kor-vs-svk,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29961/5-kor-vs-svk
+1,GRAHN Sara,SWE,True,GK,17,2,15,88.24,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29962/6-swe-vs-fra,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29962/6-swe-vs-fra
+30,SODERBERG Emma,SWE,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29962/6-swe-vs-fra,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29962/6-swe-vs-fra
+1,BALDIN Caroline,FRA,False,GK,40,3,37,92.5,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29962/6-swe-vs-fra,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29962/6-swe-vs-fra
+20,MAMERI Margaux,FRA,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/statistics/29962/6-swe-vs-fra,https://www.iihf.com//en/events/2022/ogqp3e/gamecenter/playbyplay/29962/6-swe-vs-fra

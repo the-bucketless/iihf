@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+31,TAYLOR Danny,BLR,True,GK,19,1,18,94.74,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27513/1-blr-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27513/1-blr-vs-pol
+90,KULBAKOV Ivan,BLR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27513/1-blr-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27513/1-blr-vs-pol
+29,MURRAY John,POL,False,GK,46,0,46,100.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27513/1-blr-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27513/1-blr-vs-pol
+30,RASZKA Ondrej,POL,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27513/1-blr-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27513/1-blr-vs-pol
+29,STARKBAUM Bernhard,AUT,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27514/2-aut-vs-svk,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27514/2-aut-vs-svk
+30,KICKERT David,AUT,True,GK,32,2,30,93.75,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27514/2-aut-vs-svk,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27514/2-aut-vs-svk
+24,RYBAR Patrik,SVK,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27514/2-aut-vs-svk,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27514/2-aut-vs-svk
+42,KONRAD Branislav,SVK,False,GK,21,1,20,95.24,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27514/2-aut-vs-svk,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27514/2-aut-vs-svk
+31,TAYLOR Danny,BLR,True,GK,18,2,16,88.89,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27515/3-blr-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27515/3-blr-vs-aut
+90,KULBAKOV Ivan,BLR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27515/3-blr-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27515/3-blr-vs-aut
+29,STARKBAUM Bernhard,AUT,False,GK,20,5,15,75.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27515/3-blr-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27515/3-blr-vs-aut
+30,KICKERT David,AUT,False,GK,8,0,8,100.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27515/3-blr-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27515/3-blr-vs-aut
+24,RYBAR Patrik,SVK,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27516/4-svk-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27516/4-svk-vs-pol
+42,KONRAD Branislav,SVK,True,GK,17,1,16,94.12,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27516/4-svk-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27516/4-svk-vs-pol
+29,MURRAY John,POL,False,GK,48,5,43,89.58,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27516/4-svk-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27516/4-svk-vs-pol
+30,RASZKA Ondrej,POL,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27516/4-svk-vs-pol,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27516/4-svk-vs-pol
+29,MURRAY John,POL,True,GK,30,4,26,86.67,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27517/5-pol-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27517/5-pol-vs-aut
+30,RASZKA Ondrej,POL,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27517/5-pol-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27517/5-pol-vs-aut
+29,STARKBAUM Bernhard,AUT,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27517/5-pol-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27517/5-pol-vs-aut
+30,KICKERT David,AUT,False,GK,10,1,9,90.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27517/5-pol-vs-aut,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27517/5-pol-vs-aut
+24,RYBAR Patrik,SVK,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27518/6-svk-vs-blr,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27518/6-svk-vs-blr
+42,KONRAD Branislav,SVK,True,GK,22,1,21,95.45,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27518/6-svk-vs-blr,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27518/6-svk-vs-blr
+31,TAYLOR Danny,BLR,False,GK,38,1,37,97.37,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27518/6-svk-vs-blr,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27518/6-svk-vs-blr
+90,KULBAKOV Ivan,BLR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/statistics/27518/6-svk-vs-blr,https://www.iihf.com//en/events/2022/ogqmd/gamecenter/playbyplay/27518/6-svk-vs-blr

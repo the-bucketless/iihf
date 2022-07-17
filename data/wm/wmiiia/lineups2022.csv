@@ -1,0 +1,402 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+1.0,AL SUWAIDI Khaled,GK,0,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+25.0,AL DHAHERI Ahmed,GK,0,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+15.0,SHAPAVALAU Dzmitry,D,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+21.0,SAUKO Vitali,D,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+8.0,AL MAHROOQI Khalifa,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+13.0,USENKO Alexander,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+19.0,ZAINUTDINOV Artur,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+3.0,AL DHAHERI Mohammed,D,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+23.0,REMESS Nils,D,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+7.0,AL DHAHERI Juma,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+22.0,ZAKHARAU Maksim,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+6.0,CHUIKOV Ilia,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+12.0,AL YAFEAI Salem,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+5.0,AL HADDAD Ali,D,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+11.0,AL MAZROUEI Mubarak,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+9.0,AL SHAMSI Omar,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+24.0,AL HARMOODI Abdulla,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+2.0,AL SHAMSI Mohammed,D,4,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+4.0,ALAMERI Saif,D,4,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+17.0,ALHUMAIDI Abdulla,F,4,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+,RICH David,He. Co.,5,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+1.0,MYRADOV Rahman,GK,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+20.0,CHARYYEV Keremli,GK,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+8.0,AGANIYAZOV Amangeldi,D,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+14.0,KAKAJANOV Serdar,D,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+19.0,VAHOVSKIY Aleksandr,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+21.0,BAYMYRADOV Baymyrat,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+13.0,GURBANOV Ahmet,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+7.0,HYDYROV Dovlet,D,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+23.0,ANNASAPAROV Musa,D,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+6.0,BARKOVSKIY Pavel,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+17.0,DOVLETMYRADOV Begench,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+10.0,GELDIMYRADOV Arslan,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+4.0,AVDEYEV Nikita,D,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+12.0,KAKABAYEV Erkin,D,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+22.0,ESENOV Ovezguly,F,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+9.0,CHARYYEV Chary,F,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+16.0,AMANOV Arslan,F,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+11.0,NURYYEV Muhammetyar,D,4,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+15.0,ATEKAYEV Perhat,F,4,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+,ALLAYAROV Bayram,He. Co.,5,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29772/1-uae-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29772/1-uae-vs-tkm
+1.0,BOZACI Tolga,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+25.0,KARAGUL Muhammed,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+11.0,KABAY Haktan,D,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+16.0,AKTURK Burak,D,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+10.0,GUMUS Serkan,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+17.0,BINGOL Sait,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+8.0,KARS Omer,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+9.0,SAVAS Emrah,D,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+23.0,KARS Yusuf,D,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+24.0,BAKAL Ferhat,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+19.0,HALIL Yusuf,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+18.0,SOLAK Gokalp,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+4.0,UZUNALI Ogun,D,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+14.0,DEMIREZEN Sarp,D,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+21.0,TURAN Mehmet Ali,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+22.0,AKAY Batuhan,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+5.0,KAVAZ Sefa,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+13.0,SANCAKLI Elvir,F,4,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+15.0,ANLAR Taylan,F,4,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+7.0,SENTURK Furkan,D,4,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+,INCE Deniz,He. Co.,5,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+20.0,LEPAGE Philippe,GK,0,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+25.0,CRUCHTEN Sven,GK,0,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+19.0,ZRIKA Sami,D,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+21.0,BERAN Thierry,D,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+22.0,CANNON Michael,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+9.0,CANNON Colm,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+11.0,POTUCEK Kristian,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+18.0,BECHTOLD Philippe,D,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+12.0,VINCENS philippe,D,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+15.0,MOSR Mirko,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+10.0,WELTER Benny,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+7.0,BACKES Sacha,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+4.0,MYKKANEN Alex,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+17.0,WAMBACH Eric,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+6.0,BIVER Olivier,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+16.0,MOSSONG Claude,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+2.0,CHURCH David,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+8.0,MEDEDOVIC Dino,D,4,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+13.0,VINCENS Anthony,F,4,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+,FICAL Petr,He. Co.,5,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29773/2-tur-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29773/2-tur-vs-lux
+25.0,HE Wei-Chih,GK,0,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+1.0,LEE Yi-Cheng,GK,0,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+10.0,SHEN Yen-Lin,D,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+15.0,PAN Yi-Cheng,D,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+6.0,SHEN Yen - Chin,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+7.0,HSIAO Po-Yun,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+24.0,HSIAO Po-Yuan,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+21.0,LIN Ching,D,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+17.0,CHANG Han-Yuan,D,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+11.0,CHEN Kuan-Ting,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+12.0,CHEN Wei-Lin,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+3.0,LU Ping-En,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+4.0,SANG Chou-En,D,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+8.0,YU Sung-Yin,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+18.0,CHUANG Ho-Yun,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+16.0,MI Huan-Yu,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+23.0,LIN Jui-Yu,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+13.0,WANG Po-Hsiang,F,4,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+9.0,FAN Yi-Cheng,F,4,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+,LANG Ryan Conrad,He. Co.,5,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+1.0,AL SUWAIDI Khaled,GK,0,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+25.0,AL DHAHERI Ahmed,GK,0,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+15.0,SHAPAVALAU Dzmitry,D,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+21.0,SAUKO Vitali,D,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+8.0,AL MAHROOQI Khalifa,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+13.0,USENKO Alexander,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+19.0,ZAINUTDINOV Artur,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+3.0,AL DHAHERI Mohammed,D,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+23.0,REMESS Nils,D,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+7.0,AL DHAHERI Juma,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+22.0,ZAKHARAU Maksim,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+6.0,CHUIKOV Ilia,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+12.0,AL YAFEAI Salem,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+5.0,AL HADDAD Ali,D,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+11.0,AL MAZROUEI Mubarak,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+9.0,AL SHAMSI Omar,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+24.0,AL HARMOODI Abdulla,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+2.0,AL SHAMSI Mohammed,D,4,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+4.0,ALAMERI Saif,D,4,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+17.0,ALHUMAIDI Abdulla,F,4,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+,RICH David,He. Co.,5,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29774/3-tpe-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29774/3-tpe-vs-uae
+1.0,LEE Yi-Cheng,GK,0,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+25.0,HE Wei-Chih,GK,0,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+10.0,SHEN Yen-Lin,D,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+15.0,PAN Yi-Cheng,D,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+6.0,SHEN Yen - Chin,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+7.0,HSIAO Po-Yun,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+24.0,HSIAO Po-Yuan,F,1,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+21.0,LIN Ching,D,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+17.0,CHANG Han-Yuan,D,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+11.0,CHEN Kuan-Ting,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+12.0,CHEN Wei-Lin,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+3.0,LU Ping-En,F,2,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+4.0,SANG Chou-En,D,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+8.0,YU Sung-Yin,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+18.0,CHUANG Ho-Yun,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+16.0,MI Huan-Yu,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+23.0,LIN Jui-Yu,F,3,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+13.0,WANG Po-Hsiang,F,4,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+9.0,FAN Yi-Cheng,F,4,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+,LANG Ryan Conrad,He. Co.,5,TPE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+1.0,BOZACI Tolga,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+25.0,KARAGUL Muhammed,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+16.0,AKTURK Burak,D,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+11.0,KABAY Haktan,D,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+10.0,GUMUS Serkan,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+17.0,BINGOL Sait,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+8.0,KARS Omer,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+23.0,KARS Yusuf,D,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+9.0,SAVAS Emrah,D,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+24.0,BAKAL Ferhat,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+19.0,HALIL Yusuf,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+18.0,SOLAK Gokalp,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+4.0,UZUNALI Ogun,D,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+14.0,DEMIREZEN Sarp,D,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+21.0,TURAN Mehmet Ali,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+22.0,AKAY Batuhan,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+5.0,KAVAZ Sefa,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+13.0,SANCAKLI Elvir,F,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+15.0,ANLAR Taylan,F,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+7.0,SENTURK Furkan,D,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+,INCE Deniz,He. Co.,5,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29775/4-tpe-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29775/4-tpe-vs-tur
+1.0,MYRADOV Rahman,GK,0,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+20.0,CHARYYEV Keremli,GK,0,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+7.0,HYDYROV Dovlet,D,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+8.0,AGANIYAZOV Amangeldi,D,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+19.0,VAHOVSKIY Aleksandr,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+21.0,BAYMYRADOV Baymyrat,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+13.0,GURBANOV Ahmet,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+11.0,NURYYEV Muhammetyar,D,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+14.0,KAKAJANOV Serdar,D,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+10.0,GELDIMYRADOV Arslan,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+6.0,BARKOVSKIY Pavel,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+17.0,DOVLETMYRADOV Begench,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+12.0,KAKABAYEV Erkin,D,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+23.0,ANNASAPAROV Musa,D,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+22.0,ESENOV Ovezguly,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+16.0,AMANOV Arslan,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+9.0,CHARYYEV Chary,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+4.0,AVDEYEV Nikita,D,4,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+15.0,ATEKAYEV Perhat,F,4,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+,ALLAYAROV Bayram,He. Co.,5,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+20.0,LEPAGE Philippe,GK,0,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+25.0,CRUCHTEN Sven,GK,0,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+19.0,ZRIKA Sami,D,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+21.0,BERAN Thierry,D,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+22.0,CANNON Michael,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+9.0,CANNON Colm,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+2.0,CHURCH David,F,1,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+18.0,BECHTOLD Philippe,D,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+8.0,MEDEDOVIC Dino,D,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+15.0,MOSR Mirko,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+10.0,WELTER Benny,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+7.0,BACKES Sacha,F,2,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+4.0,MYKKANEN Alex,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+17.0,WAMBACH Eric,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+13.0,VINCENS Anthony,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+16.0,MOSSONG Claude,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+11.0,POTUCEK Kristian,F,3,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+12.0,VINCENS philippe,D,4,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+6.0,BIVER Olivier,F,4,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+,FICAL Petr,He. Co.,5,LUX,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29776/5-tkm-vs-lux,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29776/5-tkm-vs-lux
+1.0,AL SUWAIDI Khaled,GK,0,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+25.0,AL DHAHERI Ahmed,GK,0,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+15.0,SHAPAVALAU Dzmitry,D,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+21.0,SAUKO Vitali,D,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+8.0,AL MAHROOQI Khalifa,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+13.0,USENKO Alexander,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+19.0,ZAINUTDINOV Artur,F,1,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+3.0,AL DHAHERI Mohammed,D,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+23.0,REMESS Nils,D,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+6.0,CHUIKOV Ilia,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+7.0,AL DHAHERI Juma,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+22.0,ZAKHARAU Maksim,F,2,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+5.0,AL HADDAD Ali,D,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+9.0,AL SHAMSI Omar,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+17.0,ALHUMAIDI Abdulla,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+12.0,AL YAFEAI Salem,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+24.0,AL HARMOODI Abdulla,F,3,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+2.0,AL SHAMSI Mohammed,D,4,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+4.0,ALAMERI Saif,D,4,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+,RICH David,He. Co.,5,UAE,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+1.0,BOZACI Tolga,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+25.0,KARAGUL Muhammed,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+16.0,AKTURK Burak,D,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+11.0,KABAY Haktan,D,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+10.0,GUMUS Serkan,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+17.0,BINGOL Sait,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+8.0,KARS Omer,F,1,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+23.0,KARS Yusuf,D,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+9.0,SAVAS Emrah,D,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+24.0,BAKAL Ferhat,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+19.0,HALIL Yusuf,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+18.0,SOLAK Gokalp,F,2,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+4.0,UZUNALI Ogun,D,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+14.0,DEMIREZEN Sarp,D,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+21.0,TURAN Mehmet Ali,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+22.0,AKAY Batuhan,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+5.0,KAVAZ Sefa,F,3,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+13.0,SANCAKLI Elvir,F,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+15.0,ANLAR Taylan,F,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+7.0,SENTURK Furkan,D,4,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+,INCE Deniz,He. Co.,5,TUR,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29777/6-uae-vs-tur,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29777/6-uae-vs-tur
+1.0,MYRADOV Rahman,GK,0,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+20.0,CHARYYEV Keremli,GK,0,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+12.0,KAKABAYEV Erkin,D,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+8.0,AGANIYAZOV Amangeldi,D,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+19.0,VAHOVSKIY Aleksandr,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+16.0,AMANOV Arslan,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+13.0,GURBANOV Ahmet,F,1,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+11.0,NURYYEV Muhammetyar,D,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+5.0,GAYER Evald,D,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+10.0,GELDIMYRADOV Arslan,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+6.0,BARKOVSKIY Pavel,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+17.0,DOVLETMYRADOV Begench,F,2,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+7.0,HYDYROV Dovlet,D,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+23.0,ANNASAPAROV Musa,D,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+22.0,ESENOV Ovezguly,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+21.0,BAYMYRADOV Baymyrat,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+9.0,CHARYYEV Chary,F,3,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+14.0,KAKAJANOV Serdar,D,4,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+15.0,ATEKAYEV Perhat,F,4,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+,ALLAYAROV Bayram,He. Co.,5,TKM,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+1.0,LEE Yi-Cheng,GK,0,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+25.0,HE Wei-Chih,GK,0,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+10.0,SHEN Yen-Lin,D,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+15.0,PAN Yi-Cheng,D,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+6.0,SHEN Yen - Chin,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+7.0,HSIAO Po-Yun,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+24.0,HSIAO Po-Yuan,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+21.0,LIN Ching,D,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+17.0,CHANG Han-Yuan,D,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+11.0,CHEN Kuan-Ting,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+12.0,CHEN Wei-Lin,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+3.0,LU Ping-En,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+4.0,SANG Chou-En,D,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+8.0,YU Sung-Yin,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+18.0,CHUANG Ho-Yun,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+16.0,MI Huan-Yu,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+23.0,LIN Jui-Yu,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+13.0,WANG Po-Hsiang,F,4,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+9.0,FAN Yi-Cheng,F,4,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+,LANG Ryan Conrad,He. Co.,5,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29778/7-tkm-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29778/7-tkm-vs-tpe
+20.0,LEPAGE Philippe,GK,0,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+25.0,CRUCHTEN Sven,GK,0,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+18.0,BECHTOLD Philippe,D,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+3.0,GROENLUND Kevin,D,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+15.0,MOSR Mirko,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+10.0,WELTER Benny,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+7.0,BACKES Sacha,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+21.0,BERAN Thierry,D,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+19.0,ZRIKA Sami,D,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+22.0,CANNON Michael,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+9.0,CANNON Colm,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+2.0,CHURCH David,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+4.0,MYKKANEN Alex,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+8.0,MEDEDOVIC Dino,D,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+13.0,VINCENS Anthony,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+16.0,MOSSONG Claude,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+11.0,POTUCEK Kristian,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+12.0,VINCENS philippe,D,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+6.0,BIVER Olivier,F,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+17.0,WAMBACH Eric,F,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+,FICAL Petr,He. Co.,5,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+1.0,AL SUWAIDI Khaled,GK,0,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+25.0,AL DHAHERI Ahmed,GK,0,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+15.0,SHAPAVALAU Dzmitry,D,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+21.0,SAUKO Vitali,D,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+12.0,AL YAFEAI Salem,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+13.0,USENKO Alexander,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+19.0,ZAINUTDINOV Artur,F,1,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+5.0,AL HADDAD Ali,D,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+23.0,REMESS Nils,D,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+7.0,AL DHAHERI Juma,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+22.0,ZAKHARAU Maksim,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+6.0,CHUIKOV Ilia,F,2,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+2.0,AL SHAMSI Mohammed,D,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+4.0,ALAMERI Saif,D,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+24.0,AL HARMOODI Abdulla,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+17.0,ALHUMAIDI Abdulla,F,3,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+,RICH David,He. Co.,4,UAE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29779/8-lux-vs-uae,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29779/8-lux-vs-uae
+1.0,BOZACI Tolga,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+25.0,KARAGUL Muhammed,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+23.0,KARS Yusuf,D,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+9.0,SAVAS Emrah,D,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+10.0,GUMUS Serkan,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+17.0,BINGOL Sait,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+8.0,KARS Omer,F,1,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+4.0,UZUNALI Ogun,D,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+14.0,DEMIREZEN Sarp,D,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+24.0,BAKAL Ferhat,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+13.0,SANCAKLI Elvir,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+22.0,AKAY Batuhan,F,2,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+7.0,SENTURK Furkan,D,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+15.0,ANLAR Taylan,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+5.0,KAVAZ Sefa,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+21.0,TURAN Mehmet Ali,F,3,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+,INCE Deniz,He. Co.,4,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+1.0,MYRADOV Rahman,GK,5,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+20.0,CHARYYEV Keremli,GK,5,TUR,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+12.0,KAKABAYEV Erkin,D,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+8.0,AGANIYAZOV Amangeldi,D,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+19.0,VAHOVSKIY Aleksandr,F,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+16.0,AMANOV Arslan,F,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+13.0,GURBANOV Ahmet,F,0,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+11.0,NURYYEV Muhammetyar,D,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+5.0,GAYER Evald,D,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+10.0,GELDIMYRADOV Arslan,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+6.0,BARKOVSKIY Pavel,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+17.0,DOVLETMYRADOV Begench,F,1,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+7.0,HYDYROV Dovlet,D,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+23.0,ANNASAPAROV Musa,D,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+22.0,ESENOV Ovezguly,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+21.0,BAYMYRADOV Baymyrat,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+9.0,CHARYYEV Chary,F,2,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+4.0,AVDEYEV Nikita,D,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+14.0,KAKAJANOV Serdar,D,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+15.0,ATEKAYEV Perhat,F,3,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+,ALLAYAROV Bayram,He. Co.,4,TKM,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29780/9-tur-vs-tkm,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29780/9-tur-vs-tkm
+20.0,LEPAGE Philippe,GK,0,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+25.0,CRUCHTEN Sven,GK,0,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+21.0,BERAN Thierry,D,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+19.0,ZRIKA Sami,D,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+22.0,CANNON Michael,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+9.0,CANNON Colm,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+2.0,CHURCH David,F,1,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+18.0,BECHTOLD Philippe,D,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+3.0,GROENLUND Kevin,D,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+15.0,MOSR Mirko,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+10.0,WELTER Benny,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+7.0,BACKES Sacha,F,2,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+4.0,MYKKANEN Alex,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+8.0,MEDEDOVIC Dino,D,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+6.0,BIVER Olivier,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+16.0,MOSSONG Claude,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+11.0,POTUCEK Kristian,F,3,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+12.0,VINCENS philippe,D,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+13.0,VINCENS Anthony,F,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+17.0,WAMBACH Eric,F,4,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+,FICAL Petr,He. Co.,5,LUX,True,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+25.0,HE Wei-Chih,GK,0,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+1.0,LEE Yi-Cheng,GK,0,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+10.0,SHEN Yen-Lin,D,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+15.0,PAN Yi-Cheng,D,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+6.0,SHEN Yen - Chin,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+24.0,HSIAO Po-Yuan,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+13.0,WANG Po-Hsiang,F,1,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+21.0,LIN Ching,D,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+17.0,CHANG Han-Yuan,D,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+11.0,CHEN Kuan-Ting,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+7.0,HSIAO Po-Yun,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+3.0,LU Ping-En,F,2,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+4.0,SANG Chou-En,D,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+8.0,YU Sung-Yin,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+18.0,CHUANG Ho-Yun,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+16.0,MI Huan-Yu,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+23.0,LIN Jui-Yu,F,3,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+9.0,FAN Yi-Cheng,F,4,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe
+,LANG Ryan Conrad,He. Co.,5,TPE,False,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/lineup/29781/10-lux-vs-tpe,https://www.iihf.com//en/events/2022/wmiiia/gamecenter/playbyplay/29781/10-lux-vs-tpe

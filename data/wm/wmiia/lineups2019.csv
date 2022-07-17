@@ -1,0 +1,675 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+1.0,ALCAINE Ander,GK,0,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+20.0,GONZALEZ Bruno,GK,0,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+19.0,UBIETO Adrian,D,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+2.0,TORRES Alex,D,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+14.0,BURGOS Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+13.0,CARBONELL Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+21.0,RUBIO Oriol,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+22.0,BETRAN Guillermo,D,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+4.0,KORTABITARTE Rene,D,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+7.0,PANTOJA Pablo,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+23.0,FUENTES Patrick,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+17.0,GONZALEZ Gaston,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+16.0,GARCIA Alfonso,D,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+3.0,BALDRIS Bruno,D,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+9.0,ZABALLA Pablo,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+5.0,GRANELL Ignacio,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+12.0,BORONAT Oriol,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+10.0,MARTINEZ Alberto,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+6.0,VICENTE Jose Ignacio,D,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+11.0,MUNOZ Juan,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+18.0,LASUEN Imanol,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+15.0,ARRARAS Ander,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+,BASILE Luciano,He. Co.,5,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+1.0,HAN Pengfei,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+25.0,SUN Zehao,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+23.0,LIANG Wenbin,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+7.0,HU Tianyu,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+17.0,XIANG Xudong,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+21.0,YING Rudi,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+9.0,ZHANG Zesen,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+11.0,ZHANG Pengfei,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+6.0,CHEN Zimeng,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+15.0,ZHANG Hao,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+19.0,HUANG Qianyi,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+16.0,CHEN Ling,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+8.0,YANG Mingxi,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+2.0,WANG Gang,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+14.0,LI Hang,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+18.0,CHEN Lei,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+10.0,ZHANG Cheng,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+5.0,SI Hanwen,D,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+4.0,LIU Bo,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+24.0,XIA Tianxiang,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+12.0,LIU Yongshen,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+13.0,ZHANG Wenqinghuai,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+,NURMINEN Juha,He. Co.,5,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6694/1-esp-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6694/1-esp-vs-chn
+1.0,KIMLIN Anthony,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+20.0,SMART Charles,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+7.0,WOODMAN Jamie,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+4.0,Mc MAHON Michael,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+21.0,POWELL Thomas,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+16.0,ARMSTRONG Matthew,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+9.0,DARGE Wehebe,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+23.0,HASELHURST Robert,D,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+17.0,FUNES Brian,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+18.0,REZEK Josef,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+14.0,TODD Cameron,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+10.0,BACLIG Jason,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+13.0,CARPENTER Jack,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+3.0,LINDSAY Mathew,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+12.0,TAYLOR Beau,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+11.0,VIRJASSOV Vadim,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+15.0,WEBSTER Kieren,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+2.0,BOYLE Zachary,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+8.0,CLARE Tyerell,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+6.0,MALLOY Robert,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+19.0,WONG Chris,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+5.0,KUBARA Tyler,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+,VIGON Brad,He. Co.,5,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+1.0,PEETERS Wouter,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+20.0,vander WEYDE Cisse,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+24.0,PAULUS Jordan,D,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+22.0,DISTATE Michael,D,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+17.0,VERELST Sam,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+16.0,KOLODZIEJCZYK Bryan,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+11.0,van LOOY Kristof,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+14.0,NEVEN Frank,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+10.0,de SCHEPPER Toon,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+8.0,de CROOCK Oliver,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+7.0,JAMES Alec,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+5.0,DHONDT Rino,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+3.0,van ESPEN Arne,D,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+9.0,DELMARCHE Cedric,D,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+15.0,AUGER Tanguy,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+23.0,COOLEN Ben,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+4.0,KOLODZIEJCZYK Andy,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+21.0,SWENNEN Stefaan,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+18.0,BALHAN Matthias,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+6.0,TAMBEUR Lukas,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+,KOLODZIEJCZYK Mike,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6695/2-aus-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6695/2-aus-vs-bel
+25.0,RANKOVIC Arsenije,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+1.0,MITIC Jug,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+16.0,ILIC Stefan,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+13.0,LUKOVIC Aleksa,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+21.0,BRKUSANIN Marko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+7.0,SRETOVIC Marko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+18.0,LESTARIC Lazar,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+5.0,BOSKOVIC Stefan,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+9.0,CRNOGORAC Dominik,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+11.0,DJUMIC Mirko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+15.0,DRAGOVIC Marko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+19.0,KEREZOVIC Nikola,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+2.0,ANIC Ivan,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+17.0,PODUNAVAC Pavle,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+14.0,POPRAVKA Pavel,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+10.0,KASTEL Viktor,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+6.0,VUCUREVIC Nemanja,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+8.0,NOVAKOVIC Ugljesa,D,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+23.0,BARACKOV Nikola,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+24.0,SABADOS Robert,D,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+3.0,DRAGUTINOVIC Mico,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+12.0,ZWICK Andrej,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+,DANDENAULT Alexandre,He. Co.,5,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+1.0,ROSANDIC Vilim,GK,0,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+20.0,HERGESIC ADAMOVIC Leon,GK,0,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+3.0,TADIC Marko,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+4.0,SRKETIC Fran,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+5.0,KRAMARIC Luka,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+6.0,FICUR Bruno,F,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+7.0,VEDLIN Domen,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+8.0,SAKIC Marko,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+9.0,JANKOVIC Ivan,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+10.0,ZANOSKI Tomislav,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+11.0,MORRISONN Shaone,D,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+12.0,KEGALJ Bruno,D,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+13.0,MIKULIC Luka,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+14.0,CANIC Dominic Rene,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+15.0,NOVAK Mario,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+16.0,KANAET Dominik,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+17.0,PAULOVIC Sven,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+18.0,SMOLEC Jan,D,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+19.0,NOVOTNY Jan,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+21.0,MIRIC Tadija,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+22.0,JARCOV Filip,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+23.0,JARCOV Luka,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+,SACILOTTO Enio,He. Co.,5,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6696/3-srb-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6696/3-srb-vs-cro
+1.0,PEETERS Wouter,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+20.0,vander WEYDE Cisse,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+24.0,PAULUS Jordan,D,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+22.0,DISTATE Michael,D,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+17.0,VERELST Sam,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+16.0,KOLODZIEJCZYK Bryan,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+11.0,van LOOY Kristof,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+10.0,de SCHEPPER Toon,D,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+14.0,NEVEN Frank,D,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+8.0,de CROOCK Oliver,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+7.0,JAMES Alec,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+5.0,DHONDT Rino,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+9.0,DELMARCHE Cedric,D,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+3.0,van ESPEN Arne,D,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+15.0,AUGER Tanguy,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+23.0,COOLEN Ben,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+4.0,KOLODZIEJCZYK Andy,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+21.0,SWENNEN Stefaan,F,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+18.0,BALHAN Matthias,F,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+6.0,TAMBEUR Lukas,F,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+,KOLODZIEJCZYK Mike,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+1.0,ALCAINE Ander,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+20.0,GONZALEZ Bruno,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+19.0,UBIETO Adrian,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+2.0,TORRES Alex,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+14.0,BURGOS Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+13.0,CARBONELL Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+21.0,RUBIO Oriol,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+22.0,BETRAN Guillermo,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+4.0,KORTABITARTE Rene,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+17.0,GONZALEZ Gaston,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+23.0,FUENTES Patrick,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+12.0,BORONAT Oriol,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+16.0,GARCIA Alfonso,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+3.0,BALDRIS Bruno,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+11.0,MUNOZ Juan,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+18.0,LASUEN Imanol,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+15.0,ARRARAS Ander,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+10.0,MARTINEZ Alberto,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+6.0,VICENTE Jose Ignacio,D,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+7.0,PANTOJA Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+5.0,GRANELL Ignacio,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+9.0,ZABALLA Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+,BASILE Luciano,He. Co.,5,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6697/4-bel-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6697/4-bel-vs-esp
+1.0,ROSANDIC Vilim,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+20.0,HERGESIC ADAMOVIC Leon,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+11.0,MORRISONN Shaone,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+3.0,TADIC Marko,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+23.0,JARCOV Luka,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+6.0,FICUR Bruno,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+10.0,ZANOSKI Tomislav,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+7.0,VEDLIN Domen,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+4.0,SRKETIC Fran,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+13.0,MIKULIC Luka,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+15.0,NOVAK Mario,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+21.0,MIRIC Tadija,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+12.0,KEGALJ Bruno,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+18.0,SMOLEC Jan,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+16.0,KANAET Dominik,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+8.0,SAKIC Marko,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+9.0,JANKOVIC Ivan,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+5.0,KRAMARIC Luka,D,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+22.0,JARCOV Filip,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+19.0,NOVOTNY Jan,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+14.0,CANIC Dominic Rene,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+17.0,PAULOVIC Sven,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+,SACILOTTO Enio,He. Co.,5,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+25.0,SUN Zehao,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+1.0,HAN Pengfei,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+23.0,LIANG Wenbin,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+7.0,HU Tianyu,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+15.0,ZHANG Hao,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+21.0,YING Rudi,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+9.0,ZHANG Zesen,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+8.0,YANG Mingxi,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+6.0,CHEN Zimeng,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+14.0,LI Hang,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+18.0,CHEN Lei,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+10.0,ZHANG Cheng,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+11.0,ZHANG Pengfei,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+2.0,WANG Gang,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+17.0,XIANG Xudong,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+19.0,HUANG Qianyi,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+24.0,XIA Tianxiang,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+5.0,SI Hanwen,D,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+4.0,LIU Bo,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+16.0,CHEN Ling,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+12.0,LIU Yongshen,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+13.0,ZHANG Wenqinghuai,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+,NURMINEN Juha,He. Co.,5,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6698/5-cro-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6698/5-cro-vs-chn
+1.0,KIMLIN Anthony,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+20.0,SMART Charles,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+7.0,WOODMAN Jamie,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+4.0,Mc MAHON Michael,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+9.0,DARGE Wehebe,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+16.0,ARMSTRONG Matthew,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+21.0,POWELL Thomas,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+23.0,HASELHURST Robert,D,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+17.0,FUNES Brian,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+18.0,REZEK Josef,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+14.0,TODD Cameron,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+10.0,BACLIG Jason,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+13.0,CARPENTER Jack,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+3.0,LINDSAY Mathew,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+15.0,WEBSTER Kieren,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+11.0,VIRJASSOV Vadim,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+12.0,TAYLOR Beau,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+8.0,CLARE Tyerell,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+2.0,BOYLE Zachary,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+6.0,MALLOY Robert,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+19.0,WONG Chris,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+5.0,KUBARA Tyler,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+,VIGON Brad,He. Co.,5,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+25.0,RANKOVIC Arsenije,GK,0,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+1.0,MITIC Jug,GK,0,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+13.0,LUKOVIC Aleksa,D,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+16.0,ILIC Stefan,D,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+21.0,BRKUSANIN Marko,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+7.0,SRETOVIC Marko,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+18.0,LESTARIC Lazar,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+5.0,BOSKOVIC Stefan,D,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+9.0,CRNOGORAC Dominik,D,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+11.0,DJUMIC Mirko,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+15.0,DRAGOVIC Marko,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+19.0,KEREZOVIC Nikola,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+2.0,ANIC Ivan,D,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+17.0,PODUNAVAC Pavle,D,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+14.0,POPRAVKA Pavel,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+10.0,KASTEL Viktor,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+6.0,VUCUREVIC Nemanja,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+8.0,NOVAKOVIC Ugljesa,D,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+23.0,BARACKOV Nikola,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+24.0,SABADOS Robert,D,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+3.0,DRAGUTINOVIC Mico,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+12.0,ZWICK Andrej,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+,DANDENAULT Alexandre,He. Co.,5,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6699/6-aus-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6699/6-aus-vs-srb
+1.0,ROSANDIC Vilim,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+20.0,HERGESIC ADAMOVIC Leon,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+3.0,TADIC Marko,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+11.0,MORRISONN Shaone,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+10.0,ZANOSKI Tomislav,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+6.0,FICUR Bruno,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+16.0,KANAET Dominik,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+7.0,VEDLIN Domen,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+4.0,SRKETIC Fran,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+23.0,JARCOV Luka,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+9.0,JANKOVIC Ivan,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+8.0,SAKIC Marko,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+12.0,KEGALJ Bruno,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+18.0,SMOLEC Jan,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+21.0,MIRIC Tadija,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+15.0,NOVAK Mario,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+13.0,MIKULIC Luka,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+19.0,NOVOTNY Jan,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+5.0,KRAMARIC Luka,D,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+14.0,CANIC Dominic Rene,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+22.0,JARCOV Filip,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+17.0,PAULOVIC Sven,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+,SACILOTTO Enio,He. Co.,5,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+1.0,PEETERS Wouter,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+20.0,vander WEYDE Cisse,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+24.0,PAULUS Jordan,D,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+22.0,DISTATE Michael,D,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+17.0,VERELST Sam,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+16.0,KOLODZIEJCZYK Bryan,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+8.0,de CROOCK Oliver,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+14.0,NEVEN Frank,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+10.0,de SCHEPPER Toon,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+5.0,DHONDT Rino,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+7.0,JAMES Alec,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+21.0,SWENNEN Stefaan,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+11.0,van LOOY Kristof,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+9.0,DELMARCHE Cedric,D,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+4.0,KOLODZIEJCZYK Andy,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+23.0,COOLEN Ben,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+15.0,AUGER Tanguy,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+3.0,van ESPEN Arne,D,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+6.0,TAMBEUR Lukas,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+18.0,BALHAN Matthias,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+,KOLODZIEJCZYK Mike,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6700/7-cro-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6700/7-cro-vs-bel
+1.0,KIMLIN Anthony,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+20.0,SMART Charles,GK,0,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+7.0,WOODMAN Jamie,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+4.0,Mc MAHON Michael,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+9.0,DARGE Wehebe,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+6.0,MALLOY Robert,D,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+21.0,POWELL Thomas,F,1,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+17.0,FUNES Brian,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+23.0,HASELHURST Robert,D,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+18.0,REZEK Josef,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+14.0,TODD Cameron,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+10.0,BACLIG Jason,F,2,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+13.0,CARPENTER Jack,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+3.0,LINDSAY Mathew,D,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+12.0,TAYLOR Beau,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+11.0,VIRJASSOV Vadim,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+15.0,WEBSTER Kieren,F,3,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+2.0,BOYLE Zachary,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+8.0,CLARE Tyerell,D,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+5.0,KUBARA Tyler,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+19.0,WONG Chris,F,4,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+,VIGON Brad,He. Co.,5,AUS,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+1.0,ALCAINE Ander,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+20.0,GONZALEZ Bruno,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+19.0,UBIETO Adrian,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+2.0,TORRES Alex,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+14.0,BURGOS Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+13.0,CARBONELL Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+21.0,RUBIO Oriol,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+22.0,BETRAN Guillermo,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+4.0,KORTABITARTE Rene,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+17.0,GONZALEZ Gaston,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+23.0,FUENTES Patrick,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+12.0,BORONAT Oriol,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+16.0,GARCIA Alfonso,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+3.0,BALDRIS Bruno,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+11.0,MUNOZ Juan,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+18.0,LASUEN Imanol,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+15.0,ARRARAS Ander,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+6.0,VICENTE Jose Ignacio,D,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+7.0,PANTOJA Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+10.0,MARTINEZ Alberto,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+5.0,GRANELL Ignacio,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+9.0,ZABALLA Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+,BASILE Luciano,He. Co.,5,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6701/8-aus-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6701/8-aus-vs-esp
+25.0,RANKOVIC Arsenije,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+1.0,MITIC Jug,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+5.0,BOSKOVIC Stefan,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+16.0,ILIC Stefan,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+11.0,DJUMIC Mirko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+15.0,DRAGOVIC Marko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+19.0,KEREZOVIC Nikola,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+17.0,PODUNAVAC Pavle,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+2.0,ANIC Ivan,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+21.0,BRKUSANIN Marko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+7.0,SRETOVIC Marko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+24.0,SABADOS Robert,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+13.0,LUKOVIC Aleksa,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+9.0,CRNOGORAC Dominik,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+14.0,POPRAVKA Pavel,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+10.0,KASTEL Viktor,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+6.0,VUCUREVIC Nemanja,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+8.0,NOVAKOVIC Ugljesa,D,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+23.0,BARACKOV Nikola,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+12.0,ZWICK Andrej,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+3.0,DRAGUTINOVIC Mico,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+18.0,LESTARIC Lazar,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+,DANDENAULT Alexandre,He. Co.,5,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+1.0,HAN Pengfei,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+25.0,SUN Zehao,GK,0,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+8.0,YANG Mingxi,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+6.0,CHEN Zimeng,D,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+14.0,LI Hang,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+18.0,CHEN Lei,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+10.0,ZHANG Cheng,F,1,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+23.0,LIANG Wenbin,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+7.0,HU Tianyu,D,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+15.0,ZHANG Hao,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+21.0,YING Rudi,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+9.0,ZHANG Zesen,F,2,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+11.0,ZHANG Pengfei,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+5.0,SI Hanwen,D,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+17.0,XIANG Xudong,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+19.0,HUANG Qianyi,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+24.0,XIA Tianxiang,F,3,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+12.0,LIU Yongshen,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+2.0,WANG Gang,D,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+4.0,LIU Bo,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+16.0,CHEN Ling,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+13.0,ZHANG Wenqinghuai,F,4,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+,NURMINEN Juha,He. Co.,5,CHN,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6702/9-srb-vs-chn,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6702/9-srb-vs-chn
+25.0,SUN Zehao,GK,0,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+1.0,HAN Pengfei,GK,0,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+23.0,LIANG Wenbin,D,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+7.0,HU Tianyu,D,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+13.0,ZHANG Wenqinghuai,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+19.0,HUANG Qianyi,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+9.0,ZHANG Zesen,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+8.0,YANG Mingxi,D,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+6.0,CHEN Zimeng,D,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+14.0,LI Hang,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+18.0,CHEN Lei,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+10.0,ZHANG Cheng,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+5.0,SI Hanwen,D,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+2.0,WANG Gang,D,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+15.0,ZHANG Hao,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+21.0,YING Rudi,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+17.0,XIANG Xudong,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+4.0,LIU Bo,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+16.0,CHEN Ling,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+12.0,LIU Yongshen,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+24.0,XIA Tianxiang,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+,NURMINEN Juha,He. Co.,5,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+1.0,KIMLIN Anthony,GK,0,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+20.0,SMART Charles,GK,0,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+7.0,WOODMAN Jamie,D,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+4.0,Mc MAHON Michael,D,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+9.0,DARGE Wehebe,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+16.0,ARMSTRONG Matthew,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+21.0,POWELL Thomas,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+17.0,FUNES Brian,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+23.0,HASELHURST Robert,D,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+18.0,REZEK Josef,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+14.0,TODD Cameron,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+10.0,BACLIG Jason,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+13.0,CARPENTER Jack,D,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+3.0,LINDSAY Mathew,D,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+12.0,TAYLOR Beau,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+11.0,VIRJASSOV Vadim,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+15.0,WEBSTER Kieren,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+2.0,BOYLE Zachary,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+8.0,CLARE Tyerell,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+5.0,KUBARA Tyler,F,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+19.0,WONG Chris,F,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+6.0,MALLOY Robert,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+,VIGON Brad,He. Co.,5,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6703/10-chn-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6703/10-chn-vs-aus
+1.0,ALCAINE Ander,GK,0,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+20.0,GONZALEZ Bruno,GK,0,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+19.0,UBIETO Adrian,D,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+2.0,TORRES Alex,D,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+14.0,BURGOS Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+13.0,CARBONELL Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+21.0,RUBIO Oriol,F,1,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+3.0,BALDRIS Bruno,D,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+16.0,GARCIA Alfonso,D,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+17.0,GONZALEZ Gaston,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+23.0,FUENTES Patrick,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+11.0,MUNOZ Juan,F,2,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+22.0,BETRAN Guillermo,D,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+4.0,KORTABITARTE Rene,D,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+9.0,ZABALLA Pablo,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+5.0,GRANELL Ignacio,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+12.0,BORONAT Oriol,F,3,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+7.0,PANTOJA Pablo,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+6.0,VICENTE Jose Ignacio,D,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+10.0,MARTINEZ Alberto,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+18.0,LASUEN Imanol,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+15.0,ARRARAS Ander,F,4,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+,BASILE Luciano,He. Co.,5,ESP,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+1.0,ROSANDIC Vilim,GK,0,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+20.0,HERGESIC ADAMOVIC Leon,GK,0,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+7.0,VEDLIN Domen,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+4.0,SRKETIC Fran,D,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+9.0,JANKOVIC Ivan,F,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+8.0,SAKIC Marko,F,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+16.0,KANAET Dominik,F,1,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+11.0,MORRISONN Shaone,D,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+3.0,TADIC Marko,D,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+10.0,ZANOSKI Tomislav,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+6.0,FICUR Bruno,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+23.0,JARCOV Luka,F,2,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+18.0,SMOLEC Jan,D,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+12.0,KEGALJ Bruno,D,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+21.0,MIRIC Tadija,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+14.0,CANIC Dominic Rene,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+13.0,MIKULIC Luka,F,3,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+5.0,KRAMARIC Luka,D,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+22.0,JARCOV Filip,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+19.0,NOVOTNY Jan,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+17.0,PAULOVIC Sven,F,4,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+,SACILOTTO Enio,He. Co.,5,CRO,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6704/11-esp-vs-cro,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6704/11-esp-vs-cro
+1.0,PEETERS Wouter,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+20.0,vander WEYDE Cisse,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+24.0,PAULUS Jordan,D,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+22.0,DISTATE Michael,D,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+17.0,VERELST Sam,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+16.0,KOLODZIEJCZYK Bryan,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+23.0,COOLEN Ben,F,1,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+14.0,NEVEN Frank,D,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+10.0,de SCHEPPER Toon,D,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+21.0,SWENNEN Stefaan,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+8.0,de CROOCK Oliver,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+4.0,KOLODZIEJCZYK Andy,F,2,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+11.0,van LOOY Kristof,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+9.0,DELMARCHE Cedric,D,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+15.0,AUGER Tanguy,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+7.0,JAMES Alec,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+5.0,DHONDT Rino,F,3,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+3.0,van ESPEN Arne,D,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+18.0,BALHAN Matthias,F,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+6.0,TAMBEUR Lukas,F,4,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+,KOLODZIEJCZYK Mike,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+25.0,RANKOVIC Arsenije,GK,0,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+1.0,MITIC Jug,GK,0,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+8.0,NOVAKOVIC Ugljesa,D,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+16.0,ILIC Stefan,D,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+11.0,DJUMIC Mirko,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+15.0,DRAGOVIC Marko,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+19.0,KEREZOVIC Nikola,F,1,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+5.0,BOSKOVIC Stefan,D,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+9.0,CRNOGORAC Dominik,D,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+21.0,BRKUSANIN Marko,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+7.0,SRETOVIC Marko,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+14.0,POPRAVKA Pavel,F,2,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+17.0,PODUNAVAC Pavle,D,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+2.0,ANIC Ivan,D,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+18.0,LESTARIC Lazar,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+10.0,KASTEL Viktor,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+6.0,VUCUREVIC Nemanja,F,3,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+13.0,LUKOVIC Aleksa,D,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+23.0,BARACKOV Nikola,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+12.0,ZWICK Andrej,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+3.0,DRAGUTINOVIC Mico,F,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+24.0,SABADOS Robert,D,4,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+,DANDENAULT Alexandre,He. Co.,5,SRB,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6705/12-bel-vs-srb,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6705/12-bel-vs-srb
+1.0,ROSANDIC Vilim,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+20.0,HERGESIC ADAMOVIC Leon,GK,0,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+7.0,VEDLIN Domen,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+3.0,TADIC Marko,D,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+10.0,ZANOSKI Tomislav,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+6.0,FICUR Bruno,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+16.0,KANAET Dominik,F,1,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+4.0,SRKETIC Fran,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+11.0,MORRISONN Shaone,D,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+23.0,JARCOV Luka,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+9.0,JANKOVIC Ivan,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+8.0,SAKIC Marko,F,2,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+12.0,KEGALJ Bruno,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+18.0,SMOLEC Jan,D,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+21.0,MIRIC Tadija,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+15.0,NOVAK Mario,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+13.0,MIKULIC Luka,F,3,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+5.0,KRAMARIC Luka,D,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+19.0,NOVOTNY Jan,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+14.0,CANIC Dominic Rene,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+22.0,JARCOV Filip,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+17.0,PAULOVIC Sven,F,4,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+,SACILOTTO Enio,He. Co.,5,CRO,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+1.0,KIMLIN Anthony,GK,0,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+20.0,SMART Charles,GK,0,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+4.0,Mc MAHON Michael,D,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+7.0,WOODMAN Jamie,D,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+9.0,DARGE Wehebe,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+16.0,ARMSTRONG Matthew,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+21.0,POWELL Thomas,F,1,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+17.0,FUNES Brian,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+23.0,HASELHURST Robert,D,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+18.0,REZEK Josef,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+14.0,TODD Cameron,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+10.0,BACLIG Jason,F,2,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+3.0,LINDSAY Mathew,D,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+13.0,CARPENTER Jack,D,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+12.0,TAYLOR Beau,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+11.0,VIRJASSOV Vadim,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+15.0,WEBSTER Kieren,F,3,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+2.0,BOYLE Zachary,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+8.0,CLARE Tyerell,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+5.0,KUBARA Tyler,F,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+19.0,WONG Chris,F,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+6.0,MALLOY Robert,D,4,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+,VIGON Brad,He. Co.,5,AUS,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6706/13-cro-vs-aus,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6706/13-cro-vs-aus
+25.0,SUN Zehao,GK,0,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+1.0,HAN Pengfei,GK,0,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+8.0,YANG Mingxi,D,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+6.0,CHEN Zimeng,D,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+14.0,LI Hang,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+18.0,CHEN Lei,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+10.0,ZHANG Cheng,F,1,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+23.0,LIANG Wenbin,D,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+7.0,HU Tianyu,D,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+24.0,XIA Tianxiang,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+19.0,HUANG Qianyi,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+9.0,ZHANG Zesen,F,2,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+11.0,ZHANG Pengfei,D,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+2.0,WANG Gang,D,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+15.0,ZHANG Hao,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+21.0,YING Rudi,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+17.0,XIANG Xudong,F,3,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+12.0,LIU Yongshen,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+16.0,CHEN Ling,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+13.0,ZHANG Wenqinghuai,F,4,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+,NURMINEN Juha,He. Co.,5,CHN,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+1.0,PEETERS Wouter,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+20.0,vander WEYDE Cisse,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+11.0,van LOOY Kristof,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+22.0,DISTATE Michael,D,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+17.0,VERELST Sam,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+16.0,KOLODZIEJCZYK Bryan,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+23.0,COOLEN Ben,F,1,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+10.0,de SCHEPPER Toon,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+14.0,NEVEN Frank,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+24.0,PAULUS Jordan,D,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+8.0,de CROOCK Oliver,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+4.0,KOLODZIEJCZYK Andy,F,2,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+3.0,van ESPEN Arne,D,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+9.0,DELMARCHE Cedric,D,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+15.0,AUGER Tanguy,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+7.0,JAMES Alec,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+5.0,DHONDT Rino,F,3,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+21.0,SWENNEN Stefaan,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+18.0,BALHAN Matthias,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+6.0,TAMBEUR Lukas,F,4,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+,KOLODZIEJCZYK Mike,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6707/14-chn-vs-bel,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6707/14-chn-vs-bel
+25.0,RANKOVIC Arsenije,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+1.0,MITIC Jug,GK,0,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+5.0,BOSKOVIC Stefan,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+9.0,CRNOGORAC Dominik,D,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+21.0,BRKUSANIN Marko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+7.0,SRETOVIC Marko,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+6.0,VUCUREVIC Nemanja,F,1,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+13.0,LUKOVIC Aleksa,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+16.0,ILIC Stefan,D,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+11.0,DJUMIC Mirko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+15.0,DRAGOVIC Marko,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+19.0,KEREZOVIC Nikola,F,2,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+17.0,PODUNAVAC Pavle,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+2.0,ANIC Ivan,D,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+14.0,POPRAVKA Pavel,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+10.0,KASTEL Viktor,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+18.0,LESTARIC Lazar,F,3,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+8.0,NOVAKOVIC Ugljesa,D,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+23.0,BARACKOV Nikola,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+12.0,ZWICK Andrej,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+3.0,DRAGUTINOVIC Mico,F,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+24.0,SABADOS Robert,D,4,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+,DANDENAULT Alexandre,He. Co.,5,SRB,True,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+1.0,ALCAINE Ander,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+20.0,GONZALEZ Bruno,GK,0,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+19.0,UBIETO Adrian,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+2.0,TORRES Alex,D,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+14.0,BURGOS Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+13.0,CARBONELL Alejandro,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+21.0,RUBIO Oriol,F,1,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+22.0,BETRAN Guillermo,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+4.0,KORTABITARTE Rene,D,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+17.0,GONZALEZ Gaston,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+23.0,FUENTES Patrick,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+11.0,MUNOZ Juan,F,2,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+16.0,GARCIA Alfonso,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+6.0,VICENTE Jose Ignacio,D,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+9.0,ZABALLA Pablo,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+5.0,GRANELL Ignacio,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+12.0,BORONAT Oriol,F,3,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+7.0,PANTOJA Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+10.0,MARTINEZ Alberto,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+18.0,LASUEN Imanol,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+15.0,ARRARAS Ander,F,4,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp
+,BASILE Luciano,He. Co.,5,ESP,False,https://www.iihf.com//en/events/2019/wmiia/gamecenter/lineup/6708/15-srb-vs-esp,https://www.iihf.com//en/events/2019/wmiia/gamecenter/playbyplay/6708/15-srb-vs-esp

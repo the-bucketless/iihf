@@ -1,0 +1,257 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+20.0,GARCIA del VALLE Gerardo,GK,0,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+25.0,RIVERA Paulo,GK,0,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+14.0,COSIO Joaquin,D,1,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+15.0,UGARTE Fernando,D,1,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+17.0,GARCIA Arturo,F,1,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+13.0,SIERRA Santiago,F,1,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+18.0,PEREZ Jorge,F,1,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+22.0,BONILLA Raul,D,2,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+11.0,HAGERMAN Gonzalo,D,2,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+21.0,ROJAS Juan,F,2,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+6.0,RAMOS Carlos,F,2,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+4.0,DUNN Benjamin,F,2,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+10.0,MENDEZ Christopher,D,3,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+16.0,GARCIA Alvaro,F,3,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+23.0,GARZA Edgar,F,3,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+9.0,BOLANOS Augusto,F,3,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+8.0,GARCIA Jesus,F,3,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+,de la GARMA Diego,He. Co.,4,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+1.0,MEIERDRES Frederik,GK,5,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+30.0,OOSTERWIJK Martijn,GK,5,MEX,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+2.0,LOGINOV Alexei,D,0,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+16.0,van GORP Kilian,D,0,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+10.0,van der SCHUIT Raymond,F,0,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+24.0,BASTINGS Mickey,F,0,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+15.0,NORDEMANN Jasper,F,0,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+14.0,van OORSCHOT Jordy,D,1,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+13.0,VERKIEL Jordy,D,1,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+9.0,BISON Bartek,F,1,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+22.0,STEMPHER Danny,F,1,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+26.0,de BONTH Jonne,D,1,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+6.0,KLEM Ernesto,D,2,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+20.0,HOEKSTRA Mark,D,2,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+11.0,VERSCHUREN Nick,F,2,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+3.0,OOSTERVELD Joey,F,2,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+17.0,SMIT Jord,F,2,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+25.0,KNOOP Stijn,D,3,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+27.0,van GESTEL Boet,D,3,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+19.0,TURPIJN Joy,F,3,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+12.0,BORGMAN Thomas,F,3,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+8.0,den EDEL Lars,F,3,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+,SUBR Bo,He. Co.,4,NED,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15074/1-mex-vs-ned,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15074/1-mex-vs-ned
+1.0,ALCAINE Ander,GK,0,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+25.0,BARBO Raul,GK,0,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+3.0,BALDRIS Bruno,D,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+19.0,UBIETO Adrian,D,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+22.0,BURGOS Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+13.0,CARBONELL Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+21.0,RUBIO Oriol,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+16.0,GARCIA Alfonso,D,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+9.0,BRABO Juan,D,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+5.0,GRANELL Nacho,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+23.0,FUENTES Patrick,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+12.0,BORONAT Oriol,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+8.0,PAUL Marc,D,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+2.0,ZABALLA Pablo,D,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+10.0,MARTINEZ Alberto,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+24.0,DONATH Dorian,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+14.0,RUBIO Oscar,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+7.0,GARCIA-ZARANDIETA Pablo,D,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+15.0,FERNANDEZ-POLA Angel,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+18.0,LASUEN Imanol,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+6.0,HERNANDEZ Luis Jose,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+,BASILE Luciano,He. Co.,5,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+25.0,LIAO Yu-Cheng,GK,6,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+1.0,HE Wei-Chih,GK,6,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+15.0,PAN Yi-Cheng,D,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+4.0,SANG Chou-En,F,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+19.0,LIN Hung-Ju,F,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+22.0,YANG Chang-Hsing,F,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+3.0,LU Ping-En,F,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+11.0,TANG Yi-Cheng,D,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+18.0,CHANG Wei-Ting,D,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+24.0,HSIAO Po-Yuan,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+7.0,HSIAO Po-Yun,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+6.0,SHEN Yen-Chin,D,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+8.0,YU Sung-Yin,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+14.0,YU Shao-Yang,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+12.0,YIN Wei-Lun,D,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+13.0,HUANG Po-Jui,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+17.0,YEN Da-Wei,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+9.0,CHUANG Ho-Yun,D,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+21.0,CHEN Wei-Lin,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+16.0,LIN Kuan-Hung,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+23.0,PAO Yi,D,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+10.0,SUN Cheng-Yu,F,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+,LANG Ryan Conrad,He. Co.,5,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15075/2-esp-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15075/2-esp-vs-tpe
+30.0,OOSTERWIJK Martijn,GK,0,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+1.0,MEIERDRES Frederik,GK,0,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+16.0,van GORP Kilian,D,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+27.0,van GESTEL Boet,D,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+26.0,de BONTH Jonne,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+24.0,BASTINGS Mickey,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+17.0,SMIT Jord,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+2.0,LOGINOV Alexei,D,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+6.0,KLEM Ernesto,D,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+9.0,BISON Bartek,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+22.0,STEMPHER Danny,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+10.0,van der SCHUIT Raymond,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+14.0,van OORSCHOT Jordy,D,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+13.0,VERKIEL Jordy,D,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+19.0,TURPIJN Joy,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+3.0,OOSTERVELD Joey,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+11.0,VERSCHUREN Nick,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+25.0,KNOOP Stijn,D,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+20.0,HOEKSTRA Mark,D,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+12.0,BORGMAN Thomas,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+15.0,NORDEMANN Jasper,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+8.0,den EDEL Lars,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+,SUBR Bo,He. Co.,5,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+1.0,HE Wei-Chih,GK,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+25.0,LIAO Yu-Cheng,GK,0,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+4.0,SANG Chou-En,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+15.0,PAN Yi-Cheng,D,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+19.0,LIN Hung-Ju,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+22.0,YANG Chang-Hsing,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+21.0,CHEN Wei-Lin,F,1,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+18.0,CHANG Wei-Ting,D,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+11.0,TANG Yi-Cheng,D,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+24.0,HSIAO Po-Yuan,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+7.0,HSIAO Po-Yun,F,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+6.0,SHEN Yen-Chin,D,2,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+14.0,YU Shao-Yang,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+8.0,YU Sung-Yin,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+17.0,YEN Da-Wei,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+13.0,HUANG Po-Jui,F,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+12.0,YIN Wei-Lun,D,3,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+9.0,CHUANG Ho-Yun,D,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+3.0,LU Ping-En,F,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+10.0,SUN Cheng-Yu,F,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+16.0,LIN Kuan-Hung,F,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+23.0,PAO Yi,D,4,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+,LANG Ryan Conrad,He. Co.,5,TPE,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15076/3-ned-vs-tpe,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15076/3-ned-vs-tpe
+25.0,BARBO Raul,GK,0,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+20.0,GARCIA Ignacio,GK,0,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+8.0,PAUL Marc,D,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+3.0,BALDRIS Bruno,D,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+22.0,BURGOS Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+13.0,CARBONELL Alejandro,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+21.0,RUBIO Oriol,F,1,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+16.0,GARCIA Alfonso,D,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+9.0,BRABO Juan,D,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+24.0,DONATH Dorian,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+23.0,FUENTES Patrick,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+12.0,BORONAT Oriol,F,2,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+2.0,ZABALLA Pablo,D,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+7.0,GARCIA-ZARANDIETA Pablo,D,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+5.0,GRANELL Nacho,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+18.0,LASUEN Imanol,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+6.0,HERNANDEZ Luis Jose,F,3,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+10.0,MARTINEZ Alberto,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+15.0,FERNANDEZ-POLA Angel,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+14.0,RUBIO Oscar,F,4,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+,BASILE Luciano,He. Co.,5,ESP,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+20.0,GARCIA del VALLE Gerardo,GK,0,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+25.0,RIVERA Paulo,GK,0,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+15.0,UGARTE Fernando,D,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+14.0,COSIO Joaquin,D,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+4.0,DUNN Benjamin,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+6.0,RAMOS Carlos,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+21.0,ROJAS Juan,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+16.0,GARCIA Alvaro,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+22.0,BONILLA Raul,D,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+18.0,PEREZ Jorge,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+13.0,SIERRA Santiago,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+17.0,GARCIA Arturo,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+10.0,MENDEZ Christopher,D,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+8.0,GARCIA Jesus,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+9.0,BOLANOS Augusto,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+23.0,GARZA Edgar,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+,de la GARMA Diego,He. Co.,4,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15077/4-esp-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15077/4-esp-vs-mex
+25.0,LIAO Yu-Cheng,GK,0,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+1.0,HE Wei-Chih,GK,0,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+4.0,SANG Chou-En,F,1,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+15.0,PAN Yi-Cheng,D,1,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+19.0,LIN Hung-Ju,F,1,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+22.0,YANG Chang-Hsing,F,1,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+21.0,CHEN Wei-Lin,F,1,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+11.0,TANG Yi-Cheng,D,2,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+18.0,CHANG Wei-Ting,D,2,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+6.0,SHEN Yen-Chin,D,2,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+7.0,HSIAO Po-Yun,F,2,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+24.0,HSIAO Po-Yuan,F,2,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+9.0,CHUANG Ho-Yun,D,3,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+8.0,YU Sung-Yin,F,3,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+12.0,YIN Wei-Lun,D,3,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+13.0,HUANG Po-Jui,F,3,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+17.0,YEN Da-Wei,F,3,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+3.0,LU Ping-En,F,4,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+14.0,YU Shao-Yang,F,4,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+10.0,SUN Cheng-Yu,F,4,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+16.0,LIN Kuan-Hung,F,4,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+23.0,PAO Yi,D,4,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+,LANG Ryan Conrad,He. Co.,5,TPE,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+20.0,GARCIA del VALLE Gerardo,GK,0,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+25.0,RIVERA Paulo,GK,0,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+14.0,COSIO Joaquin,D,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+15.0,UGARTE Fernando,D,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+18.0,PEREZ Jorge,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+13.0,SIERRA Santiago,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+17.0,GARCIA Arturo,F,1,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+22.0,BONILLA Raul,D,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+16.0,GARCIA Alvaro,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+4.0,DUNN Benjamin,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+6.0,RAMOS Carlos,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+21.0,ROJAS Juan,F,2,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+10.0,MENDEZ Christopher,D,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+8.0,GARCIA Jesus,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+9.0,BOLANOS Augusto,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+23.0,GARZA Edgar,F,3,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+,de la GARMA Diego,He. Co.,4,MEX,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15078/5-tpe-vs-mex,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15078/5-tpe-vs-mex
+1.0,MEIERDRES Frederik,GK,0,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+30.0,OOSTERWIJK Martijn,GK,0,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+6.0,KLEM Ernesto,D,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+27.0,van GESTEL Boet,D,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+26.0,de BONTH Jonne,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+24.0,BASTINGS Mickey,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+10.0,van der SCHUIT Raymond,F,1,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+16.0,van GORP Kilian,D,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+5.0,VOGELAAR Giovanni,D,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+9.0,BISON Bartek,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+22.0,STEMPHER Danny,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+7.0,de HONDT Reno,F,2,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+25.0,HESSELS Ninho,D,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+13.0,VERKIEL Jordy,D,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+19.0,TURPIJN Joy,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+3.0,OOSTERVELD Joey,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+11.0,VERSCHUREN Nick,F,3,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+28.0,EVERS Justin,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+21.0,ZWARTBOL Luke,D,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+8.0,den EDEL Lars,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+12.0,BORGMAN Thomas,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+17.0,SMIT Jord,F,4,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+,SUBR Bo,He. Co.,5,NED,True,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+1.0,ALCAINE Ander,GK,0,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+20.0,ROS David,GK,0,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+3.0,BALDRIS Bruno,D,1,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+19.0,UBIETO Adrian,D,1,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+4.0,GONZALEZ Gaston,F,1,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+17.0,GIMENEZ Luis,F,1,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+21.0,RUBIO Oriol,F,1,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+16.0,GARCIA Alfonso,D,2,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+7.0,GARCIA-ZARANDIETA Pablo,D,2,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+5.0,GRANELL Nacho,F,2,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+24.0,DONATH Dorian,F,2,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+14.0,RIVERO Carlos,F,2,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+22.0,BETRAN Guillermo,D,3,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+8.0,PAUL Marc,D,3,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+10.0,MARTINEZ Alberto,F,3,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+18.0,LASUEN Imanol,F,3,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+23.0,ARRARAS Ander,F,3,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+11.0,MARTIN Pablo,F,4,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+2.0,MEYERSON Iker,D,4,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+15.0,FERNANDEZ-POLA Angel,F,4,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+9.0,MARTIN Alejandro,F,4,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+6.0,HERNANDEZ Luis Jose,F,4,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp
+,BASILE Luciano,He. Co.,5,ESP,False,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/lineup/15079/6-ned-vs-esp,https://www.iihf.com//en/events/2020/ogqp1l/gamecenter/playbyplay/15079/6-ned-vs-esp

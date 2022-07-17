@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+1,SASS Martyna,POL,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28886/1-pol-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28886/1-pol-vs-tur
+20,KOSINSKA Agata,POL,True,GK,1,0,1,100.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28886/1-pol-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28886/1-pol-vs-tur
+1,KARATAS Merve,TUR,False,GK,57,12,45,78.95,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28886/1-pol-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28886/1-pol-vs-tur
+20,SERT Azra,TUR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28886/1-pol-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28886/1-pol-vs-tur
+20,ZIJLSTRA Nadia,NED,True,GK,6,1,5,83.33,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28887/2-ned-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28887/2-ned-vs-mex
+25,GABRIELE Eline,NED,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28887/2-ned-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28887/2-ned-vs-mex
+1,RENTERIA Monica,MEX,False,GK,47,7,40,85.11,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28887/2-ned-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28887/2-ned-vs-mex
+25,CASTRO Daniela,MEX,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28887/2-ned-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28887/2-ned-vs-mex
+1,KARATAS Merve,TUR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28888/3-tur-vs-ned,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28888/3-tur-vs-ned
+20,SERT Azra,TUR,True,GK,78,23,55,70.51,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28888/3-tur-vs-ned,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28888/3-tur-vs-ned
+20,ZIJLSTRA Nadia,NED,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28888/3-tur-vs-ned,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28888/3-tur-vs-ned
+25,GABRIELE Eline,NED,False,GK,2,0,2,100.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28888/3-tur-vs-ned,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28888/3-tur-vs-ned
+1,SASS Martyna,POL,True,GK,3,1,2,66.67,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28889/4-pol-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28889/4-pol-vs-mex
+20,KOSINSKA Agata,POL,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28889/4-pol-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28889/4-pol-vs-mex
+1,RENTERIA Monica,MEX,False,GK,64,8,56,87.5,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28889/4-pol-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28889/4-pol-vs-mex
+25,CASTRO Daniela,MEX,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28889/4-pol-vs-mex,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28889/4-pol-vs-mex
+20,ZIJLSTRA Nadia,NED,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28890/5-ned-vs-pol,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28890/5-ned-vs-pol
+25,GABRIELE Eline,NED,True,GK,25,3,22,88.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28890/5-ned-vs-pol,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28890/5-ned-vs-pol
+1,SASS Martyna,POL,False,GK,22,2,20,90.91,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28890/5-ned-vs-pol,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28890/5-ned-vs-pol
+20,KOSINSKA Agata,POL,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28890/5-ned-vs-pol,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28890/5-ned-vs-pol
+1,RENTERIA Monica,MEX,True,GK,5,1,4,80.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28891/6-mex-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28891/6-mex-vs-tur
+25,CASTRO Daniela,MEX,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28891/6-mex-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28891/6-mex-vs-tur
+1,KARATAS Merve,TUR,False,GK,47,5,42,89.36,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28891/6-mex-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28891/6-mex-vs-tur
+20,SERT Azra,TUR,False,GK,2,1,1,50.0,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/statistics/28891/6-mex-vs-tur,https://www.iihf.com//en/events/2022/ogqp2h/gamecenter/playbyplay/28891/6-mex-vs-tur

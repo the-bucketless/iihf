@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+30,SOGAARD Mads,DEN,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27521/1-den-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27521/1-den-vs-slo
+32,DAHM Sebastian,DEN,True,GK,23,3,20,86.96,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27521/1-den-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27521/1-den-vs-slo
+32,KROSELJ Gasper,SLO,False,GK,21,4,17,80.95,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27521/1-den-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27521/1-den-vs-slo
+35,GRACNAR Luka,SLO,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27521/1-den-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27521/1-den-vs-slo
+1,DALTON Matt,KOR,True,GK,49,4,45,91.84,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27522/2-kor-vs-nor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27522/2-kor-vs-nor
+46,HWANG Hyun Ho,KOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27522/2-kor-vs-nor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27522/2-kor-vs-nor
+33,HAUKELAND Henrik,NOR,False,GK,9,1,8,88.89,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27522/2-kor-vs-nor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27522/2-kor-vs-nor
+38,HOLM Henrik,NOR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27522/2-kor-vs-nor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27522/2-kor-vs-nor
+30,SOGAARD Mads,DEN,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27523/3-den-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27523/3-den-vs-kor
+32,DAHM Sebastian,DEN,True,GK,8,1,7,87.5,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27523/3-den-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27523/3-den-vs-kor
+1,DALTON Matt,KOR,False,GK,26,7,19,73.08,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27523/3-den-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27523/3-den-vs-kor
+46,HWANG Hyun Ho,KOR,False,GK,22,4,18,81.82,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27523/3-den-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27523/3-den-vs-kor
+33,HAUKELAND Henrik,NOR,True,GK,21,4,17,80.95,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27524/4-nor-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27524/4-nor-vs-slo
+38,HOLM Henrik,NOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27524/4-nor-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27524/4-nor-vs-slo
+32,KROSELJ Gasper,SLO,False,GK,10,2,8,80.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27524/4-nor-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27524/4-nor-vs-slo
+35,GRACNAR Luka,SLO,False,GK,21,5,16,76.19,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27524/4-nor-vs-slo,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27524/4-nor-vs-slo
+32,KROSELJ Gasper,SLO,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27525/5-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27525/5-slo-vs-kor
+69,PINTARIC Matija,SLO,True,GK,17,1,16,94.12,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27525/5-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27525/5-slo-vs-kor
+1,DALTON Matt,KOR,False,GK,42,3,39,92.86,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27525/5-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27525/5-slo-vs-kor
+46,HWANG Hyun Ho,KOR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27525/5-slo-vs-kor,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27525/5-slo-vs-kor
+31,ARNTZEN Jonas,NOR,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27526/6-nor-vs-den,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27526/6-nor-vs-den
+33,HAUKELAND Henrik,NOR,True,GK,19,2,17,89.47,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27526/6-nor-vs-den,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27526/6-nor-vs-den
+30,SOGAARD Mads,DEN,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27526/6-nor-vs-den,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27526/6-nor-vs-den
+32,DAHM Sebastian,DEN,False,GK,26,0,26,100.0,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/statistics/27526/6-nor-vs-den,https://www.iihf.com//en/events/2022/ogqmf/gamecenter/playbyplay/27526/6-nor-vs-den

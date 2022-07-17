@@ -1,0 +1,687 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+20.0,BREIVOLD Tobias,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+1.0,NORMANN Tobias,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+5.0,HAUGHOM Jonas,D,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+9.0,LILLEBERG Emil,D,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+15.0,HANSEN Stian Nybraaten,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+12.0,LOKKEBERG Trym,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+17.0,ELIESEN Nicolai,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+4.0,HOLM Ole Julian,D,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+7.0,ENGEBRATEN Sander,D,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+19.0,SPABERG OLSEN Calle,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+22.0,FROBERG Sander,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+13.0,GRANATH Philip,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+2.0,RONNINGEN Sverre,D,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+3.0,OPSAHL Joakim,D,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+23.0,BRENNE HALVORSEN Mattias,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+21.0,GULBRANDSEN Kenneth Pappalardo,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+11.0,FREDRIKSEN Vegard,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+6.0,HAFSTAD JOHANSEN Eirik,D,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+24.0,STRANDBORG Andre Bjelland,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+16.0,ELLINGSEN Adrian,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+8.0,LAM Markus,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+10.0,TRYGG Lucas Loob,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+,HANSEN Mads,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+1.0,NISSEN Frederik,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+20.0,SOEGAARD Frederik,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+2.0,BRONDBERG Jonas,D,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+7.0,DIEDRICHSEN Kasper,D,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+11.0,POPOVIC Maksim,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+16.0,BRINKMAN Jonathan,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+13.0,ALMQUIST Marcus,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+3.0,HOLZMAN Andreas,D,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+8.0,RASMUSSEN Lucas,D,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+17.0,JENSEN Mikkel,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+21.0,TORBENSEN Jonas,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+14.0,HANSEN Mathias,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+24.0,LARSEN Kasper,D,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+4.0,NIELSEN Nikolaj,D,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+19.0,HANSEN Mathias,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+18.0,BIEL Anders,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+15.0,DREIER Christian,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+5.0,RASMUSSEN Mathias,D,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+22.0,LODAHL Victor,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+10.0,RUBENACH Christopher,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+12.0,GALBY Magnus,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+23.0,SCHLEICHER Simon,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+,ELLER Olaf,He. Co.,5,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6352/1-nor-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6352/1-nor-vs-den
+20.0,SERDYUK Dmytro,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+1.0,SUSHAK Nazarii,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+24.0,MATUSEVYCH Denys,D,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+14.0,OSTAPIUK Volodymyr,D,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+16.0,TYMCHENKO Sviatoslav,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+17.0,BRAHA Vladyslav,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+21.0,TSELOHORODTSEV Artem,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+8.0,KRUHLYAKOV Nikita,D,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+2.0,BUDKO Kyrylo,D,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+11.0,SEREDNYTSKY Bogdan,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+9.0,DUIUN Daniil,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+18.0,CHIKANTSEV Mykhailo,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+23.0,YEVTUKHOV Andri,D,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+4.0,RATUSHNYI Yevhenii,D,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+22.0,ABADZHIAN Yevhenii,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+7.0,PANCHENKO Yaroslav,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+13.0,POPEREZHAI Dmytro,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+15.0,PANKOV Bogdan,D,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+3.0,SYSAK Ivan,D,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+6.0,SADOVIKOV Stanislav,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+12.0,BORYSOV Pavlo,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+10.0,BOLOTIN Oleksii,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+,TYMCHENKO Oleg,He. Co.,5,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+1.0,DUQUENNE Valentin,GK,0,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+25.0,MONGELLAZ Tristan,GK,0,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+12.0,BOSCQ Jules,D,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+4.0,SCHMITT Charles,D,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+10.0,TOMASINO Quentin,F,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+7.0,BARAVAGLIO Enzo,D,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+22.0,DUBE Pierrick,F,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+21.0,THOMAS Mathias,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+17.0,ALLAIS Hugo,D,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+23.0,DAIR Flavian,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+14.0,PROUX Hugo,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+6.0,QUATTRONE Timothe,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+9.0,CIRGUES Louis,D,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+2.0,LEUCHT Guillaume,D,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+5.0,MAINOT Paulin,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+18.0,NAVARRO Emmanuel,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+16.0,GUER Samuel,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+3.0,TIRAMANI Christophe,D,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+19.0,LEO Baptiste,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+13.0,DAITA Matteo,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+15.0,TARABUSI Axel,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+24.0,GUEURIF Theo,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+,MORTAS Anthony,He. Co.,5,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6353/2-ukr-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6353/2-ukr-vs-fra
+20.0,PROKOFIEV Vilen,GK,0,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+1.0,KALMYKOV Roman,GK,0,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+21.0,KOROLYOV Artyom,D,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+8.0,BUTENKO Danil,D,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+24.0,MUSOROV Maxim,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+9.0,GUSSEINOV Dias,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+12.0,OMIRBEKOV Alikhan,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+7.0,DIKHANBEK Madi,D,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+13.0,ZALEVSKI Igor,D,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+22.0,FILIPPENKO Stanislav,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+18.0,SHAIKHMEDDENOV Angsar,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+5.0,BOIKO Oleg,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+3.0,BOIKO Nikita,D,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+2.0,JUMAGULOV Rustem,D,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+23.0,ALEXANDROV Stanislav,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+10.0,ICHSHENKO Igor,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+17.0,SAIKO Vladislav,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+11.0,VOITOV Ivan,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+6.0,KHARLAMOV Vladislav,D,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+4.0,KASSENOV Ali,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+15.0,CHAPOROV Denis,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+19.0,YEVLOYEV Adam,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+,ISTOMIN Alexander,He. Co.,5,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+1.0,ANCICKA Tobias,GK,0,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+25.0,TIEFENSEE Arno,GK,0,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+11.0,GNYP Simon,D,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+19.0,SZUBER Maksymilian,D,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+14.0,KINDER Nino,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+24.0,VOLEK Justin,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+22.0,REICHEL Lukas,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+12.0,RAABE Steven,D,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+6.0,FLADE Lucas,D,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+10.0,SCHUMACHER Jan-Luca,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+8.0,STUTZLE Tim,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+23.0,NIJENHUIS jan,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+3.0,HEYER Niklas,D,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+5.0,GLOTZL Maximilian,D,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+7.0,ELIAS Florian,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+17.0,VAREJCKA Filip,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+9.0,ALBERG Manuel,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+2.0,RAAB Moritz,D,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+16.0,BORZECKI Jakub,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+13.0,KUQI Fabjon,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+15.0,LINDNER Elias,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+18.0,PETERKA John,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+,FISCHODER Frank,He. Co.,5,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6354/3-kaz-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6354/3-kaz-vs-ger
+1.0,NISSEN Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+20.0,SOEGAARD Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+2.0,BRONDBERG Jonas,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+7.0,DIEDRICHSEN Kasper,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+13.0,ALMQUIST Marcus,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+16.0,BRINKMAN Jonathan,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+11.0,POPOVIC Maksim,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+3.0,HOLZMAN Andreas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+8.0,RASMUSSEN Lucas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+14.0,HANSEN Mathias,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+21.0,TORBENSEN Jonas,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+17.0,JENSEN Mikkel,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+24.0,LARSEN Kasper,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+4.0,NIELSEN Nikolaj,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+15.0,DREIER Christian,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+18.0,BIEL Anders,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+19.0,HANSEN Mathias,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+22.0,LODAHL Victor,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+5.0,RASMUSSEN Mathias,D,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+10.0,RUBENACH Christopher,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+12.0,GALBY Magnus,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+23.0,SCHLEICHER Simon,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+,ELLER Olaf,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+20.0,SERDYUK Dmytro,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+1.0,SUSHAK Nazarii,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+2.0,BUDKO Kyrylo,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+8.0,KRUHLYAKOV Nikita,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+16.0,TYMCHENKO Sviatoslav,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+17.0,BRAHA Vladyslav,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+21.0,TSELOHORODTSEV Artem,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+24.0,MATUSEVYCH Denys,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+23.0,YEVTUKHOV Andri,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+18.0,CHIKANTSEV Mykhailo,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+9.0,DUIUN Daniil,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+11.0,SEREDNYTSKY Bogdan,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+4.0,RATUSHNYI Yevhenii,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+3.0,SYSAK Ivan,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+22.0,ABADZHIAN Yevhenii,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+7.0,PANCHENKO Yaroslav,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+13.0,POPEREZHAI Dmytro,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+15.0,PANKOV Bogdan,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+14.0,OSTAPIUK Volodymyr,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+10.0,BOLOTIN Oleksii,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+12.0,BORYSOV Pavlo,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+6.0,SADOVIKOV Stanislav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+,TYMCHENKO Oleg,He. Co.,5,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6355/4-den-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6355/4-den-vs-ukr
+1.0,ANCICKA Tobias,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+25.0,TIEFENSEE Arno,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+11.0,GNYP Simon,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+19.0,SZUBER Maksymilian,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+14.0,KINDER Nino,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+24.0,VOLEK Justin,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+22.0,REICHEL Lukas,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+12.0,RAABE Steven,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+6.0,FLADE Lucas,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+10.0,SCHUMACHER Jan-Luca,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+8.0,STUTZLE Tim,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+23.0,NIJENHUIS jan,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+5.0,GLOTZL Maximilian,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+3.0,HEYER Niklas,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+7.0,ELIAS Florian,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+17.0,VAREJCKA Filip,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+9.0,ALBERG Manuel,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+2.0,RAAB Moritz,D,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+16.0,BORZECKI Jakub,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+13.0,KUQI Fabjon,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+15.0,LINDNER Elias,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+18.0,PETERKA John,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+,FISCHODER Frank,He. Co.,5,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+20.0,BREIVOLD Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+1.0,NORMANN Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+5.0,HAUGHOM Jonas,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+9.0,LILLEBERG Emil,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+15.0,HANSEN Stian Nybraaten,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+12.0,LOKKEBERG Trym,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+17.0,ELIESEN Nicolai,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+3.0,OPSAHL Joakim,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+7.0,ENGEBRATEN Sander,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+19.0,SPABERG OLSEN Calle,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+22.0,FROBERG Sander,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+13.0,GRANATH Philip,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+2.0,RONNINGEN Sverre,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+4.0,HOLM Ole Julian,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+23.0,BRENNE HALVORSEN Mattias,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+21.0,GULBRANDSEN Kenneth Pappalardo,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+11.0,FREDRIKSEN Vegard,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+6.0,HAFSTAD JOHANSEN Eirik,D,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+24.0,STRANDBORG Andre Bjelland,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+16.0,ELLINGSEN Adrian,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+8.0,LAM Markus,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+10.0,TRYGG Lucas Loob,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+,HANSEN Mads,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6356/5-ger-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6356/5-ger-vs-nor
+1.0,DUQUENNE Valentin,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+25.0,MONGELLAZ Tristan,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+4.0,SCHMITT Charles,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+12.0,BOSCQ Jules,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+22.0,DUBE Pierrick,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+7.0,BARAVAGLIO Enzo,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+10.0,TOMASINO Quentin,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+17.0,ALLAIS Hugo,D,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+21.0,THOMAS Mathias,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+23.0,DAIR Flavian,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+14.0,PROUX Hugo,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+6.0,QUATTRONE Timothe,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+9.0,CIRGUES Louis,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+2.0,LEUCHT Guillaume,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+16.0,GUER Samuel,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+18.0,NAVARRO Emmanuel,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+24.0,GUEURIF Theo,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+3.0,TIRAMANI Christophe,D,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+19.0,LEO Baptiste,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+5.0,MAINOT Paulin,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+15.0,TARABUSI Axel,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+13.0,DAITA Matteo,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+,MORTAS Anthony,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+1.0,KALMYKOV Roman,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+20.0,PROKOFIEV Vilen,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+21.0,KOROLYOV Artyom,D,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+18.0,SHAIKHMEDDENOV Angsar,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+24.0,MUSOROV Maxim,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+9.0,GUSSEINOV Dias,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+17.0,SAIKO Vladislav,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+7.0,DIKHANBEK Madi,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+13.0,ZALEVSKI Igor,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+22.0,FILIPPENKO Stanislav,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+15.0,CHAPOROV Denis,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+5.0,BOIKO Oleg,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+2.0,JUMAGULOV Rustem,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+3.0,BOIKO Nikita,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+4.0,KASSENOV Ali,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+10.0,ICHSHENKO Igor,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+23.0,ALEXANDROV Stanislav,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+6.0,KHARLAMOV Vladislav,D,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+11.0,VOITOV Ivan,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+12.0,OMIRBEKOV Alikhan,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+19.0,YEVLOYEV Adam,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+,ISTOMIN Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6357/6-fra-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6357/6-fra-vs-kaz
+1.0,SUSHAK Nazarii,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+20.0,SERDYUK Dmytro,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+2.0,BUDKO Kyrylo,D,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+8.0,KRUHLYAKOV Nikita,D,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+16.0,TYMCHENKO Sviatoslav,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+17.0,BRAHA Vladyslav,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+21.0,TSELOHORODTSEV Artem,F,1,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+24.0,MATUSEVYCH Denys,D,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+15.0,PANKOV Bogdan,D,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+9.0,DUIUN Daniil,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+12.0,BORYSOV Pavlo,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+11.0,SEREDNYTSKY Bogdan,F,2,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+4.0,RATUSHNYI Yevhenii,D,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+3.0,SYSAK Ivan,D,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+13.0,POPEREZHAI Dmytro,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+7.0,PANCHENKO Yaroslav,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+10.0,BOLOTIN Oleksii,F,3,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+23.0,YEVTUKHOV Andri,D,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+14.0,OSTAPIUK Volodymyr,D,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+18.0,CHIKANTSEV Mykhailo,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+6.0,SADOVIKOV Stanislav,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+22.0,ABADZHIAN Yevhenii,F,4,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+,TYMCHENKO Oleg,He. Co.,5,UKR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+1.0,KALMYKOV Roman,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+20.0,PROKOFIEV Vilen,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+21.0,KOROLYOV Artyom,D,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+18.0,SHAIKHMEDDENOV Angsar,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+24.0,MUSOROV Maxim,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+9.0,GUSSEINOV Dias,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+17.0,SAIKO Vladislav,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+7.0,DIKHANBEK Madi,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+13.0,ZALEVSKI Igor,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+22.0,FILIPPENKO Stanislav,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+15.0,CHAPOROV Denis,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+5.0,BOIKO Oleg,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+2.0,JUMAGULOV Rustem,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+8.0,BUTENKO Danil,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+4.0,KASSENOV Ali,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+12.0,OMIRBEKOV Alikhan,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+23.0,ALEXANDROV Stanislav,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+3.0,BOIKO Nikita,D,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+6.0,KHARLAMOV Vladislav,D,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+11.0,VOITOV Ivan,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+10.0,ICHSHENKO Igor,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+19.0,YEVLOYEV Adam,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+,ISTOMIN Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6358/7-ukr-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6358/7-ukr-vs-kaz
+1.0,ANCICKA Tobias,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+25.0,TIEFENSEE Arno,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+11.0,GNYP Simon,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+19.0,SZUBER Maksymilian,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+14.0,KINDER Nino,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+24.0,VOLEK Justin,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+22.0,REICHEL Lukas,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+6.0,FLADE Lucas,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+12.0,RAABE Steven,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+10.0,SCHUMACHER Jan-Luca,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+8.0,STUTZLE Tim,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+23.0,NIJENHUIS jan,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+5.0,GLOTZL Maximilian,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+3.0,HEYER Niklas,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+7.0,ELIAS Florian,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+17.0,VAREJCKA Filip,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+9.0,ALBERG Manuel,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+2.0,RAAB Moritz,D,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+16.0,BORZECKI Jakub,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+13.0,KUQI Fabjon,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+15.0,LINDNER Elias,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+18.0,PETERKA John,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+,FISCHODER Frank,He. Co.,5,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+1.0,NISSEN Frederik,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+20.0,SOEGAARD Frederik,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+2.0,BRONDBERG Jonas,D,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+7.0,DIEDRICHSEN Kasper,D,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+11.0,POPOVIC Maksim,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+16.0,BRINKMAN Jonathan,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+13.0,ALMQUIST Marcus,F,1,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+3.0,HOLZMAN Andreas,D,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+8.0,RASMUSSEN Lucas,D,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+17.0,JENSEN Mikkel,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+21.0,TORBENSEN Jonas,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+14.0,HANSEN Mathias,F,2,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+24.0,LARSEN Kasper,D,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+4.0,NIELSEN Nikolaj,D,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+19.0,HANSEN Mathias,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+18.0,BIEL Anders,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+15.0,DREIER Christian,F,3,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+22.0,LODAHL Victor,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+5.0,RASMUSSEN Mathias,D,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+23.0,SCHLEICHER Simon,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+12.0,GALBY Magnus,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+10.0,RUBENACH Christopher,F,4,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+,ELLER Olaf,He. Co.,5,DEN,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6359/8-ger-vs-den,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6359/8-ger-vs-den
+1.0,DUQUENNE Valentin,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+25.0,MONGELLAZ Tristan,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+21.0,THOMAS Mathias,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+12.0,BOSCQ Jules,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+16.0,GUER Samuel,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+18.0,NAVARRO Emmanuel,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+19.0,LEO Baptiste,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+4.0,SCHMITT Charles,D,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+9.0,CIRGUES Louis,D,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+23.0,DAIR Flavian,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+14.0,PROUX Hugo,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+6.0,QUATTRONE Timothe,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+2.0,LEUCHT Guillaume,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+17.0,ALLAIS Hugo,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+22.0,DUBE Pierrick,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+7.0,BARAVAGLIO Enzo,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+10.0,TOMASINO Quentin,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+3.0,TIRAMANI Christophe,D,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+5.0,MAINOT Paulin,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+24.0,GUEURIF Theo,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+15.0,TARABUSI Axel,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+13.0,DAITA Matteo,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+,MORTAS Anthony,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+1.0,NORMANN Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+20.0,BREIVOLD Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+9.0,LILLEBERG Emil,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+5.0,HAUGHOM Jonas,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+15.0,HANSEN Stian Nybraaten,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+12.0,LOKKEBERG Trym,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+17.0,ELIESEN Nicolai,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+3.0,OPSAHL Joakim,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+7.0,ENGEBRATEN Sander,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+19.0,SPABERG OLSEN Calle,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+22.0,FROBERG Sander,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+10.0,TRYGG Lucas Loob,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+2.0,RONNINGEN Sverre,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+4.0,HOLM Ole Julian,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+23.0,BRENNE HALVORSEN Mattias,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+21.0,GULBRANDSEN Kenneth Pappalardo,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+11.0,FREDRIKSEN Vegard,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+6.0,HAFSTAD JOHANSEN Eirik,D,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+24.0,STRANDBORG Andre Bjelland,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+16.0,ELLINGSEN Adrian,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+8.0,LAM Markus,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+13.0,GRANATH Philip,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+,HANSEN Mads,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6360/9-fra-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6360/9-fra-vs-nor
+1.0,ANCICKA Tobias,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+25.0,TIEFENSEE Arno,GK,0,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+11.0,GNYP Simon,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+19.0,SZUBER Maksymilian,D,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+14.0,KINDER Nino,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+24.0,VOLEK Justin,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+22.0,REICHEL Lukas,F,1,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+12.0,RAABE Steven,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+6.0,FLADE Lucas,D,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+10.0,SCHUMACHER Jan-Luca,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+8.0,STUTZLE Tim,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+23.0,NIJENHUIS jan,F,2,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+5.0,GLOTZL Maximilian,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+3.0,HEYER Niklas,D,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+7.0,ELIAS Florian,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+17.0,VAREJCKA Filip,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+9.0,ALBERG Manuel,F,3,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+2.0,RAAB Moritz,D,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+16.0,BORZECKI Jakub,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+13.0,KUQI Fabjon,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+15.0,LINDNER Elias,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+18.0,PETERKA John,F,4,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+,FISCHODER Frank,He. Co.,5,GER,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+20.0,SERDYUK Dmytro,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+1.0,SUSHAK Nazarii,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+4.0,RATUSHNYI Yevhenii,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+3.0,SYSAK Ivan,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+18.0,CHIKANTSEV Mykhailo,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+9.0,DUIUN Daniil,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+22.0,ABADZHIAN Yevhenii,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+24.0,MATUSEVYCH Denys,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+23.0,YEVTUKHOV Andri,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+10.0,BOLOTIN Oleksii,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+12.0,BORYSOV Pavlo,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+21.0,TSELOHORODTSEV Artem,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+8.0,KRUHLYAKOV Nikita,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+2.0,BUDKO Kyrylo,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+13.0,POPEREZHAI Dmytro,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+6.0,SADOVIKOV Stanislav,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+11.0,SEREDNYTSKY Bogdan,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+15.0,PANKOV Bogdan,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+14.0,OSTAPIUK Volodymyr,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+16.0,TYMCHENKO Sviatoslav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+7.0,PANCHENKO Yaroslav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+17.0,BRAHA Vladyslav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+,TYMCHENKO Oleg,He. Co.,5,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6361/10-ger-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6361/10-ger-vs-ukr
+1.0,KALMYKOV Roman,GK,0,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+20.0,PROKOFIEV Vilen,GK,0,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+18.0,SHAIKHMEDDENOV Angsar,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+21.0,KOROLYOV Artyom,D,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+24.0,MUSOROV Maxim,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+9.0,GUSSEINOV Dias,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+17.0,SAIKO Vladislav,F,1,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+7.0,DIKHANBEK Madi,D,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+13.0,ZALEVSKI Igor,D,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+22.0,FILIPPENKO Stanislav,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+15.0,CHAPOROV Denis,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+5.0,BOIKO Oleg,F,2,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+8.0,BUTENKO Danil,D,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+2.0,JUMAGULOV Rustem,D,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+23.0,ALEXANDROV Stanislav,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+12.0,OMIRBEKOV Alikhan,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+4.0,KASSENOV Ali,F,3,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+3.0,BOIKO Nikita,D,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+6.0,KHARLAMOV Vladislav,D,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+19.0,YEVLOYEV Adam,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+10.0,ICHSHENKO Igor,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+11.0,VOITOV Ivan,F,4,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+,ISTOMIN Alexander,He. Co.,5,KAZ,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+1.0,NORMANN Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+20.0,BREIVOLD Tobias,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+5.0,HAUGHOM Jonas,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+9.0,LILLEBERG Emil,D,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+15.0,HANSEN Stian Nybraaten,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+12.0,LOKKEBERG Trym,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+17.0,ELIESEN Nicolai,F,1,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+3.0,OPSAHL Joakim,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+7.0,ENGEBRATEN Sander,D,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+16.0,ELLINGSEN Adrian,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+24.0,STRANDBORG Andre Bjelland,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+10.0,TRYGG Lucas Loob,F,2,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+2.0,RONNINGEN Sverre,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+4.0,HOLM Ole Julian,D,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+19.0,SPABERG OLSEN Calle,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+22.0,FROBERG Sander,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+13.0,GRANATH Philip,F,3,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+6.0,HAFSTAD JOHANSEN Eirik,D,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+8.0,LAM Markus,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+23.0,BRENNE HALVORSEN Mattias,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+21.0,GULBRANDSEN Kenneth Pappalardo,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+11.0,FREDRIKSEN Vegard,F,4,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+,HANSEN Mads,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6362/11-kaz-vs-nor,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6362/11-kaz-vs-nor
+1.0,NISSEN Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+20.0,SOEGAARD Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+2.0,BRONDBERG Jonas,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+7.0,DIEDRICHSEN Kasper,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+11.0,POPOVIC Maksim,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+14.0,HANSEN Mathias,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+13.0,ALMQUIST Marcus,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+3.0,HOLZMAN Andreas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+8.0,RASMUSSEN Lucas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+17.0,JENSEN Mikkel,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+21.0,TORBENSEN Jonas,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+19.0,HANSEN Mathias,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+24.0,LARSEN Kasper,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+4.0,NIELSEN Nikolaj,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+10.0,RUBENACH Christopher,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+18.0,BIEL Anders,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+15.0,DREIER Christian,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+5.0,RASMUSSEN Mathias,D,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+23.0,SCHLEICHER Simon,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+12.0,GALBY Magnus,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+22.0,LODAHL Victor,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+,ELLER Olaf,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+25.0,MONGELLAZ Tristan,GK,0,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+1.0,DUQUENNE Valentin,GK,0,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+12.0,BOSCQ Jules,D,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+21.0,THOMAS Mathias,D,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+22.0,DUBE Pierrick,F,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+14.0,PROUX Hugo,F,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+10.0,TOMASINO Quentin,F,1,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+9.0,CIRGUES Louis,D,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+4.0,SCHMITT Charles,D,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+6.0,QUATTRONE Timothe,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+7.0,BARAVAGLIO Enzo,D,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+23.0,DAIR Flavian,F,2,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+2.0,LEUCHT Guillaume,D,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+17.0,ALLAIS Hugo,D,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+24.0,GUEURIF Theo,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+18.0,NAVARRO Emmanuel,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+16.0,GUER Samuel,F,3,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+3.0,TIRAMANI Christophe,D,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+15.0,TARABUSI Axel,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+13.0,DAITA Matteo,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+19.0,LEO Baptiste,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+5.0,MAINOT Paulin,F,4,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+,MORTAS Anthony,He. Co.,5,FRA,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6363/12-den-vs-fra,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6363/12-den-vs-fra
+20.0,BREIVOLD Tobias,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+1.0,NORMANN Tobias,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+5.0,HAUGHOM Jonas,D,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+9.0,LILLEBERG Emil,D,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+15.0,HANSEN Stian Nybraaten,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+12.0,LOKKEBERG Trym,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+17.0,ELIESEN Nicolai,F,1,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+3.0,OPSAHL Joakim,D,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+7.0,ENGEBRATEN Sander,D,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+11.0,FREDRIKSEN Vegard,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+21.0,GULBRANDSEN Kenneth Pappalardo,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+13.0,GRANATH Philip,F,2,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+4.0,HOLM Ole Julian,D,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+2.0,RONNINGEN Sverre,D,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+23.0,BRENNE HALVORSEN Mattias,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+8.0,LAM Markus,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+16.0,ELLINGSEN Adrian,F,3,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+6.0,HAFSTAD JOHANSEN Eirik,D,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+24.0,STRANDBORG Andre Bjelland,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+19.0,SPABERG OLSEN Calle,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+22.0,FROBERG Sander,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+10.0,TRYGG Lucas Loob,F,4,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+,HANSEN Mads,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+1.0,SUSHAK Nazarii,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+20.0,SERDYUK Dmytro,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+8.0,KRUHLYAKOV Nikita,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+2.0,BUDKO Kyrylo,D,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+22.0,ABADZHIAN Yevhenii,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+9.0,DUIUN Daniil,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+11.0,SEREDNYTSKY Bogdan,F,1,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+24.0,MATUSEVYCH Denys,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+15.0,PANKOV Bogdan,D,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+16.0,TYMCHENKO Sviatoslav,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+12.0,BORYSOV Pavlo,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+10.0,BOLOTIN Oleksii,F,2,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+4.0,RATUSHNYI Yevhenii,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+3.0,SYSAK Ivan,D,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+13.0,POPEREZHAI Dmytro,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+6.0,SADOVIKOV Stanislav,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+18.0,CHIKANTSEV Mykhailo,F,3,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+23.0,YEVTUKHOV Andri,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+14.0,OSTAPIUK Volodymyr,D,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+7.0,PANCHENKO Yaroslav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+17.0,BRAHA Vladyslav,F,4,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+,TYMCHENKO Oleg,He. Co.,5,UKR,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6364/13-nor-vs-ukr,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6364/13-nor-vs-ukr
+1.0,NISSEN Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+20.0,SOEGAARD Frederik,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+2.0,BRONDBERG Jonas,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+7.0,DIEDRICHSEN Kasper,D,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+11.0,POPOVIC Maksim,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+14.0,HANSEN Mathias,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+13.0,ALMQUIST Marcus,F,1,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+3.0,HOLZMAN Andreas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+8.0,RASMUSSEN Lucas,D,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+17.0,JENSEN Mikkel,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+21.0,TORBENSEN Jonas,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+19.0,HANSEN Mathias,F,2,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+24.0,LARSEN Kasper,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+4.0,NIELSEN Nikolaj,D,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+15.0,DREIER Christian,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+18.0,BIEL Anders,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+23.0,SCHLEICHER Simon,F,3,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+5.0,RASMUSSEN Mathias,D,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+22.0,LODAHL Victor,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+12.0,GALBY Magnus,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+10.0,RUBENACH Christopher,F,4,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+,ELLER Olaf,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+1.0,KALMYKOV Roman,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+20.0,PROKOFIEV Vilen,GK,0,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+21.0,KOROLYOV Artyom,D,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+18.0,SHAIKHMEDDENOV Angsar,D,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+24.0,MUSOROV Maxim,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+9.0,GUSSEINOV Dias,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+17.0,SAIKO Vladislav,F,1,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+7.0,DIKHANBEK Madi,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+13.0,ZALEVSKI Igor,D,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+22.0,FILIPPENKO Stanislav,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+15.0,CHAPOROV Denis,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+5.0,BOIKO Oleg,F,2,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+8.0,BUTENKO Danil,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+2.0,JUMAGULOV Rustem,D,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+23.0,ALEXANDROV Stanislav,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+12.0,OMIRBEKOV Alikhan,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+4.0,KASSENOV Ali,F,3,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+3.0,BOIKO Nikita,D,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+6.0,KHARLAMOV Vladislav,D,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+19.0,YEVLOYEV Adam,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+10.0,ICHSHENKO Igor,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+11.0,VOITOV Ivan,F,4,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+,ISTOMIN Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6365/14-den-vs-kaz,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6365/14-den-vs-kaz
+1.0,DUQUENNE Valentin,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+25.0,MONGELLAZ Tristan,GK,0,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+12.0,BOSCQ Jules,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+21.0,THOMAS Mathias,D,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+23.0,DAIR Flavian,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+14.0,PROUX Hugo,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+6.0,QUATTRONE Timothe,F,1,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+9.0,CIRGUES Louis,D,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+4.0,SCHMITT Charles,D,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+10.0,TOMASINO Quentin,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+15.0,TARABUSI Axel,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+22.0,DUBE Pierrick,F,2,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+2.0,LEUCHT Guillaume,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+17.0,ALLAIS Hugo,D,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+24.0,GUEURIF Theo,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+18.0,NAVARRO Emmanuel,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+13.0,DAITA Matteo,F,3,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+3.0,TIRAMANI Christophe,D,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+19.0,LEO Baptiste,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+5.0,MAINOT Paulin,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+7.0,BARAVAGLIO Enzo,D,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+16.0,GUER Samuel,F,4,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+,MORTAS Anthony,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+25.0,TIEFENSEE Arno,GK,0,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+1.0,ANCICKA Tobias,GK,0,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+11.0,GNYP Simon,D,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+19.0,SZUBER Maksymilian,D,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+14.0,KINDER Nino,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+24.0,VOLEK Justin,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+22.0,REICHEL Lukas,F,1,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+3.0,HEYER Niklas,D,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+16.0,BORZECKI Jakub,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+10.0,SCHUMACHER Jan-Luca,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+8.0,STUTZLE Tim,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+23.0,NIJENHUIS jan,F,2,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+5.0,GLOTZL Maximilian,D,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+12.0,RAABE Steven,D,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+7.0,ELIAS Florian,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+17.0,VAREJCKA Filip,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+9.0,ALBERG Manuel,F,3,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+2.0,RAAB Moritz,D,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+6.0,FLADE Lucas,D,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+18.0,PETERKA John,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+15.0,LINDNER Elias,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+13.0,KUQI Fabjon,F,4,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger
+,FISCHODER Frank,He. Co.,5,GER,False,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/lineup/6366/15-fra-vs-ger,https://www.iihf.com//en/events/2019/wm18ia/gamecenter/playbyplay/6366/15-fra-vs-ger

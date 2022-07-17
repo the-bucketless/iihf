@@ -1,0 +1,623 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+20.0,DUKARIC Pia,GK,0,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+25.0,DOVZAN Nusa,GK,0,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+9.0,LONCAR Nina,D,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+14.0,POREKAR Nusa,D,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+8.0,CONFIDENTI Sara,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+15.0,PREN Pia,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+17.0,BLAZINSEK Julija,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+18.0,SVETINA Tamara,D,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+7.0,GLAVIC Deja,D,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+23.0,PRSINA Ana,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+5.0,NYLAANDER Arwen,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+6.0,DUKARIC Eva,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+10.0,BISCAK Katja,D,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+2.0,BIZJAK Maja,D,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+16.0,BREZNIK Tamara,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+24.0,PAZLAR Ursa,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+19.0,PEZDIR Gaja,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+11.0,FRIS LORBER Tineja,F,4,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+,FERJANIC Franc,He. Co.,5,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+25.0,FEDEL Martina,GK,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+20.0,BIONDI Elisa,GK,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+18.0,STOCKER Franziska,D,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+6.0,MATTIVI Nadia,D,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+24.0,GIUS Samantha,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+8.0,FURLANI Chelsea,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+19.0,CAMPO BAGATIN Mia,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+9.0,BETTARINI Valentina,D,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+5.0,da RECH Mara,D,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+12.0,ROCCELLA Rebecca,F,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+13.0,CAUMO Anna,F,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+15.0,NICCOLAI Greta,D,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+2.0,VARANO Amie,D,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+11.0,MAIER Nadia,D,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+14.0,BONAFINI Eleonora,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+4.0,SALETTA Carola,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+10.0,ABATANGELO Aurora,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+21.0,ROCCELLA Sharon,F,4,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+16.0,PERATHONER Elena,F,4,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+23.0,CALLOVINI Anna,F,4,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+,FEDRIZZI Massimo,He. Co.,5,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29916/1-slo-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29916/1-slo-vs-ita
+1.0,CHEN Tiya,GK,0,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+24.0,WANG Yuqing,GK,0,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+6.0,LIU Zhixin,D,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+2.0,YU Baiwei,D,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+8.0,LIN Qiqi,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+10.0,MI Le,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+19.0,LIN Ni,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+5.0,HUANG Huier,D,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+20.0,FEI Anna,D,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+17.0,KANG Mu Lan,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+22.0,LI Beika,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+15.0,HU Baozhen,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+13.0,ZHAO Qinan,D,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+14.0,GUAN Yingying,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+3.0,ZHU Rui,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+11.0,ZHANG Xifang,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+23.0,FANG Xin,F,4,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+,BEDDOES Clayton,He. Co.,5,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+1.0,CHEON Hyoseo,GK,0,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+25.0,JANG Inhye,GK,0,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+8.0,KIM Selin,D,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+24.0,LEE Sojung,D,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+16.0,LEE Eunji,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+17.0,PARK Jongah,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+19.0,PARK Jiyoon,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+21.0,YOO Seoyoung,D,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+14.0,KIM Taeyeon,D,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+10.0,CHOI Jiyeon,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+9.0,KANG Nara,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+22.0,JUNG Siyun,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+11.0,KIM Dowon,D,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+12.0,PARK Minae,D,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+6.0,KIM Nayeon,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+18.0,CHOI Sieun,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+2.0,PARK Jiyoung,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+23.0,KIM Sarang,F,4,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+15.0,LEE Juyeon,F,4,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+,KIM Sang Jun,He. Co.,5,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29917/2-chn-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29917/2-chn-vs-kor
+25.0,SHYOKOLOVA Arina,GK,0,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+20.0,DMITRIEVA Darya,GK,0,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+17.0,OLZHABAYEVA Aida,D,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+4.0,PYATKOVA Anna,D,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+5.0,ALDABERGENOVA Malika,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+7.0,ASHIMOVA Pernesh,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+9.0,TURSYNOVA Madina,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+6.0,McLEAN Erin Monique,D,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+11.0,SENGER Kalista Doris Marlene,D,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+2.0,RIOUX Roxanne,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+12.0,BROAD Kendra Lynne,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+21.0,BERNDSEN Breanna Lynn,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+16.0,KONYSHEVA Olga,D,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+15.0,IVANCHENKO Alina,D,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+14.0,SVIRIDOVA Larisa,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+3.0,MOLDABAY Daria,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+23.0,KOROLEVA Tatyana,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+1.0,ISKAKOVA Diana,D,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+24.0,KUTSENKO Yekaterina,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+10.0,SAYAKHATKYZY Munira,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+13.0,NOLFINA Lyubov,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+,MALTSEV Alexander,He. Co.,5,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+1.0,SASS Martyna,GK,0,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+20.0,KOSINSKA Agata,GK,0,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+21.0,CHRAPEK Klaudia,D,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+5.0,ZIELINSKA Julia,D,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+7.0,POZNIEWSKA Karolina,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+16.0,CZARNECKA Ewelina,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+24.0,SIKORSKA Wiktoria,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+2.0,GOGOC Wiktoria,D,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+9.0,SFORA Patrycja,D,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+22.0,DZIWOK Wiktoria,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+17.0,TALANDA Ida,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+14.0,TOMCZOK Olivia,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+11.0,KORKUZ Dominika,D,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+23.0,STRZELECKA Joanna,D,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+8.0,ONYSHCHENKO Tetiana,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+12.0,WIECZOREK Kamila,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+4.0,LAPIES Magdalena,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+15.0,WCISLO Alicja,D,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+6.0,WOJCIK Patrycja,D,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+18.0,BRZEZINSKA Maja,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+10.0,LASKAWSKA Sylwia,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+13.0,LAPINSKA Julia,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+,WROBEL Zbigniew,He. Co.,5,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29918/3-kaz-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29918/3-kaz-vs-pol
+1.0,CHEON Hyoseo,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+25.0,JANG Inhye,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+8.0,KIM Selin,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+24.0,LEE Sojung,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+16.0,LEE Eunji,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+17.0,PARK Jongah,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+19.0,PARK Jiyoon,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+21.0,YOO Seoyoung,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+14.0,KIM Taeyeon,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+10.0,CHOI Jiyeon,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+9.0,KANG Nara,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+22.0,JUNG Siyun,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+11.0,KIM Dowon,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+12.0,PARK Minae,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+6.0,KIM Nayeon,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+18.0,CHOI Sieun,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+2.0,PARK Jiyoung,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+23.0,KIM Sarang,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+15.0,LEE Juyeon,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+4.0,SONG Yunha,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+,KIM Sang Jun,He. Co.,5,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+20.0,DMITRIEVA Darya,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+25.0,SHYOKOLOVA Arina,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+17.0,OLZHABAYEVA Aida,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+4.0,PYATKOVA Anna,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+5.0,ALDABERGENOVA Malika,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+7.0,ASHIMOVA Pernesh,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+9.0,TURSYNOVA Madina,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+6.0,McLEAN Erin Monique,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+11.0,SENGER Kalista Doris Marlene,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+2.0,RIOUX Roxanne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+12.0,BROAD Kendra Lynne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+21.0,BERNDSEN Breanna Lynn,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+16.0,KONYSHEVA Olga,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+15.0,IVANCHENKO Alina,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+14.0,SVIRIDOVA Larisa,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+3.0,MOLDABAY Daria,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+23.0,KOROLEVA Tatyana,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+1.0,ISKAKOVA Diana,D,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+24.0,KUTSENKO Yekaterina,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+10.0,SAYAKHATKYZY Munira,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+13.0,NOLFINA Lyubov,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+,MALTSEV Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29919/4-kor-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29919/4-kor-vs-kaz
+20.0,BIONDI Elisa,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+25.0,FEDEL Martina,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+18.0,STOCKER Franziska,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+6.0,MATTIVI Nadia,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+24.0,GIUS Samantha,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+8.0,FURLANI Chelsea,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+19.0,CAMPO BAGATIN Mia,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+9.0,BETTARINI Valentina,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+17.0,LOBIS Laura,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+12.0,ROCCELLA Rebecca,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+13.0,CAUMO Anna,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+15.0,NICCOLAI Greta,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+2.0,VARANO Amie,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+5.0,da RECH Mara,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+14.0,BONAFINI Eleonora,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+4.0,SALETTA Carola,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+3.0,MAZZOCCHI Marta,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+11.0,MAIER Nadia,D,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+10.0,ABATANGELO Aurora,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+16.0,PERATHONER Elena,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+23.0,CALLOVINI Anna,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+21.0,ROCCELLA Sharon,F,5,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+,FEDRIZZI Massimo,He. Co.,6,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+1.0,CHEN Tiya,GK,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+24.0,WANG Yuqing,GK,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+6.0,LIU Zhixin,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+2.0,YU Baiwei,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+8.0,LIN Qiqi,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+10.0,MI Le,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+19.0,LIN Ni,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+5.0,HUANG Huier,D,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+20.0,FEI Anna,D,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+17.0,KANG Mu Lan,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+22.0,LI Beika,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+15.0,HU Baozhen,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+13.0,ZHAO Qinan,D,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+14.0,GUAN Yingying,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+3.0,ZHU Rui,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+11.0,ZHANG Xifang,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+23.0,FANG Xin,F,4,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+,BEDDOES Clayton,He. Co.,5,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29920/5-ita-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29920/5-ita-vs-chn
+1.0,SASS Martyna,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+20.0,KOSINSKA Agata,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+21.0,CHRAPEK Klaudia,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+5.0,ZIELINSKA Julia,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+7.0,POZNIEWSKA Karolina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+16.0,CZARNECKA Ewelina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+8.0,ONYSHCHENKO Tetiana,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+2.0,GOGOC Wiktoria,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+9.0,SFORA Patrycja,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+22.0,DZIWOK Wiktoria,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+17.0,TALANDA Ida,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+14.0,TOMCZOK Olivia,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+11.0,KORKUZ Dominika,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+23.0,STRZELECKA Joanna,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+24.0,SIKORSKA Wiktoria,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+12.0,WIECZOREK Kamila,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+4.0,LAPIES Magdalena,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+15.0,WCISLO Alicja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+6.0,WOJCIK Patrycja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+18.0,BRZEZINSKA Maja,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+10.0,LASKAWSKA Sylwia,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+13.0,LAPINSKA Julia,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+,WROBEL Zbigniew,He. Co.,5,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+20.0,DUKARIC Pia,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+25.0,DOVZAN Nusa,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+9.0,LONCAR Nina,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+14.0,POREKAR Nusa,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+8.0,CONFIDENTI Sara,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+15.0,PREN Pia,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+17.0,BLAZINSEK Julija,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+18.0,SVETINA Tamara,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+7.0,GLAVIC Deja,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+23.0,PRSINA Ana,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+5.0,NYLAANDER Arwen,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+6.0,DUKARIC Eva,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+10.0,BISCAK Katja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+2.0,BIZJAK Maja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+16.0,BREZNIK Tamara,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+24.0,PAZLAR Ursa,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+19.0,PEZDIR Gaja,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+11.0,FRIS LORBER Tineja,F,4,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+,FERJANIC Franc,He. Co.,5,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29921/6-pol-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29921/6-pol-vs-slo
+20.0,DUKARIC Pia,GK,0,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+25.0,DOVZAN Nusa,GK,0,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+9.0,LONCAR Nina,D,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+14.0,POREKAR Nusa,D,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+8.0,CONFIDENTI Sara,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+19.0,PEZDIR Gaja,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+17.0,BLAZINSEK Julija,F,1,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+7.0,GLAVIC Deja,D,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+18.0,SVETINA Tamara,D,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+6.0,DUKARIC Eva,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+5.0,NYLAANDER Arwen,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+23.0,PRSINA Ana,F,2,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+10.0,BISCAK Katja,D,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+2.0,BIZJAK Maja,D,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+16.0,BREZNIK Tamara,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+24.0,PAZLAR Ursa,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+11.0,FRIS LORBER Tineja,F,3,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+,FERJANIC Franc,He. Co.,4,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+1.0,CHEN Tiya,GK,5,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+24.0,WANG Yuqing,GK,5,SLO,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+6.0,LIU Zhixin,D,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+2.0,YU Baiwei,D,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+8.0,LIN Qiqi,F,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+10.0,MI Le,F,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+19.0,LIN Ni,F,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+5.0,HUANG Huier,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+20.0,FEI Anna,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+17.0,KANG Mu Lan,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+22.0,LI Beika,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+15.0,HU Baozhen,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+13.0,ZHAO Qinan,D,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+14.0,GUAN Yingying,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+3.0,ZHU Rui,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+11.0,ZHANG Xifang,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+23.0,FANG Xin,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+,BEDDOES Clayton,He. Co.,4,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29922/7-slo-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29922/7-slo-vs-chn
+25.0,FEDEL Martina,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+1.0,BELLI Sara,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+18.0,STOCKER Franziska,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+6.0,MATTIVI Nadia,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+12.0,ROCCELLA Rebecca,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+13.0,CAUMO Anna,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+15.0,NICCOLAI Greta,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+9.0,BETTARINI Valentina,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+17.0,LOBIS Laura,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+24.0,GIUS Samantha,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+8.0,FURLANI Chelsea,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+14.0,BONAFINI Eleonora,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+2.0,VARANO Amie,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+5.0,da RECH Mara,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+10.0,ABATANGELO Aurora,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+4.0,SALETTA Carola,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+3.0,MAZZOCCHI Marta,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+11.0,MAIER Nadia,D,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+23.0,CALLOVINI Anna,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+16.0,PERATHONER Elena,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+19.0,CAMPO BAGATIN Mia,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+21.0,ROCCELLA Sharon,F,5,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+,FEDRIZZI Massimo,He. Co.,6,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+20.0,DMITRIEVA Darya,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+25.0,SHYOKOLOVA Arina,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+17.0,OLZHABAYEVA Aida,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+4.0,PYATKOVA Anna,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+5.0,ALDABERGENOVA Malika,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+7.0,ASHIMOVA Pernesh,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+9.0,TURSYNOVA Madina,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+6.0,McLEAN Erin Monique,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+11.0,SENGER Kalista Doris Marlene,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+2.0,RIOUX Roxanne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+12.0,BROAD Kendra Lynne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+21.0,BERNDSEN Breanna Lynn,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+16.0,KONYSHEVA Olga,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+15.0,IVANCHENKO Alina,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+14.0,SVIRIDOVA Larisa,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+3.0,MOLDABAY Daria,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+23.0,KOROLEVA Tatyana,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+1.0,ISKAKOVA Diana,D,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+24.0,KUTSENKO Yekaterina,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+10.0,SAYAKHATKYZY Munira,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+13.0,NOLFINA Lyubov,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+,MALTSEV Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29923/8-ita-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29923/8-ita-vs-kaz
+1.0,CHEON Hyoseo,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+25.0,JANG Inhye,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+8.0,KIM Selin,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+24.0,LEE Sojung,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+10.0,CHOI Jiyeon,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+17.0,PARK Jongah,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+19.0,PARK Jiyoon,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+21.0,YOO Seoyoung,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+14.0,KIM Taeyeon,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+16.0,LEE Eunji,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+9.0,KANG Nara,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+22.0,JUNG Siyun,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+11.0,KIM Dowon,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+12.0,PARK Minae,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+6.0,KIM Nayeon,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+5.0,KANG Sihyun,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+18.0,CHOI Sieun,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+15.0,LEE Juyeon,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+2.0,PARK Jiyoung,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+23.0,KIM Sarang,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+,KIM Sang Jun,He. Co.,5,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+1.0,SASS Martyna,GK,0,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+20.0,KOSINSKA Agata,GK,0,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+21.0,CHRAPEK Klaudia,D,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+5.0,ZIELINSKA Julia,D,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+10.0,LASKAWSKA Sylwia,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+16.0,CZARNECKA Ewelina,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+7.0,POZNIEWSKA Karolina,F,1,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+2.0,GOGOC Wiktoria,D,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+9.0,SFORA Patrycja,D,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+14.0,TOMCZOK Olivia,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+17.0,TALANDA Ida,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+22.0,DZIWOK Wiktoria,F,2,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+11.0,KORKUZ Dominika,D,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+23.0,STRZELECKA Joanna,D,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+24.0,SIKORSKA Wiktoria,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+8.0,ONYSHCHENKO Tetiana,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+12.0,WIECZOREK Kamila,F,3,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+6.0,WOJCIK Patrycja,D,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+15.0,WCISLO Alicja,D,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+13.0,LAPINSKA Julia,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+18.0,BRZEZINSKA Maja,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+4.0,LAPIES Magdalena,F,4,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+,WROBEL Zbigniew,He. Co.,5,POL,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29924/9-kor-vs-pol,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29924/9-kor-vs-pol
+1.0,CHEN Tiya,GK,0,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+24.0,WANG Yuqing,GK,0,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+2.0,YU Baiwei,D,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+6.0,LIU Zhixin,D,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+8.0,LIN Qiqi,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+10.0,MI Le,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+19.0,LIN Ni,F,1,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+5.0,HUANG Huier,D,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+20.0,FEI Anna,D,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+15.0,HU Baozhen,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+17.0,KANG Mu Lan,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+22.0,LI Beika,F,2,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+13.0,ZHAO Qinan,D,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+3.0,ZHU Rui,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+11.0,ZHANG Xifang,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+14.0,GUAN Yingying,F,3,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+23.0,FANG Xin,F,4,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+,BEDDOES Clayton,He. Co.,5,CHN,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+20.0,DMITRIEVA Darya,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+25.0,SHYOKOLOVA Arina,GK,0,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+17.0,OLZHABAYEVA Aida,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+4.0,PYATKOVA Anna,D,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+5.0,ALDABERGENOVA Malika,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+7.0,ASHIMOVA Pernesh,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+9.0,TURSYNOVA Madina,F,1,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+6.0,McLEAN Erin Monique,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+11.0,SENGER Kalista Doris Marlene,D,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+2.0,RIOUX Roxanne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+12.0,BROAD Kendra Lynne,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+21.0,BERNDSEN Breanna Lynn,F,2,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+16.0,KONYSHEVA Olga,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+15.0,IVANCHENKO Alina,D,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+14.0,SVIRIDOVA Larisa,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+3.0,MOLDABAY Daria,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+23.0,KOROLEVA Tatyana,F,3,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+24.0,KUTSENKO Yekaterina,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+10.0,SAYAKHATKYZY Munira,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+13.0,NOLFINA Lyubov,F,4,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+,MALTSEV Alexander,He. Co.,5,KAZ,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29925/10-chn-vs-kaz,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29925/10-chn-vs-kaz
+1.0,CHEON Hyoseo,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+25.0,JANG Inhye,GK,0,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+8.0,KIM Selin,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+24.0,LEE Sojung,D,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+10.0,CHOI Jiyeon,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+17.0,PARK Jongah,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+19.0,PARK Jiyoon,F,1,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+21.0,YOO Seoyoung,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+14.0,KIM Taeyeon,D,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+16.0,LEE Eunji,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+9.0,KANG Nara,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+22.0,JUNG Siyun,F,2,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+11.0,KIM Dowon,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+12.0,PARK Minae,D,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+6.0,KIM Nayeon,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+5.0,KANG Sihyun,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+18.0,CHOI Sieun,F,3,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+2.0,PARK Jiyoung,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+4.0,SONG Yunha,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+15.0,LEE Juyeon,F,4,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+,KIM Sang Jun,He. Co.,5,KOR,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+20.0,DUKARIC Pia,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+25.0,DOVZAN Nusa,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+9.0,LONCAR Nina,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+14.0,POREKAR Nusa,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+8.0,CONFIDENTI Sara,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+15.0,PREN Pia,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+17.0,BLAZINSEK Julija,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+7.0,GLAVIC Deja,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+18.0,SVETINA Tamara,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+5.0,NYLAANDER Arwen,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+6.0,DUKARIC Eva,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+23.0,PRSINA Ana,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+2.0,BIZJAK Maja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+10.0,BISCAK Katja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+16.0,BREZNIK Tamara,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+19.0,PEZDIR Gaja,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+24.0,PAZLAR Ursa,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+11.0,FRIS LORBER Tineja,F,4,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+,FERJANIC Franc,He. Co.,5,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29926/11-kor-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29926/11-kor-vs-slo
+1.0,SASS Martyna,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+20.0,KOSINSKA Agata,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+21.0,CHRAPEK Klaudia,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+5.0,ZIELINSKA Julia,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+10.0,LASKAWSKA Sylwia,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+16.0,CZARNECKA Ewelina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+7.0,POZNIEWSKA Karolina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+2.0,GOGOC Wiktoria,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+9.0,SFORA Patrycja,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+24.0,SIKORSKA Wiktoria,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+17.0,TALANDA Ida,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+12.0,WIECZOREK Kamila,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+11.0,KORKUZ Dominika,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+23.0,STRZELECKA Joanna,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+22.0,DZIWOK Wiktoria,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+8.0,ONYSHCHENKO Tetiana,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+4.0,LAPIES Magdalena,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+15.0,WCISLO Alicja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+6.0,WOJCIK Patrycja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+13.0,LAPINSKA Julia,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+18.0,BRZEZINSKA Maja,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+,WROBEL Zbigniew,He. Co.,5,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+25.0,FEDEL Martina,GK,6,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+1.0,BELLI Sara,GK,6,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+18.0,STOCKER Franziska,D,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+6.0,MATTIVI Nadia,D,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+12.0,ROCCELLA Rebecca,F,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+13.0,CAUMO Anna,F,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+15.0,NICCOLAI Greta,D,0,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+9.0,BETTARINI Valentina,D,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+17.0,LOBIS Laura,D,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+24.0,GIUS Samantha,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+8.0,FURLANI Chelsea,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+19.0,CAMPO BAGATIN Mia,F,1,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+2.0,VARANO Amie,D,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+5.0,da RECH Mara,D,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+10.0,ABATANGELO Aurora,F,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+4.0,SALETTA Carola,F,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+3.0,MAZZOCCHI Marta,F,2,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+11.0,MAIER Nadia,D,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+23.0,CALLOVINI Anna,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+16.0,PERATHONER Elena,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+14.0,BONAFINI Eleonora,F,3,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+21.0,ROCCELLA Sharon,F,4,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+,FEDRIZZI Massimo,He. Co.,5,ITA,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29927/12-pol-vs-ita,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29927/12-pol-vs-ita
+25.0,FEDEL Martina,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+1.0,BELLI Sara,GK,0,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+18.0,STOCKER Franziska,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+17.0,LOBIS Laura,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+12.0,ROCCELLA Rebecca,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+13.0,CAUMO Anna,F,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+15.0,NICCOLAI Greta,D,1,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+9.0,BETTARINI Valentina,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+5.0,da RECH Mara,D,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+24.0,GIUS Samantha,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+8.0,FURLANI Chelsea,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+19.0,CAMPO BAGATIN Mia,F,2,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+2.0,VARANO Amie,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+11.0,MAIER Nadia,D,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+10.0,ABATANGELO Aurora,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+4.0,SALETTA Carola,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+3.0,MAZZOCCHI Marta,F,3,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+6.0,MATTIVI Nadia,D,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+23.0,CALLOVINI Anna,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+16.0,PERATHONER Elena,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+14.0,BONAFINI Eleonora,F,4,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+21.0,ROCCELLA Sharon,F,5,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+,FEDRIZZI Massimo,He. Co.,6,ITA,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+1.0,CHEON Hyoseo,GK,0,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+25.0,JANG Inhye,GK,0,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+8.0,KIM Selin,D,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+24.0,LEE Sojung,D,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+10.0,CHOI Jiyeon,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+17.0,PARK Jongah,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+19.0,PARK Jiyoon,F,1,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+21.0,YOO Seoyoung,D,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+14.0,KIM Taeyeon,D,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+16.0,LEE Eunji,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+9.0,KANG Nara,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+22.0,JUNG Siyun,F,2,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+11.0,KIM Dowon,D,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+12.0,PARK Minae,D,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+6.0,KIM Nayeon,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+5.0,KANG Sihyun,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+18.0,CHOI Sieun,F,3,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+2.0,PARK Jiyoung,F,4,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+4.0,SONG Yunha,F,4,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+15.0,LEE Juyeon,F,4,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+,KIM Sang Jun,He. Co.,5,KOR,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29928/13-ita-vs-kor,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29928/13-ita-vs-kor
+20.0,DMITRIEVA Darya,GK,0,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+25.0,SHYOKOLOVA Arina,GK,0,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+17.0,OLZHABAYEVA Aida,D,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+4.0,PYATKOVA Anna,D,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+5.0,ALDABERGENOVA Malika,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+7.0,ASHIMOVA Pernesh,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+9.0,TURSYNOVA Madina,F,1,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+6.0,McLEAN Erin Monique,D,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+11.0,SENGER Kalista Doris Marlene,D,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+2.0,RIOUX Roxanne,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+12.0,BROAD Kendra Lynne,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+21.0,BERNDSEN Breanna Lynn,F,2,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+16.0,KONYSHEVA Olga,D,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+15.0,IVANCHENKO Alina,D,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+14.0,SVIRIDOVA Larisa,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+3.0,MOLDABAY Daria,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+23.0,KOROLEVA Tatyana,F,3,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+24.0,KUTSENKO Yekaterina,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+10.0,SAYAKHATKYZY Munira,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+13.0,NOLFINA Lyubov,F,4,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+,MALTSEV Alexander,He. Co.,5,KAZ,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+20.0,DUKARIC Pia,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+25.0,DOVZAN Nusa,GK,0,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+7.0,GLAVIC Deja,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+9.0,LONCAR Nina,D,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+8.0,CONFIDENTI Sara,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+15.0,PREN Pia,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+17.0,BLAZINSEK Julija,F,1,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+14.0,POREKAR Nusa,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+18.0,SVETINA Tamara,D,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+23.0,PRSINA Ana,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+19.0,PEZDIR Gaja,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+6.0,DUKARIC Eva,F,2,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+10.0,BISCAK Katja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+2.0,BIZJAK Maja,D,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+16.0,BREZNIK Tamara,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+24.0,PAZLAR Ursa,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+11.0,FRIS LORBER Tineja,F,3,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+5.0,NYLAANDER Arwen,F,4,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+,FERJANIC Franc,He. Co.,5,SLO,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29929/14-kaz-vs-slo,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29929/14-kaz-vs-slo
+1.0,SASS Martyna,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+20.0,KOSINSKA Agata,GK,0,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+21.0,CHRAPEK Klaudia,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+9.0,SFORA Patrycja,D,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+7.0,POZNIEWSKA Karolina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+16.0,CZARNECKA Ewelina,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+10.0,LASKAWSKA Sylwia,F,1,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+2.0,GOGOC Wiktoria,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+5.0,ZIELINSKA Julia,D,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+24.0,SIKORSKA Wiktoria,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+17.0,TALANDA Ida,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+12.0,WIECZOREK Kamila,F,2,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+11.0,KORKUZ Dominika,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+23.0,STRZELECKA Joanna,D,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+22.0,DZIWOK Wiktoria,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+8.0,ONYSHCHENKO Tetiana,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+4.0,LAPIES Magdalena,F,3,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+15.0,WCISLO Alicja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+6.0,WOJCIK Patrycja,D,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+13.0,LAPINSKA Julia,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+18.0,BRZEZINSKA Maja,F,4,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+,WROBEL Zbigniew,He. Co.,5,POL,True,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+1.0,CHEN Tiya,GK,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+24.0,WANG Yuqing,GK,0,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+2.0,YU Baiwei,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+6.0,LIU Zhixin,D,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+8.0,LIN Qiqi,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+10.0,MI Le,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+19.0,LIN Ni,F,1,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+5.0,HUANG Huier,D,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+20.0,FEI Anna,D,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+15.0,HU Baozhen,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+17.0,KANG Mu Lan,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+22.0,LI Beika,F,2,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+13.0,ZHAO Qinan,D,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+3.0,ZHU Rui,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+11.0,ZHANG Xifang,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+14.0,GUAN Yingying,F,3,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+23.0,FANG Xin,F,4,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn
+,BEDDOES Clayton,He. Co.,5,CHN,False,https://www.iihf.com//en/events/2022/wwib/gamecenter/lineup/29930/15-pol-vs-chn,https://www.iihf.com//en/events/2022/wwib/gamecenter/playbyplay/29930/15-pol-vs-chn

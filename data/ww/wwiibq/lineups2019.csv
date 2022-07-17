@@ -1,0 +1,417 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+20.0,CHAU Nga Sze,GK,0,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+25.0,WONG Ying Chi Virginia,GK,0,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+9.0,KWOK Hoi Kei,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+13.0,LEUNG Tsui Shan Aman,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+10.0,IP Estelle Claudia,F,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+12.0,LI Adrienne May,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+7.0,LAU Yeuk Ting,F,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+5.0,CHAN Pui Wing Chloe,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+2.0,CHOW Yick Shuen,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+24.0,CHAK Long Ching Zoe,F,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+17.0,KWAN Yim Kuen,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+19.0,WONG Ka Wing,F,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+21.0,SHUM Monica Ying Jee,D,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+6.0,LIN Suet Ning Joey,D,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+18.0,CHEUNG Oi lam,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+22.0,LEE Chung Kiu,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+23.0,YUEN Wing Hin,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+8.0,CHENG Wai Chun,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+3.0,CHOW Wai Yee,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+11.0,CHEUNG Tsz Ching,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+,YNGVE Perchristian,He. Co.,5,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+1.0,SMITS Maud,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+25.0,KUYPERS Liesl,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+11.0,LEYEN Eline,D,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+23.0,HOREMANS Petra,D,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+6.0,de GUCHTENAERE Lotte,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+19.0,BOSMANS Femke,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+9.0,JENAER Valerie,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+12.0,WILLEMOT Roosje,D,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+4.0,VETTERS Britt,D,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+7.0,CLINCKE Ellen,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+14.0,FRERE Sonja,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+10.0,BOON Cato,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+15.0,MOONEN Emma,D,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+2.0,van HOOTEGEM Jennifer,D,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+24.0,FRANSEN Yara,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+5.0,MAKA Valentine,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+22.0,LEIRS Nadine,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+21.0,VERBIST Linde,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+3.0,de TERWANGNE Audrey,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+17.0,RUTH Luisa,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+,VOS Tim,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6487/1-hkg-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6487/1-hkg-vs-bel
+25.0,TKACHENKO Viktoriia,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+20.0,ZAICHENKO Iryna,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+13.0,KOBCHUK Maryna,D,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+4.0,TARASOVA Vladlena,D,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+15.0,DOBROVOLSKA Yuliia,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+14.0,TSYMYRENKO Daria,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+24.0,SKASHCHUK Vladyslava,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+6.0,MAKARENKO Nadiia,D,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+12.0,VANSOVYCH Olena,D,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+16.0,KOZUB Inna,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+17.0,SLASHCHOVA Tetiana,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+10.0,KOVTUN Diana,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+8.0,HROMOVA Mariia,D,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+18.0,TKACHENKO Tetyana,D,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+3.0,RIABKINA Ielyzaveta,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+22.0,HADLIIA Alika,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+11.0,TKACHUK Olena,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+7.0,ALIPOVA Elizabet,F,4,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+9.0,TSENOVA Viktoriia,F,4,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+19.0,ALIPOVA Elen,F,4,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+,RADCHENKO Vadym,He. Co.,5,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+1.0,SWANEPOEL Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+20.0,van der MERWE Rachel,GK,0,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+19.0,KLEYN Inge,D,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+22.0,KEULER Tarryn,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+4.0,HERRINGER Zoe,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+17.0,WILSON Kelley,D,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+7.0,GRUBER Ashleigh,D,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+23.0,GROBLER Michelle,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+21.0,RHODE Dalene,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+5.0,BRANKIN Claire,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+14.0,KRUGER Claudia,D,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+11.0,VERWEY Dominique,D,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+8.0,LOUBSER Anchen,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+3.0,LANGEVELD Chane,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+15.0,JAMIESON Kelly,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+10.0,LATEGAN Kaylin,D,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+12.0,MOLLER Elaine,F,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+16.0,MARAIS Inge,F,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+,MARAIS Andre,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6488/2-ukr-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6488/2-ukr-vs-rsa
+1.0,STANKOVA Katrin,GK,0,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+25.0,GEORGIEVA Paulina,GK,0,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+8.0,ILIYCHEVA Sofia,D,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+3.0,KOTSEVA Andreya,D,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+7.0,ZAREVA Mirela,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+24.0,POPOVA Aleksandra,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+23.0,MONOVA Lidia,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+21.0,DILOVA Nikol,D,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+22.0,GEORGIEVA Vanesa,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+14.0,EVSTATIEVA Anna,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+9.0,DIMITROVA Viktoria,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+18.0,METANOVA Veronika,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+5.0,STOIMENOVA Mariana,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+4.0,KOZAROVA Karina,D,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+6.0,DANKOVA Desislava,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+11.0,KOLEVA Amalia,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+15.0,TODOROVA Elena,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+10.0,GOSPODINOVA Olga,F,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+16.0,KRUMOVA Mihaela,F,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+19.0,TSVETKOVA Margarita,F,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+,LILOV Dian,He. Co.,5,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+25.0,TKACHENKO Viktoriia,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+20.0,ZAICHENKO Iryna,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+13.0,KOBCHUK Maryna,D,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+4.0,TARASOVA Vladlena,D,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+24.0,SKASHCHUK Vladyslava,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+15.0,DOBROVOLSKA Yuliia,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+14.0,TSYMYRENKO Daria,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+6.0,MAKARENKO Nadiia,D,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+12.0,VANSOVYCH Olena,D,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+16.0,KOZUB Inna,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+10.0,KOVTUN Diana,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+17.0,SLASHCHOVA Tetiana,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+8.0,HROMOVA Mariia,D,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+18.0,TKACHENKO Tetyana,D,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+11.0,TKACHUK Olena,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+22.0,HADLIIA Alika,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+3.0,RIABKINA Ielyzaveta,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+9.0,TSENOVA Viktoriia,F,4,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+19.0,ALIPOVA Elen,F,4,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+7.0,ALIPOVA Elizabet,F,4,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+,RADCHENKO Vadym,He. Co.,5,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6489/3-bul-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6489/3-bul-vs-ukr
+1.0,SMITS Maud,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+25.0,KUYPERS Liesl,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+11.0,LEYEN Eline,D,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+23.0,HOREMANS Petra,D,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+9.0,JENAER Valerie,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+19.0,BOSMANS Femke,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+6.0,de GUCHTENAERE Lotte,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+12.0,WILLEMOT Roosje,D,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+4.0,VETTERS Britt,D,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+10.0,BOON Cato,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+14.0,FRERE Sonja,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+7.0,CLINCKE Ellen,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+15.0,MOONEN Emma,D,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+2.0,van HOOTEGEM Jennifer,D,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+24.0,FRANSEN Yara,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+5.0,MAKA Valentine,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+22.0,LEIRS Nadine,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+17.0,RUTH Luisa,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+3.0,de TERWANGNE Audrey,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+21.0,VERBIST Linde,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+,VOS Tim,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+1.0,STANKOVA Katrin,GK,0,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+3.0,KOTSEVA Andreya,D,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+8.0,ILIYCHEVA Sofia,D,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+7.0,ZAREVA Mirela,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+24.0,POPOVA Aleksandra,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+23.0,MONOVA Lidia,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+22.0,GEORGIEVA Vanesa,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+21.0,DILOVA Nikol,D,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+15.0,TODOROVA Elena,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+18.0,METANOVA Veronika,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+14.0,EVSTATIEVA Anna,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+6.0,DANKOVA Desislava,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+11.0,KOLEVA Amalia,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+5.0,STOIMENOVA Mariana,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+9.0,DIMITROVA Viktoria,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+16.0,KRUMOVA Mihaela,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+4.0,KOZAROVA Karina,D,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+10.0,GOSPODINOVA Olga,F,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+19.0,TSVETKOVA Margarita,F,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+,LILOV Dian,He. Co.,5,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6490/4-bel-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6490/4-bel-vs-bul
+1.0,SWANEPOEL Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+20.0,van der MERWE Rachel,GK,0,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+19.0,KLEYN Inge,D,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+4.0,HERRINGER Zoe,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+7.0,GRUBER Ashleigh,D,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+14.0,KRUGER Claudia,D,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+23.0,GROBLER Michelle,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+21.0,RHODE Dalene,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+5.0,BRANKIN Claire,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+17.0,WILSON Kelley,D,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+11.0,VERWEY Dominique,D,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+8.0,LOUBSER Anchen,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+3.0,LANGEVELD Chane,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+15.0,JAMIESON Kelly,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+10.0,LATEGAN Kaylin,D,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+12.0,MOLLER Elaine,F,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+16.0,MARAIS Inge,F,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+,MARAIS Andre,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+25.0,WONG Ying Chi Virginia,GK,0,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+20.0,CHAU Nga Sze,GK,0,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+9.0,KWOK Hoi Kei,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+13.0,LEUNG Tsui Shan Aman,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+10.0,IP Estelle Claudia,F,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+12.0,LI Adrienne May,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+7.0,LAU Yeuk Ting,F,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+5.0,CHAN Pui Wing Chloe,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+2.0,CHOW Yick Shuen,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+24.0,CHAK Long Ching Zoe,F,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+17.0,KWAN Yim Kuen,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+19.0,WONG Ka Wing,F,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+6.0,LIN Suet Ning Joey,D,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+21.0,SHUM Monica Ying Jee,D,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+18.0,CHEUNG Oi lam,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+22.0,LEE Chung Kiu,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+23.0,YUEN Wing Hin,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+8.0,CHENG Wai Chun,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+3.0,CHOW Wai Yee,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+11.0,CHEUNG Tsz Ching,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+,YNGVE Perchristian,He. Co.,5,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6491/5-rsa-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6491/5-rsa-vs-hkg
+25.0,TKACHENKO Viktoriia,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+20.0,ZAICHENKO Iryna,GK,0,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+13.0,KOBCHUK Maryna,D,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+3.0,RIABKINA Ielyzaveta,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+14.0,TSYMYRENKO Daria,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+15.0,DOBROVOLSKA Yuliia,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+24.0,SKASHCHUK Vladyslava,F,1,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+12.0,VANSOVYCH Olena,D,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+6.0,MAKARENKO Nadiia,D,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+11.0,TKACHUK Olena,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+10.0,KOVTUN Diana,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+22.0,HADLIIA Alika,F,2,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+8.0,HROMOVA Mariia,D,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+18.0,TKACHENKO Tetyana,D,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+17.0,SLASHCHOVA Tetiana,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+16.0,KOZUB Inna,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+19.0,ALIPOVA Elen,F,3,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+4.0,TARASOVA Vladlena,D,4,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+7.0,ALIPOVA Elizabet,F,4,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+,RADCHENKO Vadym,He. Co.,5,UKR,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+1.0,SMITS Maud,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+25.0,KUYPERS Liesl,GK,0,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+11.0,LEYEN Eline,D,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+23.0,HOREMANS Petra,D,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+6.0,de GUCHTENAERE Lotte,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+19.0,BOSMANS Femke,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+9.0,JENAER Valerie,F,1,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+12.0,WILLEMOT Roosje,D,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+4.0,VETTERS Britt,D,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+10.0,BOON Cato,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+14.0,FRERE Sonja,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+7.0,CLINCKE Ellen,F,2,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+2.0,van HOOTEGEM Jennifer,D,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+15.0,MOONEN Emma,D,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+3.0,de TERWANGNE Audrey,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+5.0,MAKA Valentine,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+22.0,LEIRS Nadine,F,3,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+21.0,VERBIST Linde,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+24.0,FRANSEN Yara,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+17.0,RUTH Luisa,F,4,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+,VOS Tim,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6492/6-ukr-vs-bel,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6492/6-ukr-vs-bel
+20.0,CHAU Nga Sze,GK,0,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+25.0,WONG Ying Chi Virginia,GK,0,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+9.0,KWOK Hoi Kei,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+13.0,LEUNG Tsui Shan Aman,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+7.0,LAU Yeuk Ting,F,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+12.0,LI Adrienne May,D,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+10.0,IP Estelle Claudia,F,1,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+2.0,CHOW Yick Shuen,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+5.0,CHAN Pui Wing Chloe,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+24.0,CHAK Long Ching Zoe,F,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+17.0,KWAN Yim Kuen,D,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+19.0,WONG Ka Wing,F,2,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+6.0,LIN Suet Ning Joey,D,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+21.0,SHUM Monica Ying Jee,D,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+11.0,CHEUNG Tsz Ching,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+3.0,CHOW Wai Yee,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+23.0,YUEN Wing Hin,F,3,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+18.0,CHEUNG Oi lam,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+22.0,LEE Chung Kiu,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+8.0,CHENG Wai Chun,F,4,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+,YNGVE Perchristian,He. Co.,5,HKG,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+25.0,TKACHENKO Viktoriia,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+20.0,ZAICHENKO Iryna,GK,0,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+13.0,KOBCHUK Maryna,D,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+4.0,TARASOVA Vladlena,D,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+24.0,SKASHCHUK Vladyslava,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+15.0,DOBROVOLSKA Yuliia,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+11.0,TKACHUK Olena,F,1,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+12.0,VANSOVYCH Olena,D,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+6.0,MAKARENKO Nadiia,D,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+16.0,KOZUB Inna,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+17.0,SLASHCHOVA Tetiana,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+3.0,RIABKINA Ielyzaveta,F,2,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+18.0,TKACHENKO Tetyana,D,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+8.0,HROMOVA Mariia,D,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+7.0,ALIPOVA Elizabet,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+10.0,KOVTUN Diana,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+19.0,ALIPOVA Elen,F,3,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+,RADCHENKO Vadym,He. Co.,4,UKR,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6493/7-hkg-vs-ukr,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6493/7-hkg-vs-ukr
+1.0,SWANEPOEL Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+20.0,van der MERWE Rachel,GK,0,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+19.0,KLEYN Inge,D,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+4.0,HERRINGER Zoe,F,1,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+7.0,GRUBER Ashleigh,D,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+14.0,KRUGER Claudia,D,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+5.0,BRANKIN Claire,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+21.0,RHODE Dalene,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+23.0,GROBLER Michelle,F,2,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+11.0,VERWEY Dominique,D,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+17.0,WILSON Kelley,D,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+8.0,LOUBSER Anchen,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+15.0,JAMIESON Kelly,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+3.0,LANGEVELD Chane,F,3,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+10.0,LATEGAN Kaylin,D,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+16.0,MARAIS Inge,F,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+12.0,MOLLER Elaine,F,4,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+,MARAIS Andre,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+1.0,STANKOVA Katrin,GK,0,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+8.0,ILIYCHEVA Sofia,D,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+3.0,KOTSEVA Andreya,D,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+7.0,ZAREVA Mirela,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+24.0,POPOVA Aleksandra,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+18.0,METANOVA Veronika,F,1,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+21.0,DILOVA Nikol,D,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+22.0,GEORGIEVA Vanesa,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+14.0,EVSTATIEVA Anna,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+9.0,DIMITROVA Viktoria,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+23.0,MONOVA Lidia,F,2,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+6.0,DANKOVA Desislava,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+11.0,KOLEVA Amalia,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+16.0,KRUMOVA Mihaela,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+19.0,TSVETKOVA Margarita,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+15.0,TODOROVA Elena,F,3,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+10.0,GOSPODINOVA Olga,F,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+4.0,KOZAROVA Karina,D,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+5.0,STOIMENOVA Mariana,F,4,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+,LILOV Dian,He. Co.,5,BUL,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6494/8-rsa-vs-bul,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6494/8-rsa-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+1.0,STANKOVA Katrin,GK,0,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+8.0,ILIYCHEVA Sofia,D,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+3.0,KOTSEVA Andreya,D,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+18.0,METANOVA Veronika,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+24.0,POPOVA Aleksandra,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+7.0,ZAREVA Mirela,F,1,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+21.0,DILOVA Nikol,D,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+22.0,GEORGIEVA Vanesa,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+23.0,MONOVA Lidia,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+9.0,DIMITROVA Viktoria,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+14.0,EVSTATIEVA Anna,F,2,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+11.0,KOLEVA Amalia,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+6.0,DANKOVA Desislava,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+15.0,TODOROVA Elena,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+19.0,TSVETKOVA Margarita,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+5.0,STOIMENOVA Mariana,F,3,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+4.0,KOZAROVA Karina,D,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+10.0,GOSPODINOVA Olga,F,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+16.0,KRUMOVA Mihaela,F,4,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+,LILOV Dian,He. Co.,5,BUL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+20.0,CHAU Nga Sze,GK,0,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+25.0,WONG Ying Chi Virginia,GK,0,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+9.0,KWOK Hoi Kei,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+13.0,LEUNG Tsui Shan Aman,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+7.0,LAU Yeuk Ting,F,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+10.0,IP Estelle Claudia,F,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+12.0,LI Adrienne May,D,1,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+2.0,CHOW Yick Shuen,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+5.0,CHAN Pui Wing Chloe,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+22.0,LEE Chung Kiu,F,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+17.0,KWAN Yim Kuen,D,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+18.0,CHEUNG Oi lam,F,2,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+6.0,LIN Suet Ning Joey,D,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+21.0,SHUM Monica Ying Jee,D,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+23.0,YUEN Wing Hin,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+3.0,CHOW Wai Yee,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+11.0,CHEUNG Tsz Ching,F,3,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+24.0,CHAK Long Ching Zoe,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+8.0,CHENG Wai Chun,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+19.0,WONG Ka Wing,F,4,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+,YNGVE Perchristian,He. Co.,5,HKG,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6495/9-bul-vs-hkg,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6495/9-bul-vs-hkg
+1.0,SMITS Maud,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+25.0,KUYPERS Liesl,GK,0,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+11.0,LEYEN Eline,D,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+23.0,HOREMANS Petra,D,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+6.0,de GUCHTENAERE Lotte,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+19.0,BOSMANS Femke,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+9.0,JENAER Valerie,F,1,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+12.0,WILLEMOT Roosje,D,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+4.0,VETTERS Britt,D,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+7.0,CLINCKE Ellen,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+14.0,FRERE Sonja,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+10.0,BOON Cato,F,2,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+15.0,MOONEN Emma,D,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+2.0,van HOOTEGEM Jennifer,D,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+3.0,de TERWANGNE Audrey,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+5.0,MAKA Valentine,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+22.0,LEIRS Nadine,F,3,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+21.0,VERBIST Linde,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+24.0,FRANSEN Yara,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+17.0,RUTH Luisa,F,4,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+,VOS Tim,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+1.0,SWANEPOEL Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+20.0,van der MERWE Rachel,GK,0,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+19.0,KLEYN Inge,D,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+22.0,KEULER Tarryn,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+4.0,HERRINGER Zoe,F,1,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+7.0,GRUBER Ashleigh,D,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+14.0,KRUGER Claudia,D,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+5.0,BRANKIN Claire,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+21.0,RHODE Dalene,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+23.0,GROBLER Michelle,F,2,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+17.0,WILSON Kelley,D,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+11.0,VERWEY Dominique,D,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+8.0,LOUBSER Anchen,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+15.0,JAMIESON Kelly,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+3.0,LANGEVELD Chane,F,3,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+10.0,LATEGAN Kaylin,D,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+12.0,MOLLER Elaine,F,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+16.0,MARAIS Inge,F,4,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa
+,MARAIS Andre,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/lineup/6496/10-bel-vs-rsa,https://www.iihf.com//en/events/2019/wwiibq/gamecenter/playbyplay/6496/10-bel-vs-rsa

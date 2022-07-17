@@ -1,0 +1,25 @@
+jersey_number,name,team,home,pos,sog,ga,svs,svs%,statistics_url,game_url
+1,PALDUM Zejneb,BIH,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32458/1-bih-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32458/1-bih-vs-isr
+20,SADOVIC Hana,BIH,True,GK,13,1,12,92.31,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32458/1-bih-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32458/1-bih-vs-isr
+1,ZILKHA Shelly,ISR,False,GK,7,0,7,100.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32458/1-bih-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32458/1-bih-vs-isr
+25,FATIEV Yael,ISR,False,GK,28,5,23,82.14,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32458/1-bih-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32458/1-bih-vs-isr
+1,TUVIKE Triinu,EST,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32459/2-est-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32459/2-est-vs-srb
+30,SCHULE Delen,EST,True,GK,15,0,15,100.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32459/2-est-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32459/2-est-vs-srb
+1,KORICA Jovana,SRB,False,GK,20,4,16,80.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32459/2-est-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32459/2-est-vs-srb
+25,VERES Sintija,SRB,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32459/2-est-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32459/2-est-vs-srb
+1,ZILKHA Shelly,ISR,True,GK,28,8,20,71.43,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32460/3-isr-vs-est,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32460/3-isr-vs-est
+25,FATIEV Yael,ISR,True,GK,41,2,39,95.12,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32460/3-isr-vs-est,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32460/3-isr-vs-est
+1,TUVIKE Triinu,EST,False,GK,4,0,4,100.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32460/3-isr-vs-est,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32460/3-isr-vs-est
+30,SCHULE Delen,EST,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32460/3-isr-vs-est,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32460/3-isr-vs-est
+1,PALDUM Zejneb,BIH,True,GK,23,5,18,78.26,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32461/4-bih-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32461/4-bih-vs-srb
+20,SADOVIC Hana,BIH,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32461/4-bih-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32461/4-bih-vs-srb
+1,KORICA Jovana,SRB,False,GK,5,1,4,80.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32461/4-bih-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32461/4-bih-vs-srb
+25,VERES Sintija,SRB,False,GK,1,0,1,100.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32461/4-bih-vs-srb,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32461/4-bih-vs-srb
+1,TUVIKE Triinu,EST,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32462/5-est-vs-bih,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32462/5-est-vs-bih
+30,SCHULE Delen,EST,True,GK,6,1,5,83.33,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32462/5-est-vs-bih,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32462/5-est-vs-bih
+1,PALDUM Zejneb,BIH,False,GK,10,3,7,70.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32462/5-est-vs-bih,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32462/5-est-vs-bih
+20,SADOVIC Hana,BIH,False,GK,23,7,16,69.57,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32462/5-est-vs-bih,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32462/5-est-vs-bih
+1,KORICA Jovana,SRB,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32463/6-srb-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32463/6-srb-vs-isr
+25,VERES Sintija,SRB,True,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32463/6-srb-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32463/6-srb-vs-isr
+1,ZILKHA Shelly,ISR,False,GK,0,0,0,0.0,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32463/6-srb-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32463/6-srb-vs-isr
+25,FATIEV Yael,ISR,False,GK,42,6,36,85.71,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/statistics/32463/6-srb-vs-isr,https://www.iihf.com//en/events/2022/wwiiib/gamecenter/playbyplay/32463/6-srb-vs-isr

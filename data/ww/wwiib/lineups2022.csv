@@ -1,0 +1,429 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+1.0,RORKE Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+20.0,van DYK Monique,GK,0,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+14.0,KRUGER Claudia,D,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+10.0,BURGER Angelique,D,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+11.0,VERWEY Dominique,D,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+7.0,WILSON Kelley,D,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+24.0,MOLLER Elaine,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+15.0,JAMIESON Kelly,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+16.0,MEYER Joey,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+3.0,LECHTANSKI Veronica evgenieva,D,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+6.0,DOLIVEIRA Chandre,F,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+21.0,RHODE Dalene,F,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+17.0,BODENSTEIN Liza,F,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+2.0,SCHOLTS Keegan,D,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+12.0,MARAIS Eileen,F,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+5.0,STEYN Zoe-May,F,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+,van DOESBURGH Jean-Michel,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+25.0,HELGUDOTTIR Birta,GK,0,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+1.0,BACHMANN Andrea,GK,0,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+12.0,SNORRADOTTIR Teresa,D,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+15.0,ALEXDOTTIR Elin,D,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+10.0,GEIRSDOTTIR Herborg,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+23.0,BJORGVINSDOTTIR Sunna,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+11.0,BJORGVINSDOTTIR Silvia,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+24.0,BJORNSDOTTIR Katrin,D,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+13.0,BLONDAL Saga,D,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+7.0,BERGSDOTTIR Hilma,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+18.0,LEIFSDOTTIR Berglind,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+6.0,HJALTESTED Brynhildur,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+14.0,KJARTANSDOTTIR Ragnhildur,D,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+3.0,AGUSTSDOTTIR Anna,D,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+22.0,JOHANNSDOTTIR Gunnborg,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+16.0,GARDARSDOTTIR Kolbrun,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+5.0,ARNADOTTIR Sigrun,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+19.0,ARADOTTIR Inga,D,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+8.0,SIGURDARDOTTIR Arndis,D,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+17.0,EIRIKSDOTTIR Maria,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+21.0,GUDBJARTSDOTTIR Jonina,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+4.0,SIGFINNSDOTTIR Elisa,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+,GISLASON Jon,He. Co.,5,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32615/1-rsa-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32615/1-rsa-vs-isl
+1.0,LAST Olivia,GK,0,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+25.0,GIRDLER Tina,GK,0,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+12.0,MOORE Georgia,D,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+8.0,PETHRICK Matilda,D,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+6.0,DAVIS TOPE Emily,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+24.0,SAMMONS Sara,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+3.0,KILIWNIK Lindsey,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+20.0,ELLIS Rylie,D,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+23.0,CARSON Georgia,D,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+19.0,CLARK-CRUMPTON Michelle,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+21.0,TIHEMA Kate,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+13.0,van der WOLF Kristelle,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+2.0,HARVEY Remi,D,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+18.0,PULLIN Marnie,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+11.0,SHARP Nikki,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+10.0,GREEN Shona,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+7.0,MALCOLM Isla,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+22.0,GOONAN Jaimi,D,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+16.0,LUKOWIAK Molly,D,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+14.0,APARICIO Ashlie,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+15.0,COCHRANE Stephenie,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+5.0,MAHONEY Courtney,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+,PHILPS Stuart,He. Co.,5,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+1.0,KARATAS Merve,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+25.0,SERT Azra,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+2.0,DURSUN Hatice,D,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+10.0,GUVEN Sema,D,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+13.0,DEMIRKOL Basak,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+6.0,BAGCI Didem,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+15.0,ALEX Sena,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+18.0,LOKBAS Alara,D,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+4.0,YAVUZ Sena,D,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+8.0,DEMIR Tugce,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+9.0,LOKBAS Dilara,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+17.0,OGUZ Ebrar,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+14.0,CAGDAS Safiye,D,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+3.0,TUNA Betul,D,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+5.0,KUTLUCA Suheda,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+7.0,KOCAK Ayse,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+23.0,TAYGAR Betul,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+22.0,DUMAN Betul,D,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+11.0,GEREZ Irmak,D,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+12.0,KAYA Elif,F,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+16.0,CELIK Cagla,F,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+,CITAK Yucel,He. Co.,5,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32616/2-aus-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32616/2-aus-vs-tur
+20.0,BAZDAR Julija,GK,0,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+25.0,SERTIC Mirna,GK,0,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+16.0,CAVKA Tena,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+18.0,PRIMUZAK Mia,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+5.0,STOLAR Diana,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+17.0,CAVKA Eva,F,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+11.0,MARINKOVIC Matea,F,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+9.0,SOJAT Karla,D,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+24.0,GORSIC Marta,D,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+8.0,PACK Medarda,F,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+15.0,LONCAREVIC Hana,F,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+14.0,MATAK Noa,D,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+12.0,SPUDIC Dora,D,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+10.0,PRETULA Lucija,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+23.0,SIMIC Nika,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+21.0,SNAJDER mia,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+13.0,ANTIC Ana-Marija,F,4,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+19.0,RIMAJ Nika,D,4,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+7.0,MIKSIC Leonarda,F,4,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+,LONCAREVIC Branko,He. Co.,5,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+1.0,RORKE Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+20.0,van DYK Monique,GK,0,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+14.0,KRUGER Claudia,D,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+22.0,KEULER Tarryn,F,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+5.0,STEYN Zoe-May,F,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+11.0,VERWEY Dominique,D,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+7.0,WILSON Kelley,D,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+24.0,MOLLER Elaine,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+15.0,JAMIESON Kelly,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+16.0,MEYER Joey,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+3.0,LECHTANSKI Veronica evgenieva,D,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+6.0,DOLIVEIRA Chandre,F,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+21.0,RHODE Dalene,F,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+10.0,BURGER Angelique,D,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+2.0,SCHOLTS Keegan,D,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+12.0,MARAIS Eileen,F,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+17.0,BODENSTEIN Liza,F,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+,van DOESBURGH Jean-Michel,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32617/3-cro-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32617/3-cro-vs-rsa
+25.0,HELGUDOTTIR Birta,GK,0,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+1.0,BACHMANN Andrea,GK,0,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+15.0,ALEXDOTTIR Elin,D,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+12.0,SNORRADOTTIR Teresa,D,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+7.0,BERGSDOTTIR Hilma,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+18.0,LEIFSDOTTIR Berglind,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+6.0,HJALTESTED Brynhildur,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+24.0,BJORNSDOTTIR Katrin,D,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+13.0,BLONDAL Saga,D,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+10.0,GEIRSDOTTIR Herborg,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+23.0,BJORGVINSDOTTIR Sunna,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+11.0,BJORGVINSDOTTIR Silvia,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+14.0,KJARTANSDOTTIR Ragnhildur,D,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+3.0,AGUSTSDOTTIR Anna,D,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+22.0,JOHANNSDOTTIR Gunnborg,F,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+16.0,GARDARSDOTTIR Kolbrun,F,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+5.0,ARNADOTTIR Sigrun,F,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+19.0,ARADOTTIR Inga,D,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+8.0,SIGURDARDOTTIR Arndis,D,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+17.0,EIRIKSDOTTIR Maria,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+21.0,GUDBJARTSDOTTIR Jonina,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+4.0,SIGFINNSDOTTIR Elisa,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+,GISLASON Jon,He. Co.,5,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+1.0,KARATAS Merve,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+25.0,SERT Azra,GK,0,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+2.0,DURSUN Hatice,D,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+10.0,GUVEN Sema,D,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+13.0,DEMIRKOL Basak,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+6.0,BAGCI Didem,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+15.0,ALEX Sena,F,1,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+18.0,LOKBAS Alara,D,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+4.0,YAVUZ Sena,D,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+8.0,DEMIR Tugce,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+9.0,LOKBAS Dilara,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+17.0,OGUZ Ebrar,F,2,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+14.0,CAGDAS Safiye,D,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+3.0,TUNA Betul,D,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+5.0,KUTLUCA Suheda,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+7.0,KOCAK Ayse,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+23.0,TAYGAR Betul,F,3,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+22.0,DUMAN Betul,D,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+11.0,GEREZ Irmak,D,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+12.0,KAYA Elif,F,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+16.0,CELIK Cagla,F,4,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+,CITAK Yucel,He. Co.,5,TUR,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32618/4-isl-vs-tur,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32618/4-isl-vs-tur
+20.0,BAZDAR Julija,GK,0,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+25.0,SERTIC Mirna,GK,0,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+5.0,STOLAR Diana,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+18.0,PRIMUZAK Mia,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+24.0,GORSIC Marta,D,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+17.0,CAVKA Eva,F,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+11.0,MARINKOVIC Matea,F,1,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+9.0,SOJAT Karla,D,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+14.0,MATAK Noa,D,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+8.0,PACK Medarda,F,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+15.0,LONCAREVIC Hana,F,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+7.0,MIKSIC Leonarda,F,2,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+12.0,SPUDIC Dora,D,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+10.0,PRETULA Lucija,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+23.0,SIMIC Nika,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+21.0,SNAJDER mia,F,3,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+13.0,ANTIC Ana-Marija,F,4,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+19.0,RIMAJ Nika,D,4,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+,LONCAREVIC Branko,He. Co.,5,CRO,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+25.0,GIRDLER Tina,GK,0,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+1.0,LAST Olivia,GK,0,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+12.0,MOORE Georgia,D,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+8.0,PETHRICK Matilda,D,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+6.0,DAVIS TOPE Emily,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+24.0,SAMMONS Sara,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+3.0,KILIWNIK Lindsey,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+2.0,HARVEY Remi,D,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+18.0,PULLIN Marnie,D,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+7.0,MALCOLM Isla,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+10.0,GREEN Shona,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+11.0,SHARP Nikki,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+20.0,ELLIS Rylie,D,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+23.0,CARSON Georgia,D,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+19.0,CLARK-CRUMPTON Michelle,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+21.0,TIHEMA Kate,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+13.0,van der WOLF Kristelle,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+22.0,GOONAN Jaimi,D,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+16.0,LUKOWIAK Molly,D,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+14.0,APARICIO Ashlie,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+15.0,COCHRANE Stephenie,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+5.0,MAHONEY Courtney,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+,PHILPS Stuart,He. Co.,5,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32619/5-cro-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32619/5-cro-vs-aus
+1.0,RORKE Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+20.0,van DYK Monique,GK,0,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+14.0,KRUGER Claudia,D,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+5.0,STEYN Zoe-May,F,1,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+11.0,VERWEY Dominique,D,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+7.0,WILSON Kelley,D,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+24.0,MOLLER Elaine,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+15.0,JAMIESON Kelly,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+16.0,MEYER Joey,F,2,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+3.0,LECHTANSKI Veronica evgenieva,D,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+6.0,DOLIVEIRA Chandre,F,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+21.0,RHODE Dalene,F,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+10.0,BURGER Angelique,D,3,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+2.0,SCHOLTS Keegan,D,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+12.0,MARAIS Eileen,F,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+17.0,BODENSTEIN Liza,F,4,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+,van DOESBURGH Jean-Michel,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+25.0,GIRDLER Tina,GK,0,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+1.0,LAST Olivia,GK,0,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+2.0,HARVEY Remi,D,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+18.0,PULLIN Marnie,D,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+14.0,APARICIO Ashlie,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+15.0,COCHRANE Stephenie,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+5.0,MAHONEY Courtney,F,1,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+12.0,MOORE Georgia,D,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+8.0,PETHRICK Matilda,D,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+6.0,DAVIS TOPE Emily,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+24.0,SAMMONS Sara,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+3.0,KILIWNIK Lindsey,F,2,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+20.0,ELLIS Rylie,D,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+23.0,CARSON Georgia,D,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+7.0,MALCOLM Isla,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+10.0,GREEN Shona,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+11.0,SHARP Nikki,F,3,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+22.0,GOONAN Jaimi,D,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+19.0,CLARK-CRUMPTON Michelle,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+21.0,TIHEMA Kate,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+13.0,van der WOLF Kristelle,F,4,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+,PHILPS Stuart,He. Co.,5,AUS,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32620/6-rsa-vs-aus,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32620/6-rsa-vs-aus
+1.0,KARATAS Merve,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+25.0,SERT Azra,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+2.0,DURSUN Hatice,D,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+10.0,GUVEN Sema,D,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+13.0,DEMIRKOL Basak,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+6.0,BAGCI Didem,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+15.0,ALEX Sena,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+18.0,LOKBAS Alara,D,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+4.0,YAVUZ Sena,D,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+8.0,DEMIR Tugce,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+9.0,LOKBAS Dilara,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+17.0,OGUZ Ebrar,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+14.0,CAGDAS Safiye,D,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+3.0,TUNA Betul,D,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+5.0,KUTLUCA Suheda,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+7.0,KOCAK Ayse,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+23.0,TAYGAR Betul,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+22.0,DUMAN Betul,D,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+11.0,GEREZ Irmak,D,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+12.0,KAYA Elif,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+16.0,CELIK Cagla,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+19.0,TUZGEN DAGLI Hatice,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+,CITAK Yucel,He. Co.,5,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+1.0,RORKE Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+20.0,van DYK Monique,GK,0,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+14.0,KRUGER Claudia,D,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+21.0,RHODE Dalene,F,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+10.0,BURGER Angelique,D,1,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+11.0,VERWEY Dominique,D,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+3.0,LECHTANSKI Veronica evgenieva,D,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+24.0,MOLLER Elaine,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+15.0,JAMIESON Kelly,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+16.0,MEYER Joey,F,2,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+6.0,DOLIVEIRA Chandre,F,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+22.0,KEULER Tarryn,F,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+5.0,STEYN Zoe-May,F,3,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+2.0,SCHOLTS Keegan,D,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+12.0,MARAIS Eileen,F,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+17.0,BODENSTEIN Liza,F,4,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+,van DOESBURGH Jean-Michel,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32621/7-tur-vs-rsa,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32621/7-tur-vs-rsa
+25.0,HELGUDOTTIR Birta,GK,0,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+1.0,BACHMANN Andrea,GK,0,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+24.0,BJORNSDOTTIR Katrin,D,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+13.0,BLONDAL Saga,D,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+10.0,GEIRSDOTTIR Herborg,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+23.0,BJORGVINSDOTTIR Sunna,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+11.0,BJORGVINSDOTTIR Silvia,F,1,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+12.0,SNORRADOTTIR Teresa,D,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+15.0,ALEXDOTTIR Elin,D,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+7.0,BERGSDOTTIR Hilma,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+18.0,LEIFSDOTTIR Berglind,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+6.0,HJALTESTED Brynhildur,F,2,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+14.0,KJARTANSDOTTIR Ragnhildur,D,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+3.0,AGUSTSDOTTIR Anna,D,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+22.0,JOHANNSDOTTIR Gunnborg,F,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+19.0,ARADOTTIR Inga,D,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+5.0,ARNADOTTIR Sigrun,F,3,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+8.0,SIGURDARDOTTIR Arndis,D,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+17.0,EIRIKSDOTTIR Maria,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+21.0,GUDBJARTSDOTTIR Jonina,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+4.0,SIGFINNSDOTTIR Elisa,F,4,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+,GISLASON Jon,He. Co.,5,ISL,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+20.0,BAZDAR Julija,GK,0,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+25.0,SERTIC Mirna,GK,0,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+16.0,CAVKA Tena,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+18.0,PRIMUZAK Mia,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+14.0,MATAK Noa,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+17.0,CAVKA Eva,F,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+11.0,MARINKOVIC Matea,F,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+9.0,SOJAT Karla,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+5.0,STOLAR Diana,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+8.0,PACK Medarda,F,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+15.0,LONCAREVIC Hana,F,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+24.0,GORSIC Marta,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+12.0,SPUDIC Dora,D,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+10.0,PRETULA Lucija,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+23.0,SIMIC Nika,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+7.0,MIKSIC Leonarda,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+13.0,ANTIC Ana-Marija,F,4,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+21.0,SNAJDER mia,F,4,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+,LONCAREVIC Branko,He. Co.,5,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32622/8-isl-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32622/8-isl-vs-cro
+1.0,LAST Olivia,GK,0,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+25.0,GIRDLER Tina,GK,0,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+12.0,MOORE Georgia,D,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+8.0,PETHRICK Matilda,D,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+6.0,DAVIS TOPE Emily,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+24.0,SAMMONS Sara,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+3.0,KILIWNIK Lindsey,F,1,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+20.0,ELLIS Rylie,D,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+23.0,CARSON Georgia,D,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+7.0,MALCOLM Isla,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+10.0,GREEN Shona,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+11.0,SHARP Nikki,F,2,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+2.0,HARVEY Remi,D,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+18.0,PULLIN Marnie,D,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+14.0,APARICIO Ashlie,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+15.0,COCHRANE Stephenie,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+5.0,MAHONEY Courtney,F,3,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+22.0,GOONAN Jaimi,D,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+16.0,LUKOWIAK Molly,D,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+19.0,CLARK-CRUMPTON Michelle,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+21.0,TIHEMA Kate,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+13.0,van der WOLF Kristelle,F,4,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+,PHILPS Stuart,He. Co.,5,AUS,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+25.0,HELGUDOTTIR Birta,GK,0,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+1.0,BACHMANN Andrea,GK,0,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+24.0,BJORNSDOTTIR Katrin,D,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+13.0,BLONDAL Saga,D,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+10.0,GEIRSDOTTIR Herborg,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+23.0,BJORGVINSDOTTIR Sunna,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+11.0,BJORGVINSDOTTIR Silvia,F,1,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+12.0,SNORRADOTTIR Teresa,D,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+15.0,ALEXDOTTIR Elin,D,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+7.0,BERGSDOTTIR Hilma,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+18.0,LEIFSDOTTIR Berglind,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+6.0,HJALTESTED Brynhildur,F,2,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+14.0,KJARTANSDOTTIR Ragnhildur,D,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+3.0,AGUSTSDOTTIR Anna,D,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+22.0,JOHANNSDOTTIR Gunnborg,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+16.0,GARDARSDOTTIR Kolbrun,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+5.0,ARNADOTTIR Sigrun,F,3,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+19.0,ARADOTTIR Inga,D,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+8.0,SIGURDARDOTTIR Arndis,D,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+17.0,EIRIKSDOTTIR Maria,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+21.0,GUDBJARTSDOTTIR Jonina,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+4.0,SIGFINNSDOTTIR Elisa,F,4,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+,GISLASON Jon,He. Co.,5,ISL,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32623/9-aus-vs-isl,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32623/9-aus-vs-isl
+1.0,KARATAS Merve,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+25.0,SERT Azra,GK,0,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+2.0,DURSUN Hatice,D,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+10.0,GUVEN Sema,D,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+13.0,DEMIRKOL Basak,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+6.0,BAGCI Didem,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+15.0,ALEX Sena,F,1,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+18.0,LOKBAS Alara,D,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+4.0,YAVUZ Sena,D,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+8.0,DEMIR Tugce,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+9.0,LOKBAS Dilara,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+17.0,OGUZ Ebrar,F,2,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+14.0,CAGDAS Safiye,D,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+3.0,TUNA Betul,D,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+5.0,KUTLUCA Suheda,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+7.0,KOCAK Ayse,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+23.0,TAYGAR Betul,F,3,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+22.0,DUMAN Betul,D,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+11.0,GEREZ Irmak,D,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+12.0,KAYA Elif,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+16.0,CELIK Cagla,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+19.0,TUZGEN DAGLI Hatice,F,4,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+,CITAK Yucel,He. Co.,5,TUR,True,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+20.0,BAZDAR Julija,GK,0,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+25.0,SERTIC Mirna,GK,0,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+16.0,CAVKA Tena,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+18.0,PRIMUZAK Mia,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+14.0,MATAK Noa,D,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+17.0,CAVKA Eva,F,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+11.0,MARINKOVIC Matea,F,1,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+9.0,SOJAT Karla,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+5.0,STOLAR Diana,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+8.0,PACK Medarda,F,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+15.0,LONCAREVIC Hana,F,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+24.0,GORSIC Marta,D,2,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+12.0,SPUDIC Dora,D,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+10.0,PRETULA Lucija,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+23.0,SIMIC Nika,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+21.0,SNAJDER mia,F,3,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+13.0,ANTIC Ana-Marija,F,4,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+7.0,MIKSIC Leonarda,F,4,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro
+,LONCAREVIC Branko,He. Co.,5,CRO,False,https://www.iihf.com//en/events/2022/wwiib/gamecenter/lineup/32624/10-tur-vs-cro,https://www.iihf.com//en/events/2022/wwiib/gamecenter/playbyplay/32624/10-tur-vs-cro

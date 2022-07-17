@@ -1,0 +1,684 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+1.0,BUDAJOVA Jana,GK,0,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+25.0,LETTRICHOVA Andrea,GK,0,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+2.0,SULIKOVA Laura,D,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+15.0,KOSECKA Romana,D,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+10.0,HLINKOVA Janka,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+3.0,CUPKOVA Nicol,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+11.0,IHNATOVA Viktoria,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+23.0,DRABEKOVA Lucia,D,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+4.0,KUCERKOVA Nina,D,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+12.0,HALUSKOVA Lucia,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+24.0,TREBULOVA Radka,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+16.0,KORENKOVA Tatiana,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+17.0,ISTOCYOVA Tatiana,D,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+5.0,CURMOVA Lenka,D,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+8.0,KLIMASOVA Iveta,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+19.0,RUMANOVA Nikola,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+9.0,NOVOTNA Petronela,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+22.0,DZURINOVA Patricia Maria,D,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+7.0,MASKALOVA Viktoria,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+6.0,ISTOCYOVA Lucia,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+21.0,MATEJKOVA Julia,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+13.0,KUBEKOVA Livia,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+,BEZDEK Jan,He. Co.,5,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+20.0,JENSEN Lisa,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+25.0,REPSTOCK-ROMME Cassandra,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+19.0,ASPERUP Josephine,D,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+7.0,FRANDSEN Malene,D,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+8.0,PERSSON Josefine,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+5.0,JAKOBSEN Josefine,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+4.0,GLUD Silke,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+16.0,ANDERSEN Amalie,D,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+3.0,JENSEN Sanne,D,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+14.0,JENSEN Nicoline,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+21.0,HANSEN Michelle,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+15.0,FRIIS-HANSEN Lilli,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+22.0,MELBERG Kristine,D,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+24.0,THOMSEN Linn,D,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+13.0,BRIX Michele,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+18.0,PETERS Maria,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+6.0,HANSEN Mia,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+11.0,HANSEN Josefine,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+17.0,SKRIVER Sofia,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+23.0,OKSBJERG Julie,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+10.0,BAGGESEN Sofia,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+2.0,SORENSEN Mille,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+,GLADER Fredrik,He. Co.,5,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6256/1-svk-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6256/1-svk-vs-den
+1.0,NYSTROM Ena,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+12.0,MORSET Ingrid,D,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+19.0,JORGENSEN Thea,D,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+18.0,BISETH ENGMANN Josefine,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+24.0,FISCHER Mathea,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+22.0,DALEN Andrea,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+2.0,TENDENES Lene,D,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+5.0,OLSEN Kamilla,D,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+21.0,HAUG HANSEN Madelen,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+11.0,BIALIK Line,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+17.0,SIRUM Millie,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+8.0,STROMSTAD Therese,D,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+23.0,BERGESEN Emma,D,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+6.0,BJELLAND Une,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+15.0,KRUSE Emilie,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+13.0,BERGE Ingrid,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+10.0,BRUNVOLD Marthe,D,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+9.0,FJELLVANG Sofie,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+7.0,PEDERSEN Karoline,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+16.0,FURULUND Andrine,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+,PETTERSEN Thomas,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+1.0,NEMETH Aniko,GK,0,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+25.0,NEHRING Stephanie,GK,0,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+14.0,KISS-SIMON Franciska,D,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+8.0,KREISZ Emma,D,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+9.0,JOKAI-SZILAGYI Kinga,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+24.0,JOKAI-SZILAGYI Zsofia,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+22.0,GOWIE Alexandra,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+5.0,MAYER Fruzsina,D,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+2.0,NEMETH Bernadett,D,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+15.0,DABASI Reka,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+18.0,HUSZAK Alexandra,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+10.0,HORVATH Tifani,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+13.0,ODNOGA Lotti,D,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+3.0,TOTH Eniko,D,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+11.0,GASPARICS Fanni,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+21.0,PINTER Lili,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+17.0,NOOREN Averi,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+16.0,GRKOVIC Jelena,D,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+6.0,RONAI Alexandra,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+23.0,PINTER Hanna,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+12.0,KISS Andrea,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+7.0,SEREGELY Mira,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+,CORTINA Pat,He. Co.,5,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6257/2-nor-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6257/2-nor-vs-hun
+1.0,MAZZOCCHI Giulia,GK,0,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+20.0,BIONDI Elisa,GK,0,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+7.0,de ROCCO Linda,D,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+6.0,GALTIERI Federica,D,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+21.0,DALPRA Eleonora,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+4.0,SALETTA Carola,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+10.0,de la FOREST de DIVONNE Anna,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+2.0,MATTIVI Nadia,D,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+18.0,STOCKER Franziska,D,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+22.0,ZANDEGIACOMO MISTROTOFOLO Federica,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+14.0,CARIGNANO Silvia,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+13.0,BATTISTI Giorgia,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+3.0,RICCA Valentina,D,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+16.0,ORLANDINI Anneke Katharina,D,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+23.0,ABATANGELO Aurora,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+8.0,CAUMO Anna,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+12.0,ROCCELLA Rebecca,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+5.0,da RECH Mara,D,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+17.0,MAIR Lea,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+11.0,MURARO Anita,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+19.0,CAMPO BAGATIN Mia,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+9.0,NICCOLAI Greta,D,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+,LIBERATORE Marco,He. Co.,5,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+20.0,EKRT Jessica,GK,0,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+1.0,ARNBERGER Nicole,GK,0,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+17.0,WITTICH Charlotte,D,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+4.0,MATZKA Antonia,D,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+22.0,ALTMANN Denise,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+23.0,VAARALA Esther,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+10.0,MEIXNER Anna,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+12.0,FAZOKAS Annika,D,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+5.0,GRANITZ Nadja,D,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+7.0,SCHAFZAHL Theresa,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+19.0,VERWORNER Eva-Maria,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+24.0,TRUMMER Anja,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+6.0,KRAUS Laura,D,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+18.0,LOPEZ Alessandra,D,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+8.0,VOLGGER Sophia,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+13.0,GRASCHER Tamara,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+9.0,HANSER Anna,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+3.0,AUSPERGER Nina,D,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+21.0,CLODI Carlotta,D,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+14.0,BURGHART Isabella,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+15.0,WILLENSHOFER Julia,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+16.0,VLCEK Monika,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+,KURKINEN Risto,He. Co.,5,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6258/3-ita-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6258/3-ita-vs-aut
+20.0,JENSEN Lisa,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+25.0,REPSTOCK-ROMME Cassandra,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+7.0,FRANDSEN Malene,D,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+19.0,ASPERUP Josephine,D,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+8.0,PERSSON Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+5.0,JAKOBSEN Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+4.0,GLUD Silke,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+16.0,ANDERSEN Amalie,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+3.0,JENSEN Sanne,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+15.0,FRIIS-HANSEN Lilli,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+21.0,HANSEN Michelle,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+14.0,JENSEN Nicoline,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+22.0,MELBERG Kristine,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+24.0,THOMSEN Linn,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+6.0,HANSEN Mia,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+18.0,PETERS Maria,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+13.0,BRIX Michele,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+2.0,SORENSEN Mille,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+17.0,SKRIVER Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+23.0,OKSBJERG Julie,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+10.0,BAGGESEN Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+11.0,HANSEN Josefine,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+,GLADER Fredrik,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+1.0,MAZZOCCHI Giulia,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+20.0,BIONDI Elisa,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+7.0,de ROCCO Linda,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+6.0,GALTIERI Federica,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+10.0,de la FOREST de DIVONNE Anna,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+4.0,SALETTA Carola,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+21.0,DALPRA Eleonora,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+2.0,MATTIVI Nadia,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+18.0,STOCKER Franziska,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+22.0,ZANDEGIACOMO MISTROTOFOLO Federica,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+14.0,CARIGNANO Silvia,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+13.0,BATTISTI Giorgia,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+3.0,RICCA Valentina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+16.0,ORLANDINI Anneke Katharina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+12.0,ROCCELLA Rebecca,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+8.0,CAUMO Anna,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+23.0,ABATANGELO Aurora,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+5.0,da RECH Mara,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+17.0,MAIR Lea,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+11.0,MURARO Anita,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+19.0,CAMPO BAGATIN Mia,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+9.0,NICCOLAI Greta,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+,LIBERATORE Marco,He. Co.,5,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6259/4-den-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6259/4-den-vs-ita
+1.0,NEMETH Aniko,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+25.0,NEHRING Stephanie,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+5.0,MAYER Fruzsina,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+2.0,NEMETH Bernadett,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+9.0,JOKAI-SZILAGYI Kinga,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+24.0,JOKAI-SZILAGYI Zsofia,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+22.0,GOWIE Alexandra,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+14.0,KISS-SIMON Franciska,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+8.0,KREISZ Emma,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+15.0,DABASI Reka,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+18.0,HUSZAK Alexandra,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+10.0,HORVATH Tifani,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+13.0,ODNOGA Lotti,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+3.0,TOTH Eniko,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+11.0,GASPARICS Fanni,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+7.0,SEREGELY Mira,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+17.0,NOOREN Averi,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+16.0,GRKOVIC Jelena,D,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+6.0,RONAI Alexandra,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+23.0,PINTER Hanna,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+21.0,PINTER Lili,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+12.0,KISS Andrea,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+,CORTINA Pat,He. Co.,5,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+1.0,BUDAJOVA Jana,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+25.0,LETTRICHOVA Andrea,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+15.0,KOSECKA Romana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+17.0,ISTOCYOVA Tatiana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+10.0,HLINKOVA Janka,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+3.0,CUPKOVA Nicol,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+13.0,KUBEKOVA Livia,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+23.0,DRABEKOVA Lucia,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+4.0,KUCERKOVA Nina,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+12.0,HALUSKOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+24.0,TREBULOVA Radka,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+16.0,KORENKOVA Tatiana,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+2.0,SULIKOVA Laura,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+5.0,CURMOVA Lenka,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+8.0,KLIMASOVA Iveta,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+19.0,RUMANOVA Nikola,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+11.0,IHNATOVA Viktoria,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+22.0,DZURINOVA Patricia Maria,D,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+7.0,MASKALOVA Viktoria,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+6.0,ISTOCYOVA Lucia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+21.0,MATEJKOVA Julia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+9.0,NOVOTNA Petronela,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+,BEZDEK Jan,He. Co.,5,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6260/5-hun-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6260/5-hun-vs-svk
+1.0,ARNBERGER Nicole,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+20.0,EKRT Jessica,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+17.0,WITTICH Charlotte,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+18.0,LOPEZ Alessandra,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+22.0,ALTMANN Denise,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+23.0,VAARALA Esther,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+10.0,MEIXNER Anna,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+12.0,FAZOKAS Annika,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+5.0,GRANITZ Nadja,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+7.0,SCHAFZAHL Theresa,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+19.0,VERWORNER Eva-Maria,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+9.0,HANSER Anna,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+6.0,KRAUS Laura,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+4.0,MATZKA Antonia,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+8.0,VOLGGER Sophia,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+13.0,GRASCHER Tamara,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+24.0,TRUMMER Anja,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+3.0,AUSPERGER Nina,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+21.0,CLODI Carlotta,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+14.0,BURGHART Isabella,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+15.0,WILLENSHOFER Julia,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+16.0,VLCEK Monika,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+,KURKINEN Risto,He. Co.,5,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+12.0,MORSET Ingrid,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+19.0,JORGENSEN Thea,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+18.0,BISETH ENGMANN Josefine,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+11.0,BIALIK Line,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+22.0,DALEN Andrea,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+2.0,TENDENES Lene,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+5.0,OLSEN Kamilla,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+21.0,HAUG HANSEN Madelen,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+24.0,FISCHER Mathea,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+17.0,SIRUM Millie,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+8.0,STROMSTAD Therese,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+23.0,BERGESEN Emma,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+6.0,BJELLAND Une,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+15.0,KRUSE Emilie,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+13.0,BERGE Ingrid,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+10.0,BRUNVOLD Marthe,D,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+9.0,FJELLVANG Sofie,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+7.0,PEDERSEN Karoline,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+16.0,FURULUND Andrine,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+,PETTERSEN Thomas,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6261/6-aut-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6261/6-aut-vs-nor
+1.0,MAZZOCCHI Giulia,GK,0,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+20.0,BIONDI Elisa,GK,0,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+7.0,de ROCCO Linda,D,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+6.0,GALTIERI Federica,D,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+21.0,DALPRA Eleonora,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+4.0,SALETTA Carola,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+10.0,de la FOREST de DIVONNE Anna,F,1,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+18.0,STOCKER Franziska,D,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+2.0,MATTIVI Nadia,D,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+22.0,ZANDEGIACOMO MISTROTOFOLO Federica,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+19.0,CAMPO BAGATIN Mia,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+11.0,MURARO Anita,F,2,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+3.0,RICCA Valentina,D,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+16.0,ORLANDINI Anneke Katharina,D,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+12.0,ROCCELLA Rebecca,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+8.0,CAUMO Anna,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+23.0,ABATANGELO Aurora,F,3,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+5.0,da RECH Mara,D,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+17.0,MAIR Lea,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+9.0,NICCOLAI Greta,D,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+14.0,CARIGNANO Silvia,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+13.0,BATTISTI Giorgia,F,4,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+,LIBERATORE Marco,He. Co.,5,ITA,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+12.0,MORSET Ingrid,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+19.0,JORGENSEN Thea,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+16.0,FURULUND Andrine,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+11.0,BIALIK Line,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+22.0,DALEN Andrea,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+2.0,TENDENES Lene,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+5.0,OLSEN Kamilla,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+21.0,HAUG HANSEN Madelen,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+24.0,FISCHER Mathea,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+17.0,SIRUM Millie,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+23.0,BERGESEN Emma,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+8.0,STROMSTAD Therese,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+6.0,BJELLAND Une,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+15.0,KRUSE Emilie,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+18.0,BISETH ENGMANN Josefine,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+10.0,BRUNVOLD Marthe,D,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+9.0,FJELLVANG Sofie,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+7.0,PEDERSEN Karoline,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+13.0,BERGE Ingrid,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+,PETTERSEN Thomas,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6262/7-ita-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6262/7-ita-vs-nor
+25.0,NEHRING Stephanie,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+1.0,NEMETH Aniko,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+2.0,NEMETH Bernadett,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+13.0,ODNOGA Lotti,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+9.0,JOKAI-SZILAGYI Kinga,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+24.0,JOKAI-SZILAGYI Zsofia,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+22.0,GOWIE Alexandra,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+16.0,GRKOVIC Jelena,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+3.0,TOTH Eniko,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+15.0,DABASI Reka,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+18.0,HUSZAK Alexandra,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+7.0,SEREGELY Mira,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+14.0,KISS-SIMON Franciska,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+8.0,KREISZ Emma,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+11.0,GASPARICS Fanni,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+10.0,HORVATH Tifani,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+17.0,NOOREN Averi,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+6.0,RONAI Alexandra,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+12.0,KISS Andrea,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+21.0,PINTER Lili,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+23.0,PINTER Hanna,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+,CORTINA Pat,He. Co.,5,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+20.0,JENSEN Lisa,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+25.0,REPSTOCK-ROMME Cassandra,GK,0,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+7.0,FRANDSEN Malene,D,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+19.0,ASPERUP Josephine,D,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+8.0,PERSSON Josefine,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+5.0,JAKOBSEN Josefine,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+4.0,GLUD Silke,F,1,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+16.0,ANDERSEN Amalie,D,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+3.0,JENSEN Sanne,D,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+15.0,FRIIS-HANSEN Lilli,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+21.0,HANSEN Michelle,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+14.0,JENSEN Nicoline,F,2,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+22.0,MELBERG Kristine,D,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+24.0,THOMSEN Linn,D,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+6.0,HANSEN Mia,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+18.0,PETERS Maria,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+13.0,BRIX Michele,F,3,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+17.0,SKRIVER Sofia,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+2.0,SORENSEN Mille,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+23.0,OKSBJERG Julie,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+10.0,BAGGESEN Sofia,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+11.0,HANSEN Josefine,F,4,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+,GLADER Fredrik,He. Co.,5,DEN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6263/8-hun-vs-den,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6263/8-hun-vs-den
+20.0,EKRT Jessica,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+1.0,ARNBERGER Nicole,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+4.0,MATZKA Antonia,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+17.0,WITTICH Charlotte,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+10.0,MEIXNER Anna,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+23.0,VAARALA Esther,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+22.0,ALTMANN Denise,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+5.0,GRANITZ Nadja,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+12.0,FAZOKAS Annika,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+9.0,HANSER Anna,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+19.0,VERWORNER Eva-Maria,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+7.0,SCHAFZAHL Theresa,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+18.0,LOPEZ Alessandra,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+6.0,KRAUS Laura,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+24.0,TRUMMER Anja,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+13.0,GRASCHER Tamara,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+8.0,VOLGGER Sophia,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+21.0,CLODI Carlotta,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+3.0,AUSPERGER Nina,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+16.0,VLCEK Monika,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+15.0,WILLENSHOFER Julia,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+14.0,BURGHART Isabella,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+,KURKINEN Risto,He. Co.,5,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+1.0,BUDAJOVA Jana,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+25.0,LETTRICHOVA Andrea,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+15.0,KOSECKA Romana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+17.0,ISTOCYOVA Tatiana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+10.0,HLINKOVA Janka,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+3.0,CUPKOVA Nicol,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+13.0,KUBEKOVA Livia,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+23.0,DRABEKOVA Lucia,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+4.0,KUCERKOVA Nina,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+12.0,HALUSKOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+24.0,TREBULOVA Radka,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+16.0,KORENKOVA Tatiana,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+2.0,SULIKOVA Laura,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+5.0,CURMOVA Lenka,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+8.0,KLIMASOVA Iveta,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+19.0,RUMANOVA Nikola,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+11.0,IHNATOVA Viktoria,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+22.0,DZURINOVA Patricia Maria,D,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+7.0,MASKALOVA Viktoria,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+6.0,ISTOCYOVA Lucia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+21.0,MATEJKOVA Julia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+9.0,NOVOTNA Petronela,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+,BEZDEK Jan,He. Co.,5,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6264/9-aut-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6264/9-aut-vs-svk
+1.0,NYSTROM Ena,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+12.0,MORSET Ingrid,D,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+19.0,JORGENSEN Thea,D,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+18.0,BISETH ENGMANN Josefine,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+11.0,BIALIK Line,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+22.0,DALEN Andrea,F,1,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+2.0,TENDENES Lene,D,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+5.0,OLSEN Kamilla,D,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+21.0,HAUG HANSEN Madelen,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+24.0,FISCHER Mathea,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+17.0,SIRUM Millie,F,2,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+8.0,STROMSTAD Therese,D,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+23.0,BERGESEN Emma,D,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+6.0,BJELLAND Une,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+15.0,KRUSE Emilie,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+13.0,BERGE Ingrid,F,3,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+10.0,BRUNVOLD Marthe,D,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+9.0,FJELLVANG Sofie,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+7.0,PEDERSEN Karoline,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+16.0,FURULUND Andrine,F,4,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+,PETTERSEN Thomas,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+25.0,LETTRICHOVA Andrea,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+1.0,BUDAJOVA Jana,GK,0,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+15.0,KOSECKA Romana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+17.0,ISTOCYOVA Tatiana,D,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+12.0,HALUSKOVA Lucia,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+3.0,CUPKOVA Nicol,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+16.0,KORENKOVA Tatiana,F,1,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+23.0,DRABEKOVA Lucia,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+4.0,KUCERKOVA Nina,D,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+10.0,HLINKOVA Janka,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+24.0,TREBULOVA Radka,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+6.0,ISTOCYOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+2.0,SULIKOVA Laura,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+5.0,CURMOVA Lenka,D,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+8.0,KLIMASOVA Iveta,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+19.0,RUMANOVA Nikola,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+7.0,MASKALOVA Viktoria,F,3,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+22.0,DZURINOVA Patricia Maria,D,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+21.0,MATEJKOVA Julia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+13.0,KUBEKOVA Livia,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+11.0,IHNATOVA Viktoria,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+9.0,NOVOTNA Petronela,F,4,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+,BEZDEK Jan,He. Co.,5,SVK,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6265/10-nor-vs-svk,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6265/10-nor-vs-svk
+1.0,NEMETH Aniko,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+25.0,NEHRING Stephanie,GK,0,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+3.0,TOTH Eniko,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+16.0,GRKOVIC Jelena,D,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+9.0,JOKAI-SZILAGYI Kinga,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+24.0,JOKAI-SZILAGYI Zsofia,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+22.0,GOWIE Alexandra,F,1,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+14.0,KISS-SIMON Franciska,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+8.0,KREISZ Emma,D,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+11.0,GASPARICS Fanni,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+10.0,HORVATH Tifani,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+17.0,NOOREN Averi,F,2,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+2.0,NEMETH Bernadett,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+13.0,ODNOGA Lotti,D,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+15.0,DABASI Reka,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+18.0,HUSZAK Alexandra,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+7.0,SEREGELY Mira,F,3,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+6.0,RONAI Alexandra,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+12.0,KISS Andrea,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+21.0,PINTER Lili,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+23.0,PINTER Hanna,F,4,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+,CORTINA Pat,He. Co.,5,HUN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+1.0,MAZZOCCHI Giulia,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+20.0,BIONDI Elisa,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+7.0,de ROCCO Linda,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+6.0,GALTIERI Federica,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+21.0,DALPRA Eleonora,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+4.0,SALETTA Carola,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+10.0,de la FOREST de DIVONNE Anna,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+2.0,MATTIVI Nadia,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+18.0,STOCKER Franziska,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+22.0,ZANDEGIACOMO MISTROTOFOLO Federica,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+19.0,CAMPO BAGATIN Mia,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+11.0,MURARO Anita,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+3.0,RICCA Valentina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+16.0,ORLANDINI Anneke Katharina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+23.0,ABATANGELO Aurora,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+8.0,CAUMO Anna,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+12.0,ROCCELLA Rebecca,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+17.0,MAIR Lea,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+9.0,NICCOLAI Greta,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+5.0,da RECH Mara,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+14.0,CARIGNANO Silvia,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+13.0,BATTISTI Giorgia,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+,LIBERATORE Marco,He. Co.,5,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6266/11-hun-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6266/11-hun-vs-ita
+20.0,JENSEN Lisa,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+25.0,REPSTOCK-ROMME Cassandra,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+7.0,FRANDSEN Malene,D,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+19.0,ASPERUP Josephine,D,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+4.0,GLUD Silke,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+5.0,JAKOBSEN Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+8.0,PERSSON Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+16.0,ANDERSEN Amalie,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+3.0,JENSEN Sanne,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+21.0,HANSEN Michelle,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+14.0,JENSEN Nicoline,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+15.0,FRIIS-HANSEN Lilli,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+22.0,MELBERG Kristine,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+24.0,THOMSEN Linn,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+6.0,HANSEN Mia,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+18.0,PETERS Maria,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+13.0,BRIX Michele,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+17.0,SKRIVER Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+2.0,SORENSEN Mille,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+23.0,OKSBJERG Julie,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+10.0,BAGGESEN Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+11.0,HANSEN Josefine,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+,GLADER Fredrik,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+20.0,EKRT Jessica,GK,0,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+1.0,ARNBERGER Nicole,GK,0,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+4.0,MATZKA Antonia,D,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+17.0,WITTICH Charlotte,D,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+7.0,SCHAFZAHL Theresa,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+19.0,VERWORNER Eva-Maria,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+22.0,ALTMANN Denise,F,1,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+18.0,LOPEZ Alessandra,D,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+6.0,KRAUS Laura,D,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+10.0,MEIXNER Anna,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+23.0,VAARALA Esther,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+24.0,TRUMMER Anja,F,2,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+5.0,GRANITZ Nadja,D,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+12.0,FAZOKAS Annika,D,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+9.0,HANSER Anna,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+13.0,GRASCHER Tamara,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+8.0,VOLGGER Sophia,F,3,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+21.0,CLODI Carlotta,D,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+3.0,AUSPERGER Nina,D,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+16.0,VLCEK Monika,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+15.0,WILLENSHOFER Julia,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+14.0,BURGHART Isabella,F,4,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+,KURKINEN Risto,He. Co.,5,AUT,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6267/12-den-vs-aut,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6267/12-den-vs-aut
+1.0,BUDAJOVA Jana,GK,0,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+25.0,LETTRICHOVA Andrea,GK,0,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+15.0,KOSECKA Romana,D,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+17.0,ISTOCYOVA Tatiana,D,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+10.0,HLINKOVA Janka,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+3.0,CUPKOVA Nicol,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+13.0,KUBEKOVA Livia,F,1,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+5.0,CURMOVA Lenka,D,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+23.0,DRABEKOVA Lucia,D,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+16.0,KORENKOVA Tatiana,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+24.0,TREBULOVA Radka,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+11.0,IHNATOVA Viktoria,F,2,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+4.0,KUCERKOVA Nina,D,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+2.0,SULIKOVA Laura,D,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+8.0,KLIMASOVA Iveta,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+19.0,RUMANOVA Nikola,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+12.0,HALUSKOVA Lucia,F,3,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+22.0,DZURINOVA Patricia Maria,D,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+6.0,ISTOCYOVA Lucia,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+7.0,MASKALOVA Viktoria,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+21.0,MATEJKOVA Julia,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+9.0,NOVOTNA Petronela,F,4,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+,BEZDEK Jan,He. Co.,5,SVK,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+1.0,MAZZOCCHI Giulia,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+20.0,BIONDI Elisa,GK,0,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+7.0,de ROCCO Linda,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+6.0,GALTIERI Federica,D,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+21.0,DALPRA Eleonora,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+4.0,SALETTA Carola,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+10.0,de la FOREST de DIVONNE Anna,F,1,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+18.0,STOCKER Franziska,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+2.0,MATTIVI Nadia,D,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+22.0,ZANDEGIACOMO MISTROTOFOLO Federica,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+19.0,CAMPO BAGATIN Mia,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+11.0,MURARO Anita,F,2,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+3.0,RICCA Valentina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+16.0,ORLANDINI Anneke Katharina,D,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+12.0,ROCCELLA Rebecca,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+8.0,CAUMO Anna,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+23.0,ABATANGELO Aurora,F,3,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+9.0,NICCOLAI Greta,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+17.0,MAIR Lea,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+5.0,da RECH Mara,D,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+14.0,CARIGNANO Silvia,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+13.0,BATTISTI Giorgia,F,4,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+,LIBERATORE Marco,He. Co.,5,ITA,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6268/13-svk-vs-ita,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6268/13-svk-vs-ita
+25.0,REPSTOCK-ROMME Cassandra,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+20.0,JENSEN Lisa,GK,0,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+5.0,JAKOBSEN Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+19.0,ASPERUP Josephine,D,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+8.0,PERSSON Josefine,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+14.0,JENSEN Nicoline,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+4.0,GLUD Silke,F,1,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+7.0,FRANDSEN Malene,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+16.0,ANDERSEN Amalie,D,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+15.0,FRIIS-HANSEN Lilli,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+21.0,HANSEN Michelle,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+13.0,BRIX Michele,F,2,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+22.0,MELBERG Kristine,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+3.0,JENSEN Sanne,D,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+23.0,OKSBJERG Julie,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+18.0,PETERS Maria,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+6.0,HANSEN Mia,F,3,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+2.0,SORENSEN Mille,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+24.0,THOMSEN Linn,D,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+17.0,SKRIVER Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+10.0,BAGGESEN Sofia,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+11.0,HANSEN Josefine,F,4,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+,GLADER Fredrik,He. Co.,5,DEN,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+12.0,MORSET Ingrid,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+19.0,JORGENSEN Thea,D,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+18.0,BISETH ENGMANN Josefine,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+11.0,BIALIK Line,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+22.0,DALEN Andrea,F,1,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+2.0,TENDENES Lene,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+5.0,OLSEN Kamilla,D,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+21.0,HAUG HANSEN Madelen,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+24.0,FISCHER Mathea,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+17.0,SIRUM Millie,F,2,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+8.0,STROMSTAD Therese,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+23.0,BERGESEN Emma,D,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+6.0,BJELLAND Une,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+15.0,KRUSE Emilie,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+13.0,BERGE Ingrid,F,3,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+10.0,BRUNVOLD Marthe,D,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+9.0,FJELLVANG Sofie,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+7.0,PEDERSEN Karoline,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+16.0,FURULUND Andrine,F,4,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+,PETTERSEN Thomas,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6269/14-den-vs-nor,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6269/14-den-vs-nor
+20.0,EKRT Jessica,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+1.0,ARNBERGER Nicole,GK,0,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+4.0,MATZKA Antonia,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+17.0,WITTICH Charlotte,D,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+7.0,SCHAFZAHL Theresa,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+19.0,VERWORNER Eva-Maria,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+22.0,ALTMANN Denise,F,1,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+5.0,GRANITZ Nadja,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+12.0,FAZOKAS Annika,D,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+10.0,MEIXNER Anna,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+23.0,VAARALA Esther,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+24.0,TRUMMER Anja,F,2,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+18.0,LOPEZ Alessandra,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+6.0,KRAUS Laura,D,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+9.0,HANSER Anna,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+13.0,GRASCHER Tamara,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+8.0,VOLGGER Sophia,F,3,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+21.0,CLODI Carlotta,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+3.0,AUSPERGER Nina,D,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+16.0,VLCEK Monika,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+15.0,WILLENSHOFER Julia,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+14.0,BURGHART Isabella,F,4,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+,KURKINEN Risto,He. Co.,5,AUT,True,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+1.0,NEMETH Aniko,GK,0,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+25.0,NEHRING Stephanie,GK,0,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+8.0,KREISZ Emma,D,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+14.0,KISS-SIMON Franciska,D,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+7.0,SEREGELY Mira,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+18.0,HUSZAK Alexandra,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+15.0,DABASI Reka,F,1,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+2.0,NEMETH Bernadett,D,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+5.0,MAYER Fruzsina,D,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+22.0,GOWIE Alexandra,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+24.0,JOKAI-SZILAGYI Zsofia,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+9.0,JOKAI-SZILAGYI Kinga,F,2,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+3.0,TOTH Eniko,D,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+13.0,ODNOGA Lotti,D,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+11.0,GASPARICS Fanni,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+10.0,HORVATH Tifani,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+17.0,NOOREN Averi,F,3,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+6.0,RONAI Alexandra,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+16.0,GRKOVIC Jelena,D,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+23.0,PINTER Hanna,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+21.0,PINTER Lili,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+12.0,KISS Andrea,F,4,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun
+,CORTINA Pat,He. Co.,5,HUN,False,https://www.iihf.com//en/events/2019/wwia/gamecenter/lineup/6270/15-aut-vs-hun,https://www.iihf.com//en/events/2019/wwia/gamecenter/playbyplay/6270/15-aut-vs-hun

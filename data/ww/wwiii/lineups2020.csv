@@ -1,0 +1,617 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+1.0,SWANEPOEL Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+20.0,van der MERWE Rachel,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+10.0,LATEGAN Kaylin,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+21.0,RHODE Dalene,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+4.0,HERRINGER Zoe,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+11.0,VERWEY Dominique,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+7.0,WILSON Kelley,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+16.0,MARAIS Inge,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+22.0,KEULER Tarryn,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+15.0,JAMIESON Kelly,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+2.0,McCLURG Sandra,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+14.0,KRUGER Claudia,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+24.0,MOLLER Elaine,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+13.0,BRITS Marione,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+8.0,LOUBSER Anchen,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+3.0,MARAIS Edine,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+17.0,BODENSTEIN Liza,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+6.0,DOLIVEIRA Chandre,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+,MARAIS Andre,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+25.0,NICIU Nadina,GK,0,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+1.0,KURKO Andrea,GK,0,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+12.0,BARTA Agota,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+2.0,ADORJAN Katalin,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+18.0,POPESCU Magdolna,F,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+13.0,OPREA Alina,F,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+23.0,BALINT Hanga,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+4.0,ANTAL Krisztina,D,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+19.0,MATHE Blanka,D,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+9.0,LACZKO-SZABO Zsuzsanna,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+14.0,CSISZER Timea,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+15.0,VOICU Ana,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+16.0,SZOPOS Katalin Csila,D,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+8.0,SARBU Adela,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+10.0,KONCZ Csenge,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+17.0,DAVID Sonia Iris,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+7.0,ELEKES Agnes,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+3.0,BADOIU Maria Luana,F,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+21.0,GYORGY Eszter Beatrix,D,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+5.0,PANDREA BEDROSIAN Caryellen,F,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+,POGACEAN George,He. Co.,5,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14668/1-rsa-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14668/1-rsa-vs-rou
+1.0,SIMONSEN Emilie,GK,0,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+20.0,PREKEVICIENE Jurgita,GK,0,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+2.0,JAKAVICIENE Migle,D,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+23.0,JATKEVICIENE Daiva,D,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+15.0,MALECKIENE Ramune,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+21.0,KUKANOVA Marija,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+9.0,MIULLER Klara,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+24.0,TOLMACIOVA Polina,D,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+5.0,PARAZINSKAITE Rugile,D,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+8.0,DREGVAITE Zivile,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+4.0,ZAKHARCHENKO Sabina,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+19.0,TARULYTE Karina,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+3.0,SLOMSKAITE Jolita,D,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+22.0,KARPAVICIUTE Gintare,D,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+12.0,BURNEIKAITE Nomeda,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+18.0,SERSNIOVA Anastasija,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+14.0,ALEKSANDRAVICIUTE Ula,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+11.0,RACKAUSKAITE Agne,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+10.0,MELNIKOVA Julija,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+6.0,LUKINA Karina,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+,HAAKE Bernd,He. Co.,5,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+1.0,FOK Stephanie,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+20.0,CHAU Sumi,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+13.0,LEUNG Aman,D,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+9.0,KWOK Ophelia,D,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+18.0,CHEUNG Oi Lam,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+7.0,LAU Yeuk Ting,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+21.0,LEE Chung Kiu,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+15.0,LI Corinna,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+5.0,CHAN Chloe,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+23.0,YUEN Joaquina,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+10.0,IP Estelle,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+19.0,WONG Clarina,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+12.0,LI Adrienne,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+16.0,CHOW Shirely,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+8.0,CHOW Gigi,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+3.0,CHOW Amy,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+17.0,KWAN Mandy,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+6.0,SO Haylie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+24.0,CHAK Zoe,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+11.0,CHEUNG Christie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+,SMIRNOV Nikita,He. Co.,5,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14669/2-ltu-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14669/2-ltu-vs-hkg
+25.0,de WAEGENEER Lieselot,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+1.0,SWINNEN Charlotte,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+11.0,LEYEN Eline,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+4.0,VETTERS Britt,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+9.0,JENAER Valerie,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+19.0,BOSMANS Femke,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+6.0,de GUCHTENAERE Lotte,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+18.0,van CALSTER Chinouk,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+12.0,WILLEMOT Roosje,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+7.0,CLINCKE Ellen,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+23.0,BOSMANS Liesa,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+10.0,BOON Cato,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+21.0,HOREMANS Petra,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+2.0,van HOOTEGEM Jennifer,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+5.0,MAKA Valentine,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+14.0,FRERE Sonja,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+24.0,FRANSEN Yara,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+22.0,LEIRS Nadine,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+3.0,de TERWANGNE Audrey,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+,van BUREN Sven,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+20.0,SIMEONOVA Petya,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+24.0,POPOVA Aleksandra,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+21.0,DILOVA Nikol,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+8.0,OVCHAROVA Regina,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+2.0,STOYANOVA Stefani,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+7.0,ZAREVA Mirela,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+13.0,LISICHKOVA Tina,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+3.0,KOTSEVA Andreya,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+23.0,MONOVA Lidia,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+18.0,METANOVA Veronika,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+15.0,TODOROVA Elena,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+11.0,KOLEVA Amalia,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+22.0,GEORGIEVA Vanesa,D,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+16.0,KRUMOVA Mihaela,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+9.0,DIMITROVA Viktoria,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+6.0,DANKOVA Desislava,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+4.0,KOZAROVA Karina,D,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+5.0,STOIMENOVA Maryana,F,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+,MONOV Krasimir,He. Co.,5,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14670/3-bel-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14670/3-bel-vs-bul
+1.0,KURKO Andrea,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+25.0,NICIU Nadina,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+2.0,ADORJAN Katalin,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+12.0,BARTA Agota,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+13.0,OPREA Alina,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+23.0,BALINT Hanga,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+18.0,POPESCU Magdolna,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+4.0,ANTAL Krisztina,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+19.0,MATHE Blanka,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+15.0,VOICU Ana,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+14.0,CSISZER Timea,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+9.0,LACZKO-SZABO Zsuzsanna,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+16.0,SZOPOS Katalin Csila,D,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+8.0,SARBU Adela,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+7.0,ELEKES Agnes,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+17.0,DAVID Sonia Iris,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+10.0,KONCZ Csenge,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+3.0,BADOIU Maria Luana,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+21.0,GYORGY Eszter Beatrix,D,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+5.0,PANDREA BEDROSIAN Caryellen,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+,POGACEAN George,He. Co.,5,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+20.0,CHAU Sumi,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+1.0,FOK Stephanie,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+5.0,CHAN Chloe,D,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+15.0,LI Corinna,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+23.0,YUEN Joaquina,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+10.0,IP Estelle,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+19.0,WONG Clarina,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+12.0,LI Adrienne,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+16.0,CHOW Shirely,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+17.0,KWAN Mandy,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+3.0,CHOW Amy,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+8.0,CHOW Gigi,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+9.0,KWOK Ophelia,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+13.0,LEUNG Aman,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+7.0,LAU Yeuk Ting,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+21.0,LEE Chung Kiu,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+6.0,SO Haylie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+11.0,CHEUNG Christie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+24.0,CHAK Zoe,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+,SMIRNOV Nikita,He. Co.,5,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14671/4-rou-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14671/4-rou-vs-hkg
+25.0,de WAEGENEER Lieselot,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+1.0,SWINNEN Charlotte,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+11.0,LEYEN Eline,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+4.0,VETTERS Britt,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+9.0,JENAER Valerie,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+19.0,BOSMANS Femke,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+6.0,de GUCHTENAERE Lotte,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+18.0,van CALSTER Chinouk,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+12.0,WILLEMOT Roosje,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+7.0,CLINCKE Ellen,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+23.0,BOSMANS Liesa,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+10.0,BOON Cato,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+21.0,HOREMANS Petra,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+2.0,van HOOTEGEM Jennifer,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+5.0,MAKA Valentine,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+14.0,FRERE Sonja,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+24.0,FRANSEN Yara,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+22.0,LEIRS Nadine,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+3.0,de TERWANGNE Audrey,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+,van BUREN Sven,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+1.0,SWANEPOEL Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+20.0,van der MERWE Rachel,GK,0,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+10.0,LATEGAN Kaylin,D,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+22.0,KEULER Tarryn,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+21.0,RHODE Dalene,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+11.0,VERWEY Dominique,D,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+7.0,WILSON Kelley,D,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+16.0,MARAIS Inge,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+15.0,JAMIESON Kelly,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+4.0,HERRINGER Zoe,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+2.0,McCLURG Sandra,D,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+14.0,KRUGER Claudia,D,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+24.0,MOLLER Elaine,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+13.0,BRITS Marione,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+8.0,LOUBSER Anchen,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+3.0,MARAIS Edine,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+17.0,BODENSTEIN Liza,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+6.0,DOLIVEIRA Chandre,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+,MARAIS Andre,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14672/5-bel-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14672/5-bel-vs-rsa
+25.0,GEORGIEVA Paulina,GK,0,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+20.0,SIMEONOVA Petya,GK,0,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+24.0,POPOVA Aleksandra,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+21.0,DILOVA Nikol,D,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+9.0,DIMITROVA Viktoria,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+2.0,STOYANOVA Stefani,D,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+7.0,ZAREVA Mirela,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+13.0,LISICHKOVA Tina,D,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+3.0,KOTSEVA Andreya,D,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+23.0,MONOVA Lidia,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+18.0,METANOVA Veronika,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+15.0,TODOROVA Elena,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+11.0,KOLEVA Amalia,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+22.0,GEORGIEVA Vanesa,D,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+5.0,STOIMENOVA Maryana,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+16.0,KRUMOVA Mihaela,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+6.0,DANKOVA Desislava,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+8.0,OVCHAROVA Regina,F,4,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+4.0,KOZAROVA Karina,D,4,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+,MONOV Krasimir,He. Co.,5,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+1.0,SIMONSEN Emilie,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+20.0,PREKEVICIENE Jurgita,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+23.0,JATKEVICIENE Daiva,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+2.0,JAKAVICIENE Migle,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+15.0,MALECKIENE Ramune,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+21.0,KUKANOVA Marija,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+9.0,MIULLER Klara,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+24.0,TOLMACIOVA Polina,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+5.0,PARAZINSKAITE Rugile,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+19.0,TARULYTE Karina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+4.0,ZAKHARCHENKO Sabina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+8.0,DREGVAITE Zivile,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+22.0,KARPAVICIUTE Gintare,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+3.0,SLOMSKAITE Jolita,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+12.0,BURNEIKAITE Nomeda,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+18.0,SERSNIOVA Anastasija,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+14.0,ALEKSANDRAVICIUTE Ula,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+6.0,LUKINA Karina,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+10.0,MELNIKOVA Julija,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+11.0,RACKAUSKAITE Agne,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+,HAAKE Bernd,He. Co.,5,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14673/6-bul-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14673/6-bul-vs-ltu
+25.0,de WAEGENEER Lieselot,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+1.0,SWINNEN Charlotte,GK,0,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+12.0,WILLEMOT Roosje,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+4.0,VETTERS Britt,D,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+7.0,CLINCKE Ellen,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+6.0,de GUCHTENAERE Lotte,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+10.0,BOON Cato,F,1,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+18.0,van CALSTER Chinouk,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+11.0,LEYEN Eline,D,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+19.0,BOSMANS Femke,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+23.0,BOSMANS Liesa,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+5.0,MAKA Valentine,F,2,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+21.0,HOREMANS Petra,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+2.0,van HOOTEGEM Jennifer,D,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+9.0,JENAER Valerie,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+14.0,FRERE Sonja,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+22.0,LEIRS Nadine,F,3,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+24.0,FRANSEN Yara,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+3.0,de TERWANGNE Audrey,F,4,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+,van BUREN Sven,He. Co.,5,BEL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+1.0,SIMONSEN Emilie,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+20.0,PREKEVICIENE Jurgita,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+2.0,JAKAVICIENE Migle,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+23.0,JATKEVICIENE Daiva,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+15.0,MALECKIENE Ramune,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+21.0,KUKANOVA Marija,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+9.0,MIULLER Klara,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+24.0,TOLMACIOVA Polina,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+5.0,PARAZINSKAITE Rugile,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+8.0,DREGVAITE Zivile,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+4.0,ZAKHARCHENKO Sabina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+19.0,TARULYTE Karina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+3.0,SLOMSKAITE Jolita,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+22.0,KARPAVICIUTE Gintare,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+12.0,BURNEIKAITE Nomeda,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+18.0,SERSNIOVA Anastasija,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+14.0,ALEKSANDRAVICIUTE Ula,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+6.0,LUKINA Karina,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+10.0,MELNIKOVA Julija,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+11.0,RACKAUSKAITE Agne,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+,HAAKE Bernd,He. Co.,5,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14674/7-bel-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14674/7-bel-vs-ltu
+1.0,SWANEPOEL Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+20.0,van der MERWE Rachel,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+10.0,LATEGAN Kaylin,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+21.0,RHODE Dalene,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+11.0,VERWEY Dominique,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+7.0,WILSON Kelley,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+16.0,MARAIS Inge,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+15.0,JAMIESON Kelly,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+4.0,HERRINGER Zoe,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+14.0,KRUGER Claudia,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+2.0,McCLURG Sandra,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+13.0,BRITS Marione,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+8.0,LOUBSER Anchen,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+6.0,DOLIVEIRA Chandre,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+24.0,MOLLER Elaine,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+17.0,BODENSTEIN Liza,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+3.0,MARAIS Edine,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+,MARAIS Andre,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+20.0,CHAU Sumi,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+1.0,FOK Stephanie,GK,0,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+5.0,CHAN Chloe,D,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+15.0,LI Corinna,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+23.0,YUEN Joaquina,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+10.0,IP Estelle,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+19.0,WONG Clarina,F,1,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+12.0,LI Adrienne,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+16.0,CHOW Shirely,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+17.0,KWAN Mandy,D,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+3.0,CHOW Amy,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+8.0,CHOW Gigi,F,2,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+13.0,LEUNG Aman,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+9.0,KWOK Ophelia,D,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+7.0,LAU Yeuk Ting,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+21.0,LEE Chung Kiu,F,3,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+24.0,CHAK Zoe,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+11.0,CHEUNG Christie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+6.0,SO Haylie,F,4,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+,SMIRNOV Nikita,He. Co.,5,HKG,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14675/8-rsa-vs-hkg,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14675/8-rsa-vs-hkg
+25.0,NICIU Nadina,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+1.0,KURKO Andrea,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+2.0,ADORJAN Katalin,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+12.0,BARTA Agota,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+13.0,OPREA Alina,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+14.0,CSISZER Timea,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+18.0,POPESCU Magdolna,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+4.0,ANTAL Krisztina,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+19.0,MATHE Blanka,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+7.0,ELEKES Agnes,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+9.0,LACZKO-SZABO Zsuzsanna,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+15.0,VOICU Ana,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+16.0,SZOPOS Katalin Csila,D,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+8.0,SARBU Adela,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+23.0,BALINT Hanga,D,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+17.0,DAVID Sonia Iris,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+10.0,KONCZ Csenge,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+3.0,BADOIU Maria Luana,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+21.0,GYORGY Eszter Beatrix,D,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+5.0,PANDREA BEDROSIAN Caryellen,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+,POGACEAN George,He. Co.,5,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+20.0,SIMEONOVA Petya,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+24.0,POPOVA Aleksandra,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+21.0,DILOVA Nikol,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+7.0,ZAREVA Mirela,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+2.0,STOYANOVA Stefani,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+9.0,DIMITROVA Viktoria,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+3.0,KOTSEVA Andreya,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+13.0,LISICHKOVA Tina,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+23.0,MONOVA Lidia,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+18.0,METANOVA Veronika,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+15.0,TODOROVA Elena,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+22.0,GEORGIEVA Vanesa,D,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+11.0,KOLEVA Amalia,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+5.0,STOIMENOVA Maryana,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+16.0,KRUMOVA Mihaela,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+6.0,DANKOVA Desislava,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+8.0,OVCHAROVA Regina,F,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+4.0,KOZAROVA Karina,D,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+,MONOV Krasimir,He. Co.,5,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14676/9-rou-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14676/9-rou-vs-bul
+1.0,FOK Stephanie,GK,0,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+20.0,CHAU Sumi,GK,0,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+5.0,CHAN Chloe,D,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+15.0,LI Corinna,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+23.0,YUEN Joaquina,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+10.0,IP Estelle,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+19.0,WONG Clarina,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+12.0,LI Adrienne,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+16.0,CHOW Shirely,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+17.0,KWAN Mandy,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+3.0,CHOW Amy,F,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+8.0,CHOW Gigi,F,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+13.0,LEUNG Aman,D,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+9.0,KWOK Ophelia,D,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+7.0,LAU Yeuk Ting,F,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+21.0,LEE Chung Kiu,F,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+6.0,SO Haylie,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+11.0,CHEUNG Christie,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+24.0,CHAK Zoe,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+,SMIRNOV Nikita,He. Co.,5,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+25.0,de WAEGENEER Lieselot,GK,0,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+1.0,SWINNEN Charlotte,GK,0,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+12.0,WILLEMOT Roosje,D,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+4.0,VETTERS Britt,D,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+7.0,CLINCKE Ellen,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+6.0,de GUCHTENAERE Lotte,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+10.0,BOON Cato,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+18.0,van CALSTER Chinouk,D,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+11.0,LEYEN Eline,D,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+19.0,BOSMANS Femke,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+23.0,BOSMANS Liesa,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+5.0,MAKA Valentine,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+21.0,HOREMANS Petra,D,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+2.0,van HOOTEGEM Jennifer,D,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+9.0,JENAER Valerie,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+14.0,FRERE Sonja,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+22.0,LEIRS Nadine,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+3.0,de TERWANGNE Audrey,F,4,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+24.0,FRANSEN Yara,F,4,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+,van BUREN Sven,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14677/10-hkg-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14677/10-hkg-vs-bel
+1.0,SIMONSEN Emilie,GK,0,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+20.0,PREKEVICIENE Jurgita,GK,0,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+2.0,JAKAVICIENE Migle,D,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+23.0,JATKEVICIENE Daiva,D,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+9.0,MIULLER Klara,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+21.0,KUKANOVA Marija,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+15.0,MALECKIENE Ramune,F,1,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+24.0,TOLMACIOVA Polina,D,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+5.0,PARAZINSKAITE Rugile,D,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+8.0,DREGVAITE Zivile,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+4.0,ZAKHARCHENKO Sabina,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+19.0,TARULYTE Karina,F,2,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+22.0,KARPAVICIUTE Gintare,D,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+3.0,SLOMSKAITE Jolita,D,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+14.0,ALEKSANDRAVICIUTE Ula,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+18.0,SERSNIOVA Anastasija,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+12.0,BURNEIKAITE Nomeda,F,3,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+6.0,LUKINA Karina,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+10.0,MELNIKOVA Julija,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+11.0,RACKAUSKAITE Agne,F,4,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+,HAAKE Bernd,He. Co.,5,LTU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+25.0,NICIU Nadina,GK,0,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+1.0,KURKO Andrea,GK,0,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+2.0,ADORJAN Katalin,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+12.0,BARTA Agota,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+18.0,POPESCU Magdolna,F,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+23.0,BALINT Hanga,D,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+13.0,OPREA Alina,F,1,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+19.0,MATHE Blanka,D,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+4.0,ANTAL Krisztina,D,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+15.0,VOICU Ana,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+14.0,CSISZER Timea,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+9.0,LACZKO-SZABO Zsuzsanna,F,2,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+16.0,SZOPOS Katalin Csila,D,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+8.0,SARBU Adela,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+7.0,ELEKES Agnes,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+17.0,DAVID Sonia Iris,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+10.0,KONCZ Csenge,F,3,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+21.0,GYORGY Eszter Beatrix,D,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+3.0,BADOIU Maria Luana,F,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+5.0,PANDREA BEDROSIAN Caryellen,F,4,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+,POGACEAN George,He. Co.,5,ROU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14678/11-ltu-vs-rou,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14678/11-ltu-vs-rou
+25.0,GEORGIEVA Paulina,GK,0,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+20.0,SIMEONOVA Petya,GK,0,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+21.0,DILOVA Nikol,D,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+24.0,POPOVA Aleksandra,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+7.0,ZAREVA Mirela,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+2.0,STOYANOVA Stefani,D,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+9.0,DIMITROVA Viktoria,F,1,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+3.0,KOTSEVA Andreya,D,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+13.0,LISICHKOVA Tina,D,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+15.0,TODOROVA Elena,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+18.0,METANOVA Veronika,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+23.0,MONOVA Lidia,F,2,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+11.0,KOLEVA Amalia,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+22.0,GEORGIEVA Vanesa,D,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+5.0,STOIMENOVA Maryana,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+16.0,KRUMOVA Mihaela,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+6.0,DANKOVA Desislava,F,3,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+8.0,OVCHAROVA Regina,F,4,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+4.0,KOZAROVA Karina,D,4,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+,MONOV Krasimir,He. Co.,5,BUL,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+1.0,SWANEPOEL Shaylene,GK,0,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+20.0,van der MERWE Rachel,GK,0,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+9.0,van DOESBURGH Donne,D,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+10.0,LATEGAN Kaylin,D,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+18.0,SCHUURMAN Chloe,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+22.0,KEULER Tarryn,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+21.0,RHODE Dalene,F,1,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+11.0,VERWEY Dominique,D,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+7.0,WILSON Kelley,D,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+16.0,MARAIS Inge,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+15.0,JAMIESON Kelly,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+4.0,HERRINGER Zoe,F,2,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+2.0,McCLURG Sandra,D,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+14.0,KRUGER Claudia,D,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+13.0,BRITS Marione,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+8.0,LOUBSER Anchen,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+6.0,DOLIVEIRA Chandre,F,3,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+24.0,MOLLER Elaine,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+17.0,BODENSTEIN Liza,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+3.0,MARAIS Edine,F,4,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+,MARAIS Andre,He. Co.,5,RSA,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14679/12-bul-vs-rsa,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14679/12-bul-vs-rsa
+1.0,SWANEPOEL Shaylene,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+20.0,van der MERWE Rachel,GK,0,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+9.0,van DOESBURGH Donne,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+10.0,LATEGAN Kaylin,D,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+18.0,SCHUURMAN Chloe,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+22.0,KEULER Tarryn,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+21.0,RHODE Dalene,F,1,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+11.0,VERWEY Dominique,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+7.0,WILSON Kelley,D,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+16.0,MARAIS Inge,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+15.0,JAMIESON Kelly,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+4.0,HERRINGER Zoe,F,2,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+2.0,McCLURG Sandra,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+14.0,KRUGER Claudia,D,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+6.0,DOLIVEIRA Chandre,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+3.0,MARAIS Edine,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+13.0,BRITS Marione,F,3,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+24.0,MOLLER Elaine,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+17.0,BODENSTEIN Liza,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+8.0,LOUBSER Anchen,F,4,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+,MARAIS Andre,He. Co.,5,RSA,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+1.0,SIMONSEN Emilie,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+20.0,PREKEVICIENE Jurgita,GK,0,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+2.0,JAKAVICIENE Migle,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+23.0,JATKEVICIENE Daiva,D,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+9.0,MIULLER Klara,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+21.0,KUKANOVA Marija,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+15.0,MALECKIENE Ramune,F,1,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+24.0,TOLMACIOVA Polina,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+5.0,PARAZINSKAITE Rugile,D,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+8.0,DREGVAITE Zivile,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+4.0,ZAKHARCHENKO Sabina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+19.0,TARULYTE Karina,F,2,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+22.0,KARPAVICIUTE Gintare,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+3.0,SLOMSKAITE Jolita,D,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+12.0,BURNEIKAITE Nomeda,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+18.0,SERSNIOVA Anastasija,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+14.0,ALEKSANDRAVICIUTE Ula,F,3,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+6.0,LUKINA Karina,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+10.0,MELNIKOVA Julija,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+11.0,RACKAUSKAITE Agne,F,4,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+,HAAKE Bernd,He. Co.,5,LTU,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14680/13-rsa-vs-ltu,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14680/13-rsa-vs-ltu
+20.0,CHAU Sumi,GK,0,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+1.0,FOK Stephanie,GK,0,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+5.0,CHAN Chloe,D,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+15.0,LI Corinna,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+23.0,YUEN Joaquina,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+10.0,IP Estelle,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+19.0,WONG Clarina,F,1,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+12.0,LI Adrienne,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+16.0,CHOW Shirely,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+17.0,KWAN Mandy,D,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+3.0,CHOW Amy,F,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+8.0,CHOW Gigi,F,2,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+13.0,LEUNG Aman,D,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+9.0,KWOK Ophelia,D,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+7.0,LAU Yeuk Ting,F,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+21.0,LEE Chung Kiu,F,3,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+24.0,CHAK Zoe,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+11.0,CHEUNG Christie,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+6.0,SO Haylie,F,4,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+,SMIRNOV Nikita,He. Co.,5,HKG,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+25.0,GEORGIEVA Paulina,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+20.0,SIMEONOVA Petya,GK,0,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+21.0,DILOVA Nikol,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+24.0,POPOVA Aleksandra,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+7.0,ZAREVA Mirela,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+2.0,STOYANOVA Stefani,D,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+9.0,DIMITROVA Viktoria,F,1,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+3.0,KOTSEVA Andreya,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+13.0,LISICHKOVA Tina,D,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+15.0,TODOROVA Elena,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+18.0,METANOVA Veronika,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+23.0,MONOVA Lidia,F,2,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+11.0,KOLEVA Amalia,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+22.0,GEORGIEVA Vanesa,D,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+5.0,STOIMENOVA Maryana,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+16.0,KRUMOVA Mihaela,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+6.0,DANKOVA Desislava,F,3,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+8.0,OVCHAROVA Regina,F,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+4.0,KOZAROVA Karina,D,4,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+,MONOV Krasimir,He. Co.,5,BUL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14681/14-hkg-vs-bul,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14681/14-hkg-vs-bul
+25.0,NICIU Nadina,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+1.0,KURKO Andrea,GK,0,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+2.0,ADORJAN Katalin,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+12.0,BARTA Agota,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+18.0,POPESCU Magdolna,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+23.0,BALINT Hanga,D,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+13.0,OPREA Alina,F,1,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+4.0,ANTAL Krisztina,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+19.0,MATHE Blanka,D,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+9.0,LACZKO-SZABO Zsuzsanna,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+14.0,CSISZER Timea,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+15.0,VOICU Ana,F,2,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+16.0,SZOPOS Katalin Csila,D,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+8.0,SARBU Adela,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+10.0,KONCZ Csenge,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+17.0,DAVID Sonia Iris,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+7.0,ELEKES Agnes,F,3,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+3.0,BADOIU Maria Luana,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+21.0,GYORGY Eszter Beatrix,D,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+5.0,PANDREA BEDROSIAN Caryellen,F,4,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+,POGACEAN George,He. Co.,5,ROU,True,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+25.0,de WAEGENEER Lieselot,GK,0,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+1.0,SWINNEN Charlotte,GK,0,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+12.0,WILLEMOT Roosje,D,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+4.0,VETTERS Britt,D,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+7.0,CLINCKE Ellen,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+6.0,de GUCHTENAERE Lotte,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+10.0,BOON Cato,F,1,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+18.0,van CALSTER Chinouk,D,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+11.0,LEYEN Eline,D,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+19.0,BOSMANS Femke,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+23.0,BOSMANS Liesa,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+5.0,MAKA Valentine,F,2,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+21.0,HOREMANS Petra,D,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+2.0,van HOOTEGEM Jennifer,D,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+9.0,JENAER Valerie,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+14.0,FRERE Sonja,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+22.0,LEIRS Nadine,F,3,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+24.0,FRANSEN Yara,F,4,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+3.0,de TERWANGNE Audrey,F,4,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel
+,van BUREN Sven,He. Co.,5,BEL,False,https://www.iihf.com//en/events/2020/wwiii/gamecenter/lineup/14682/15-rou-vs-bel,https://www.iihf.com//en/events/2020/wwiii/gamecenter/playbyplay/14682/15-rou-vs-bel

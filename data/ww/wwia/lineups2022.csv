@@ -1,0 +1,455 @@
+jersey_number,Name,Pos,line_number,team,home,lineups_url,game_url
+25.0,GABRIELE Eline,GK,0,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+1.0,van LEEUWEN Claudia,GK,0,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+4.0,HAMERS Kayleigh,D,1,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+14.0,MILDERS Jet,D,1,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+10.0,ZWARTHOED Julie,F,1,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+8.0,WIELENGA Savine,F,1,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+5.0,DIJKEMA Maree,F,1,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+7.0,EVEN Emily,D,2,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+23.0,HUISMAN Hilde,D,2,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+11.0,TJIN-A-TON Nicky,F,2,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+9.0,van NES Bieke,F,2,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+6.0,SCHOLLAARDT Isabelle,F,2,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+2.0,NOE Michelle,D,3,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+18.0,van OOIJEN Michelle,D,3,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+19.0,BARBIER Zoe,F,3,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+16.0,de JONG Esther,F,3,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+17.0,COLLARD Kimberly,F,3,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+12.0,KARST Roos,D,4,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+13.0,WORTEL Britt,D,4,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+3.0,HAVERKORN Larissa,F,4,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+21.0,FLINK Mandy,F,4,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+,KRONENBURG Marco,He. Co.,5,NED,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+25.0,LUGGIN Selma,GK,0,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+1.0,ADAMITSCH Anja,GK,0,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+12.0,FAZOKAS Annika,D,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+23.0,MATZKA Antonia,D,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+10.0,MEIXNER Anna,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+7.0,SCHAFZAHL Theresa,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+11.0,HOFBAUER Emma,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+13.0,GRASCHER Tamara,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+17.0,WITTICH Charlotte,D,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+21.0,DAUBOCK Lena,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+24.0,TRUMMER Anja,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+16.0,BEITER Eva,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+2.0,HABERL Meilan,D,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+19.0,HENGELMULLER Karolina,D,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+22.0,ARTNER Lena,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+8.0,KILLIUS Katharina,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+9.0,HANSER Anna,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+5.0,LEITNER Laura,D,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+14.0,BILLA Anna,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+4.0,SCHWARZER Hanna,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+3.0,KUTZER Leonie,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+6.0,OBERMAYR Hanna,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+,RISKU Jari,He. Co.,5,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29899/1-ned-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29899/1-ned-vs-aut
+1.0,OROLINOVA Andrea,GK,0,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+25.0,ZIMKOVA Nikola,GK,0,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+13.0,KUBEKOVA Livia,D,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+22.0,SULIKOVA Laura,D,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+24.0,BEDNARIK Simone Martina,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+3.0,LUCAK CUPKOVA Nicol,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+8.0,NEMCEKOVA Nikola,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+11.0,LESKOVJANSKA Emilia,D,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+23.0,DRABEKOVA Lucia,D,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+16.0,KORENKOVA Tatiana,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+2.0,FANCOVICOVA Hana,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+6.0,ISTOCYOVA Lucia,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+15.0,KOSECKA Romana,D,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+4.0,SULIKOVA Alzbeta,D,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+14.0,MATEJKOVA Julia,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+10.0,HLINKOVA Janka,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+12.0,HALUSKOVA Lucia,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+21.0,SURAKOVA Annamaria,D,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+19.0,VYSOKAJOVA Sofia,D,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+7.0,MASKALOVA Viktoria,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+18.0,KAPICAKOVA Barbora,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+17.0,HALUSKOVA Romana,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+,SEGIN Tomas,He. Co.,5,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+14.0,ARDAL Malin,D,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+23.0,BERGESEN Emma,D,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+11.0,BIALIK Line,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+21.0,HAUG HANSEN Madelen,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+24.0,FISCHER Mathea,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+3.0,KONGSTORP Silje,D,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+12.0,MORSET Ingrid,D,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+15.0,KRUSE Emilie,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+17.0,BRUNVOLD Marthe,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+22.0,DALEN Andrea,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+2.0,TENDENES Lene,D,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+19.0,JORGENSEN Thea,D,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+8.0,PEDERSEN Lotte,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+9.0,NYBERG Tea,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+13.0,BERGE Ingrid,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+6.0,BJELLAND Une,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+7.0,PEDERSEN Karoline,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+10.0,FURSETH Christina,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+16.0,FURULUND Andrine,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+,PETTERSEN Thomas,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29900/2-svk-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29900/2-svk-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+14.0,ARDAL Malin,D,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+23.0,BERGESEN Emma,D,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+11.0,BIALIK Line,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+21.0,HAUG HANSEN Madelen,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+24.0,FISCHER Mathea,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+3.0,KONGSTORP Silje,D,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+12.0,MORSET Ingrid,D,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+15.0,KRUSE Emilie,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+17.0,BRUNVOLD Marthe,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+22.0,DALEN Andrea,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+2.0,TENDENES Lene,D,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+19.0,JORGENSEN Thea,D,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+8.0,PEDERSEN Lotte,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+9.0,NYBERG Tea,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+13.0,BERGE Ingrid,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+5.0,HAUKALI Rebekka,D,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+6.0,BJELLAND Une,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+7.0,PEDERSEN Karoline,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+10.0,FURSETH Christina,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+16.0,FURULUND Andrine,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+,PETTERSEN Thomas,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+25.0,GABRIELE Eline,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+1.0,van LEEUWEN Claudia,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+4.0,HAMERS Kayleigh,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+14.0,MILDERS Jet,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+10.0,ZWARTHOED Julie,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+8.0,WIELENGA Savine,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+5.0,DIJKEMA Maree,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+7.0,EVEN Emily,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+23.0,HUISMAN Hilde,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+11.0,TJIN-A-TON Nicky,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+9.0,van NES Bieke,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+6.0,SCHOLLAARDT Isabelle,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+2.0,NOE Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+18.0,van OOIJEN Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+19.0,BARBIER Zoe,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+16.0,de JONG Esther,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+17.0,COLLARD Kimberly,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+12.0,KARST Roos,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+13.0,WORTEL Britt,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+3.0,HAVERKORN Larissa,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+21.0,FLINK Mandy,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+,KRONENBURG Marco,He. Co.,5,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29901/3-nor-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29901/3-nor-vs-ned
+1.0,BALDIN Caroline,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+20.0,MAMERI Margaux,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+21.0,PARMENT Lea,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+22.0,GENDARME Gwendoline,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+17.0,AURARD Chloe,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+9.0,ALLEMOZ Marion,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+19.0,BAUDRIT Lore,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+14.0,LOCATELLI Athena,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+11.0,VILLIOT Lea,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+16.0,ROZIER Clara,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+12.0,DUVIN Estelle,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+8.0,ESCUDERO Lara,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+13.0,PELISSOU Marie-Pierre,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+7.0,QUARTO Lucie,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+6.0,BARBIRATI Jade,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+4.0,MESPLEDE Julia,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+18.0,BOUCHE Anouck,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+3.0,VAANANEN Mia,D,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+5.0,le SCODAN Manon,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+15.0,JOUANNY Betty,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+10.0,RIHET Morgane,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+2.0,CEDELLE Lisa,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+,TARLE Gregory,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+1.0,OROLINOVA Andrea,GK,0,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+25.0,ZIMKOVA Nikola,GK,0,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+13.0,KUBEKOVA Livia,D,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+22.0,SULIKOVA Laura,D,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+21.0,SURAKOVA Annamaria,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+3.0,LUCAK CUPKOVA Nicol,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+8.0,NEMCEKOVA Nikola,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+23.0,DRABEKOVA Lucia,D,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+24.0,BEDNARIK Simone Martina,D,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+16.0,KORENKOVA Tatiana,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+6.0,ISTOCYOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+2.0,FANCOVICOVA Hana,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+15.0,KOSECKA Romana,D,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+4.0,SULIKOVA Alzbeta,D,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+14.0,MATEJKOVA Julia,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+10.0,HLINKOVA Janka,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+12.0,HALUSKOVA Lucia,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+11.0,LESKOVJANSKA Emilia,D,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+19.0,VYSOKAJOVA Sofia,D,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+7.0,MASKALOVA Viktoria,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+18.0,KAPICAKOVA Barbora,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+17.0,HALUSKOVA Romana,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+,SEGIN Tomas,He. Co.,5,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29902/4-fra-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29902/4-fra-vs-svk
+1.0,NYSTROM Ena,GK,0,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+14.0,ARDAL Malin,D,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+23.0,BERGESEN Emma,D,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+11.0,BIALIK Line,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+21.0,HAUG HANSEN Madelen,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+24.0,FISCHER Mathea,F,1,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+3.0,KONGSTORP Silje,D,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+12.0,MORSET Ingrid,D,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+15.0,KRUSE Emilie,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+17.0,BRUNVOLD Marthe,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+22.0,DALEN Andrea,F,2,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+2.0,TENDENES Lene,D,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+19.0,JORGENSEN Thea,D,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+8.0,PEDERSEN Lotte,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+9.0,NYBERG Tea,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+13.0,BERGE Ingrid,F,3,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+5.0,HAUKALI Rebekka,D,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+6.0,BJELLAND Une,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+7.0,PEDERSEN Karoline,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+10.0,FURSETH Christina,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+16.0,FURULUND Andrine,F,4,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+,PETTERSEN Thomas,He. Co.,5,NOR,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+25.0,LUGGIN Selma,GK,0,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+1.0,ADAMITSCH Anja,GK,0,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+12.0,FAZOKAS Annika,D,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+23.0,MATZKA Antonia,D,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+10.0,MEIXNER Anna,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+7.0,SCHAFZAHL Theresa,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+11.0,HOFBAUER Emma,F,1,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+13.0,GRASCHER Tamara,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+17.0,WITTICH Charlotte,D,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+21.0,DAUBOCK Lena,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+24.0,TRUMMER Anja,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+16.0,BEITER Eva,F,2,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+2.0,HABERL Meilan,D,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+19.0,HENGELMULLER Karolina,D,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+6.0,OBERMAYR Hanna,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+9.0,HANSER Anna,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+22.0,ARTNER Lena,F,3,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+5.0,LEITNER Laura,D,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+14.0,BILLA Anna,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+4.0,SCHWARZER Hanna,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+3.0,KUTZER Leonie,F,4,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+,RISKU Jari,He. Co.,5,AUT,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29903/5-nor-vs-aut,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29903/5-nor-vs-aut
+1.0,BALDIN Caroline,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+20.0,MAMERI Margaux,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+21.0,PARMENT Lea,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+22.0,GENDARME Gwendoline,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+17.0,AURARD Chloe,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+9.0,ALLEMOZ Marion,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+19.0,BAUDRIT Lore,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+14.0,LOCATELLI Athena,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+11.0,VILLIOT Lea,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+16.0,ROZIER Clara,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+12.0,DUVIN Estelle,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+8.0,ESCUDERO Lara,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+13.0,PELISSOU Marie-Pierre,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+7.0,QUARTO Lucie,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+6.0,BARBIRATI Jade,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+4.0,MESPLEDE Julia,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+18.0,BOUCHE Anouck,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+3.0,VAANANEN Mia,D,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+5.0,le SCODAN Manon,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+15.0,JOUANNY Betty,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+10.0,RIHET Morgane,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+2.0,CEDELLE Lisa,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+,TARLE Gregory,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+25.0,GABRIELE Eline,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+1.0,van LEEUWEN Claudia,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+4.0,HAMERS Kayleigh,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+14.0,MILDERS Jet,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+10.0,ZWARTHOED Julie,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+8.0,WIELENGA Savine,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+5.0,DIJKEMA Maree,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+7.0,EVEN Emily,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+23.0,HUISMAN Hilde,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+11.0,TJIN-A-TON Nicky,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+9.0,van NES Bieke,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+6.0,SCHOLLAARDT Isabelle,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+2.0,NOE Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+18.0,van OOIJEN Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+19.0,BARBIER Zoe,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+16.0,de JONG Esther,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+17.0,COLLARD Kimberly,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+12.0,KARST Roos,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+13.0,WORTEL Britt,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+3.0,HAVERKORN Larissa,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+21.0,FLINK Mandy,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+,KRONENBURG Marco,He. Co.,5,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29904/6-fra-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29904/6-fra-vs-ned
+25.0,ZIMKOVA Nikola,GK,0,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+1.0,OROLINOVA Andrea,GK,0,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+24.0,BEDNARIK Simone Martina,D,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+19.0,VYSOKAJOVA Sofia,D,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+15.0,KOSECKA Romana,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+3.0,LUCAK CUPKOVA Nicol,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+10.0,HLINKOVA Janka,F,1,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+13.0,KUBEKOVA Livia,D,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+22.0,SULIKOVA Laura,D,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+12.0,HALUSKOVA Lucia,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+2.0,FANCOVICOVA Hana,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+6.0,ISTOCYOVA Lucia,F,2,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+23.0,DRABEKOVA Lucia,D,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+11.0,LESKOVJANSKA Emilia,D,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+16.0,KORENKOVA Tatiana,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+17.0,HALUSKOVA Romana,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+21.0,SURAKOVA Annamaria,F,3,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+4.0,SULIKOVA Alzbeta,D,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+7.0,MASKALOVA Viktoria,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+14.0,MATEJKOVA Julia,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+8.0,NEMCEKOVA Nikola,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+18.0,KAPICAKOVA Barbora,F,4,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+,SEGIN Tomas,He. Co.,5,SVK,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+25.0,GABRIELE Eline,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+1.0,van LEEUWEN Claudia,GK,0,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+4.0,HAMERS Kayleigh,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+14.0,MILDERS Jet,D,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+10.0,ZWARTHOED Julie,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+8.0,WIELENGA Savine,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+5.0,DIJKEMA Maree,F,1,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+7.0,EVEN Emily,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+23.0,HUISMAN Hilde,D,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+11.0,TJIN-A-TON Nicky,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+9.0,van NES Bieke,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+6.0,SCHOLLAARDT Isabelle,F,2,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+2.0,NOE Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+18.0,van OOIJEN Michelle,D,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+19.0,BARBIER Zoe,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+16.0,de JONG Esther,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+17.0,COLLARD Kimberly,F,3,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+12.0,KARST Roos,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+13.0,WORTEL Britt,D,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+3.0,HAVERKORN Larissa,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+21.0,FLINK Mandy,F,4,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+,KRONENBURG Marco,He. Co.,5,NED,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29905/7-svk-vs-ned,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29905/7-svk-vs-ned
+25.0,LUGGIN Selma,GK,0,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+1.0,ADAMITSCH Anja,GK,0,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+23.0,MATZKA Antonia,D,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+12.0,FAZOKAS Annika,D,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+10.0,MEIXNER Anna,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+7.0,SCHAFZAHL Theresa,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+11.0,HOFBAUER Emma,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+14.0,BILLA Anna,D,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+17.0,WITTICH Charlotte,D,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+21.0,DAUBOCK Lena,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+24.0,TRUMMER Anja,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+16.0,BEITER Eva,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+2.0,HABERL Meilan,D,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+19.0,HENGELMULLER Karolina,D,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+9.0,HANSER Anna,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+13.0,GRASCHER Tamara,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+6.0,OBERMAYR Hanna,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+5.0,LEITNER Laura,D,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+22.0,ARTNER Lena,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+4.0,SCHWARZER Hanna,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+8.0,KILLIUS Katharina,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+3.0,KUTZER Leonie,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+,RISKU Jari,He. Co.,5,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+1.0,BALDIN Caroline,GK,0,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+20.0,MAMERI Margaux,GK,0,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+21.0,PARMENT Lea,D,1,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+22.0,GENDARME Gwendoline,D,1,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+17.0,AURARD Chloe,F,1,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+9.0,ALLEMOZ Marion,F,1,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+19.0,BAUDRIT Lore,F,1,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+11.0,VILLIOT Lea,D,2,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+14.0,LOCATELLI Athena,D,2,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+6.0,BARBIRATI Jade,F,2,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+12.0,DUVIN Estelle,F,2,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+16.0,ROZIER Clara,F,2,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+7.0,QUARTO Lucie,D,3,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+13.0,PELISSOU Marie-Pierre,D,3,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+15.0,JOUANNY Betty,F,3,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+10.0,RIHET Morgane,F,3,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+8.0,ESCUDERO Lara,F,3,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+3.0,VAANANEN Mia,D,4,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+2.0,CEDELLE Lisa,F,4,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+5.0,le SCODAN Manon,F,4,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+4.0,MESPLEDE Julia,F,4,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+18.0,BOUCHE Anouck,F,4,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+,TARLE Gregory,He. Co.,5,FRA,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29906/8-aut-vs-fra,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29906/8-aut-vs-fra
+25.0,LUGGIN Selma,GK,0,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+1.0,ADAMITSCH Anja,GK,0,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+23.0,MATZKA Antonia,D,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+12.0,FAZOKAS Annika,D,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+10.0,MEIXNER Anna,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+7.0,SCHAFZAHL Theresa,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+11.0,HOFBAUER Emma,F,1,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+14.0,BILLA Anna,D,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+17.0,WITTICH Charlotte,D,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+21.0,DAUBOCK Lena,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+24.0,TRUMMER Anja,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+16.0,BEITER Eva,F,2,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+19.0,HENGELMULLER Karolina,D,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+2.0,HABERL Meilan,D,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+9.0,HANSER Anna,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+13.0,GRASCHER Tamara,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+6.0,OBERMAYR Hanna,F,3,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+3.0,KUTZER Leonie,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+5.0,LEITNER Laura,D,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+22.0,ARTNER Lena,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+8.0,KILLIUS Katharina,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+4.0,SCHWARZER Hanna,F,4,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+,RISKU Jari,He. Co.,5,AUT,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+25.0,ZIMKOVA Nikola,GK,0,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+1.0,OROLINOVA Andrea,GK,0,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+24.0,BEDNARIK Simone Martina,D,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+19.0,VYSOKAJOVA Sofia,D,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+16.0,KORENKOVA Tatiana,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+3.0,LUCAK CUPKOVA Nicol,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+10.0,HLINKOVA Janka,F,1,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+13.0,KUBEKOVA Livia,D,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+22.0,SULIKOVA Laura,D,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+12.0,HALUSKOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+2.0,FANCOVICOVA Hana,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+6.0,ISTOCYOVA Lucia,F,2,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+23.0,DRABEKOVA Lucia,D,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+11.0,LESKOVJANSKA Emilia,D,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+17.0,HALUSKOVA Romana,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+14.0,MATEJKOVA Julia,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+8.0,NEMCEKOVA Nikola,F,3,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+4.0,SULIKOVA Alzbeta,D,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+15.0,KOSECKA Romana,D,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+7.0,MASKALOVA Viktoria,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+18.0,KAPICAKOVA Barbora,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+21.0,SURAKOVA Annamaria,F,4,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+,SEGIN Tomas,He. Co.,5,SVK,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29907/9-aut-vs-svk,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29907/9-aut-vs-svk
+1.0,BALDIN Caroline,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+20.0,MAMERI Margaux,GK,0,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+21.0,PARMENT Lea,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+22.0,GENDARME Gwendoline,D,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+18.0,BOUCHE Anouck,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+9.0,ALLEMOZ Marion,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+19.0,BAUDRIT Lore,F,1,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+11.0,VILLIOT Lea,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+14.0,LOCATELLI Athena,D,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+17.0,AURARD Chloe,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+12.0,DUVIN Estelle,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+16.0,ROZIER Clara,F,2,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+7.0,QUARTO Lucie,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+13.0,PELISSOU Marie-Pierre,D,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+5.0,le SCODAN Manon,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+4.0,MESPLEDE Julia,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+6.0,BARBIRATI Jade,F,3,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+3.0,VAANANEN Mia,D,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+2.0,CEDELLE Lisa,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+15.0,JOUANNY Betty,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+10.0,RIHET Morgane,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+8.0,ESCUDERO Lara,F,4,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+,TARLE Gregory,He. Co.,5,FRA,True,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+1.0,NYSTROM Ena,GK,0,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+20.0,HOLTERUD OLSSON Linnea,GK,0,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+14.0,ARDAL Malin,D,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+23.0,BERGESEN Emma,D,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+11.0,BIALIK Line,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+21.0,HAUG HANSEN Madelen,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+24.0,FISCHER Mathea,F,1,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+3.0,KONGSTORP Silje,D,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+12.0,MORSET Ingrid,D,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+15.0,KRUSE Emilie,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+17.0,BRUNVOLD Marthe,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+22.0,DALEN Andrea,F,2,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+2.0,TENDENES Lene,D,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+19.0,JORGENSEN Thea,D,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+8.0,PEDERSEN Lotte,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+9.0,NYBERG Tea,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+13.0,BERGE Ingrid,F,3,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+5.0,HAUKALI Rebekka,D,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+6.0,BJELLAND Une,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+7.0,PEDERSEN Karoline,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+10.0,FURSETH Christina,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+16.0,FURULUND Andrine,F,4,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
+,PETTERSEN Thomas,He. Co.,5,NOR,False,https://www.iihf.com//en/events/2022/wwia/gamecenter/lineup/29908/10-fra-vs-nor,https://www.iihf.com//en/events/2022/wwia/gamecenter/playbyplay/29908/10-fra-vs-nor
